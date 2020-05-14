@@ -29,7 +29,7 @@ Material para a oficina : <br />
 Live: Granada - Uma explosão de curiosidades <br /> 
 Dia: 19/05, terça-feira, das 17h às 18h <br /> 
 Faixa etária: livre <br /> 
-Link da Live: https://youtu.be/zVReXguGv-s <br /> 
+[Link da Live](https://youtu.be/zVReXguGv-s) <br /> 
 
 
 Conteúdo: <br /> 
@@ -42,7 +42,7 @@ Criando super-aviões <br />
 Oficina: Criando super-aviões <br /> 
 Dia 20/05, quarta-feira, das 17h às 18h <br /> 
 Faixa etária: de 7 a 13 anos <br /> 
-Inscrição: https://forms.gle/fvKiMc2mwwB1MWRM8 <br /> 
+[Inscrição](https://forms.gle/fvKiMc2mwwB1MWRM8) <br /> 
 Vagas Limitadas <br /> 
 *O Link da Apresentação será encaminhado por e-mail, na resposta de confirmação de inscrição. Registre corretamente o seu endereço.
 *Confira os materiais necessários para realização da oficina <br /> 
@@ -57,7 +57,7 @@ Nesta oficina, você vai aprender e aperfeiçoar a sua capacidade de construir a
 Oficina: Micromundos Explore - EcoEsfera <br /> 
 Dia: 21/05, quinta-feira, das 17h às 18h <br /> 
 Faixa etária: 08 a 16 anos <br /> 
-Inscrição: https://forms.gle/tktHKQ5hEUEJ6gSZ6 <br /> 
+[Inscrição](https://forms.gle/tktHKQ5hEUEJ6gSZ6) <br /> 
 Vagas Limitadas <br /> 
 *O Link da Apresentação será encaminhado por e-mail, na resposta de confirmação de inscrição. Registre corretamente o seu endereço.
 *Confira os materiais necessários para realização da oficina <br /> 
@@ -72,7 +72,7 @@ Live: Foguete de Cartolina <br />
 Título: Foguete de Cartolina <br /> 
 Dia: 22/05, sexta-feira, das 14h às 15h <br /> 
 Faixa etária: A partir de 9 anos <br /> 
-Link da Live:https://youtu.be/Heh5Jwt3HI4 <br /> 
+[Link da Live](https://youtu.be/Heh5Jwt3HI4) <br /> 
 
 *Confira os materiais necessários para realização das atividades propostas <br /> 
 
