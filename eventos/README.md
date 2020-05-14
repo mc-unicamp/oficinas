@@ -48,8 +48,7 @@ Vagas Limitadas <br />
 *Confira os materiais necessários para realização da oficina <br /> 
 
 Conteúdo: <br /> 
-Você sabia que é possível aprender muita coisa interessante construindo e lançando aviões de papel?
-Nesta oficina, você vai aprender e aperfeiçoar a sua capacidade de construir aviões de vários tipos, com diversos materiais recicláveis. Também aprenderá como os cientistas testam e aprimoram o vôo de uma aeronave.
+Você sabia que é possível aprender muita coisa interessante construindo e lançando aviões de papel? Nesta oficina, você vai aprender e aperfeiçoar a sua capacidade de construir aviões de vários tipos, com diversos materiais recicláveis. Também aprenderá como os cientistas testam e aprimoram o vôo de uma aeronave.
 
 
 ### Quinta Feira
