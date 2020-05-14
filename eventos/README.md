@@ -5,11 +5,11 @@ As oficinas abaixo são as atrações da variada programação online do Museu E
 
 ### Segunda Feira
 
-Oficina: Mundo dos Bloquinhos
-Dia: 18/05, segunda-feira, das 17h às 18h
-Faixa etária: 8 a 13 anos
-Inscrição: https://forms.gle/rtBdTvwFDw7xjPnL7
-Vagas Limitadas
+Oficina: Mundo dos Bloquinhos<br /> 
+Dia: 18/05, segunda-feira, das 17h às 18h<br /> 
+Faixa etária: 8 a 13 anos<br /> 
+Inscrição: https://forms.gle/rtBdTvwFDw7xjPnL7 <br /> 
+Vagas Limitadas<br /> 
 *O Link da Apresentação será encaminhado por e-mail, na resposta de confirmação de inscrição. Registre corretamente o seu endereço.
 
 Conteúdo:
