@@ -2,6 +2,7 @@
 
 ## Oficinas da Semana Nacional de Museus 2020
 As oficinas abaixo são as atrações da variada programação online do Museu Exploratório de Ciências, que integra a 18 Semana Nacional de Museus em 2020. Confira a agenda completa e aproveite.
+![iamgem1](https://drive.google.com/file/d/1WgP_ROntCobB_YNNyJH-j4FNLE5ryDrh/view)
 
 ### Segunda Feira
 
