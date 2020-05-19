@@ -2,6 +2,8 @@
 
 Este documento descreve como escrever em Markdown.
 
+Slides da apresentação: [Slides](markdown-conceitos-basicos-2020-05.pdf)
+
 ## Referências
 
 [![Daring Fireball](daring-fireball.png)](https://daringfireball.net/)
