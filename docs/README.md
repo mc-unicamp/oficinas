@@ -4,7 +4,7 @@ Este documento descreve como escrever em Markdown.
 
 ## Referências
 
-![Daring Fireball](daring-fireball.png)
+[![Daring Fireball](daring-fireball.png)](https://daringfireball.net/)
 * Site oficinal do Markdown
   * [Daring Fireball](https://daringfireball.net/)
 
