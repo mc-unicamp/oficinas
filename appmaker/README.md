@@ -1,3 +1,5 @@
+![Oficina Maker de Aplicativos](https://raw.githubusercontent.com/mc-unicamp/oficinas/master/appmaker/images/smartphone-1184883_640.png)
+
 # Oficina Maker de Aplicativos
 
 Você vira seu celular e a fotografia gira.
