@@ -8,7 +8,7 @@ Este desafio é composto por três etapas:
 
 # Micromundos
 
-[![Micromundos](images/microworlds-slider.png)](harena/scripts/playground/editor.html?source=cell/microworld-slider)
+[![Micromundos](images/microworlds-slider.png)](harena/scripts/playground/editor.html?source=cell/microworld-sliders&mode=no-script-no-hide)
 
 [![Micromundos Script](images/microworlds-script.png)](harena/scripts/playground/editor.html?source=cell/microworld-scripts)
 
