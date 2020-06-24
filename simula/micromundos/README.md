@@ -6,23 +6,11 @@ Aprendendo sobre simulação em espaço celular:
 
 Este desafio é composto por três etapas:
 
-## Etapa 1
-
-[![Etapa1](images/ecology1.png)](harena/dccs/playground/presenter.html?source=energy/ecology1)
-
-## Etapa 2
-
-[![Etapa2](images/ecology2.png)](harena/dccs/playground/presenter.html?source=energy/ecology2)
-
-## Etapa 3
-
-[![Etapa3](images/ecology3.png)](harena/dccs/playground/presenter.html?source=dccs/ecology-editor)
-
 # Micromundos
 
-[![Microworld3](images/microworlds3.png)](harena/dccs/playground/presenter.html?source=cell/microworld3)
+[![Micromundos](images/microworlds-slider.png)](harena/scripts/playground/editor.html?source=cell/microworld-slider)
 
-[![Micromundos](images/microworlds-script.png)](harena/scripts/playground/editor.html?source=cell/movement-replication-vanish-microworld)
+[![Micromundos Script](images/microworlds-script.png)](harena/scripts/playground/editor.html?source=cell/microworld-scripts)
 
 ## Imagens importadas e usadas no ambiente
 

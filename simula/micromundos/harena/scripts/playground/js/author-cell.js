@@ -46,11 +46,14 @@ class AuthorCellManager {
             caseScript.src = "gallery/" + this.source + ".js";
             document.head.appendChild(caseScript);
          }
-
          const scriptMatch = parameters.match(/mode=([\w-]+)/i);
-         if (scriptMatch != null && scriptMatch[1] == "no-script") {
-            this._scriptActive = false;
-            AuthorCellManager.stateVis["script-panel"][0] = 0;
+         if (scriptMatch != null) {
+            if (scriptMatch[1].includes("no-script")) {
+               this._scriptActive = false;
+               AuthorCellManager.stateVis["script-panel"][0] = 0;
+            }
+            if (scriptMatch[1].includes("no-hide"))
+               AuthorCellManager.stateVis["types-panel"][1] = 1;
          }
       }
       if (this._scriptActive) {

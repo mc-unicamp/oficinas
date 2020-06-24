@@ -1,24 +1,11 @@
 (function() {
-insertSource(
-"Micromundos 3",
-`<div style="width: 100%; display:flex; flex-direction:row">
-
-<div style="flex:50%">
-<dcc-space-cellular-editor id="cellular-space" cell-width="32" cell-height="32" background-color="#ccccff">
-____________________
-____________________
-____________________
-____________________
-____________________
-____________________
-____________________
-____________________
-____________________
-____________________
-____________________
-____________________
-____________________
-____________________
+AuthorCellManager.instance.insertSource(
+"Micromundos",
+[],
+`<block type="neighbor"></block>
+<block type="action"></block>`,
+`<dcc-space-cellular-editor id="cellular-space" rows="28" cols="40"
+  cell-width="16" cell-height="16" background-color="#d6f0ff" grid>
 </dcc-space-cellular-editor>
 
 <dcc-cell-image type="p" label="alga" image="images/cell/alga.svg"></dcc-cell-image>
@@ -73,18 +60,27 @@ ____________________
    ***
 </rule-dcc-cell-pair>
 
-<div>
-   <dcc-trigger label="Próximo" action="state/next"></dcc-trigger>
-   <dcc-trigger label="Play" action="timer/start"></dcc-trigger>
-   <dcc-trigger label="Stop" action="timer/stop"></dcc-trigger>
-   <dcc-trigger label="Gravar" action="state/save"></dcc-trigger>
-   <dcc-trigger label="Ler" action="state/load"></dcc-trigger>
-   <dcc-trigger label="Baixar" action="state/download"></dcc-trigger>
-</div>
+<dcc-timer cycles="100000" interval="1000" publish="state/next">
+   <subscribe-dcc topic="timer/start" role="start"></subscribe-dcc>
+   <subscribe-dcc topic="timer/stop" role="stop"></subscribe-dcc>
+</dcc-timer>
+
+<div style="flex:48px; max-height:48px; display:flex; flex-direction:row">
+   <div style="flex:20%; max-width:96px; max-height:48px">
+      <img style="max-width:48px; max-height:48px; margin-left:24px; margin-right:24px"
+           src="images/icon/zoom.svg">
+   </div>
+   <div style="flex:50%; max-height:48px; margin-right:10px">
+      <dcc-slider variable="space_scale" min="1" max="100" value="1" index></dcc-slider>
+   </div>
 </div>
 
-<div style="flex:50%">
-Selecione um dos ícones abaixo para editar o ambiente:
+<subscribe-dcc target="cellular-space" topic="type/#" role="type"></subscribe-dcc>
+<subscribe-dcc target="cellular-space" topic="state/next" role="next"></subscribe-dcc>
+<subscribe-dcc target="cellular-space" topic="state/save" role="save"></subscribe-dcc>
+<subscribe-dcc target="cellular-space" topic="state/reset" role="reset"></subscribe-dcc>
+<subscribe-dcc target="cellular-space" topic="var/space_scale/changed" role="scale"></subscribe-dcc>`,
+`Selecione um dos ícones abaixo para editar o ambiente:
 <div style="flex:48px; max-height:48px; display:flex; flex-direction:row; border:2px">
    <div style="flex:10%; max-width:48px; max-height:48px; margin-right:10px">
       <dcc-trigger label="alga" action="type/alga"
@@ -107,7 +103,6 @@ Selecione um dos ícones abaixo para editar o ambiente:
       </dcc-trigger>
    </div>
 </div>
-
 Selecione abaixo a chance de cada um dos eventos:
 <div style="flex:48px; max-height:48px; display:flex; flex-direction:row">
    <img src="images/cell/alga.svg" style="flex:10%; max-width:48px; max-height:48px">
@@ -158,12 +153,6 @@ Selecione abaixo a chance de cada um dos eventos:
    </div>
 </div>
 
-<dcc-timer cycles="100000" interval="500" publish="state/next">
-   <subscribe-dcc topic="timer/start" role="start"></subscribe-dcc>
-   <subscribe-dcc topic="timer/stop" role="stop"></subscribe-dcc>
-</dcc-timer>
-
-<subscribe-dcc target="cellular-space" topic="state/next" role="next"></subscribe-dcc>
 <subscribe-dcc target="alga-replicates" topic="var/alga_replicates/changed" role="probability">
 </subscribe-dcc>
 <subscribe-dcc target="alga-dies" topic="var/alga_dies/changed" role="probability"></subscribe-dcc>
@@ -174,13 +163,6 @@ Selecione abaixo a chance de cada um dos eventos:
 <subscribe-dcc target="tardigrade-replicates" topic="var/tardigrade_replicates/changed" role="probability">
 </subscribe-dcc>
 <subscribe-dcc target="tardigrade-dies" topic="var/tardigrade_dies/changed" role="probability">
-</subscribe-dcc>
-<subscribe-dcc target="cellular-space" topic="type/#" role="type"></subscribe-dcc>
-<subscribe-dcc target="cellular-space" topic="state/save" role="save"></subscribe-dcc>
-<subscribe-dcc target="cellular-space" topic="state/load" role="load"></subscribe-dcc>
-<subscribe-dcc target="cellular-space" topic="state/download" role="download"></subscribe-dcc>
-
-</div>
-</div>`
+</subscribe-dcc>`
 );
 })();
