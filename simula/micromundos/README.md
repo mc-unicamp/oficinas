@@ -16,7 +16,7 @@ Este desafio é composto por três etapas:
 
 ## Etapa 3
 
-[![Etapa3](images/ecology3.png)](harena/dccs/playground/presenter.html?source=energy/ecology3)
+[![Etapa3](images/ecology3.png)](harena/dccs/playground/presenter.html?source=dccs/ecology-editor)
 
 # Micromundos
 
