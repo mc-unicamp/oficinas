@@ -20,7 +20,7 @@ Este desafio é composto por três etapas:
 
 # Micromundos
 
-![[Microworld3](images/microworlds3.png)](harena/dccs/playground/presenter.html?source=cell/microworld3)
+[![Microworld3](images/microworlds3.png)](harena/dccs/playground/presenter.html?source=cell/microworld3)
 
 [![Micromundos](images/microworlds-script.png)](harena/scripts/playground/editor.html?source=cell/movement-replication-vanish-microworld)
 
