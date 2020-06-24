@@ -20,6 +20,8 @@ Este desafio é composto por três etapas:
 
 # Micromundos
 
+[Microworld3](harena/dccs/playground/presenter.html?source=energy/microworld3)
+
 [![Micromundos](images/microworlds.png)](harena/scripts/playground/editor.html?source=cell/movement-replication-vanish-microworld)
 
 ## Imagens importadas e usadas no ambiente
