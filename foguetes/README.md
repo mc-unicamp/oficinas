@@ -1,4 +1,4 @@
-# Foguetes de Cartolina
+# Foguetes de Cartolina :rocket:
 
 ## Apresentação
 Nessa oficina o céu não é mais o limite! Venha construir um foguete que, embora seja simples, é muito poderoso e pode ir longe.
