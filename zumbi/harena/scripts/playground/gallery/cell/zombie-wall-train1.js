@@ -1,11 +1,11 @@
 (function() {
 AuthorCellManager.instance.insertSource(
-"Zombie Venom Treino 1",
+"Zombie Venom Treino",
 [],
 `<block type="neighbor"></block>
 <block type="action"></block>`,
 `<dcc-space-cellular-editor id="cellular-space" cell-width="50" cell-height="50"
-  background-image="images/cell/house-background.svg" cover-image="images/cell/house-cover.svg"
+  background-image="images/cell/house-background-numbers.svg" cover-image="images/cell/house-cover.svg"
   cover-opacity="0" grid>
 ______1__a
 __________

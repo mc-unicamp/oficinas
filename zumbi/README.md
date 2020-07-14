@@ -1,12 +1,8 @@
 # Zumbi Venom
 
-# Treino 1
+# Treino
 
-[![Zumbi Treino 1](images/zombie-wall.png)](harena/scripts/playground/editor.html?source=cell/zombie-wall-train1&mode=no-script)
-
-# Treino 2
-
-[![Zumbi Treino 2](images/zombie-wall.png)](harena/scripts/playground/editor.html?source=cell/zombie-wall-train2&mode=no-script)
+[![Zumbi Treino](images/zombie-wall.png)](harena/scripts/playground/editor.html?source=cell/zombie-wall-train1&mode=no-script)
 
 # Uma Parede (Desafio)
 
