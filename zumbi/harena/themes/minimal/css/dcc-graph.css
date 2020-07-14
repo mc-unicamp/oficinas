@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+/* Trigger DCC */
+
+.dcc-node-theme, .dcc-edge-theme {
+   stroke: #212529;
+   stroke-width: 3px;
+}
+
+.dcc-node-theme {
+   fill: white;
+}
+
+.dcc-node-label-theme {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.dcc-node-label-theme div {
+
+}
