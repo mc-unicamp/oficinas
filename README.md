@@ -12,7 +12,7 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 * [Boids](https://bit.ly/museu-boids)
 * [Micro Mundos](https://bit.ly/museu-micro)
 * [Máquinas Voadoras](https://bit.ly/museu-fly2)
-* [Terra 2.0](https://bit.ly/dcc-cases-earth)
+* [Terra 2.0](http://bit.ly/dcc-cases-energy)
 * [Física e Foguetes](https://bit.ly/museu-foguetes)
 
 
