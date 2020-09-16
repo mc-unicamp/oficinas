@@ -15,6 +15,7 @@ Que tal presenciar a beleza da evolução da vida diantes dos seus olhos? Com es
 Imprima o molde abaixo em uma folha A4 na orientação retrato antes da oficina para construir as peças necessárias.
 _(Clique com o botão direto do mouse em cima da imagem, depois "Salvar imagem como" para salvar o arquivo e conseguir imprimir a imagem sem distorção)_
 
+![Molde A4](Molde_Avis_Papyrus.png)
 
 
 ## Processo
