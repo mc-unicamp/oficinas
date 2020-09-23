@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="utf-8">
+   <title>DCCs Playground</title>
+
+   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no" name="viewport">
+
+   <link rel="stylesheet" href="../../infra/css/common-player.css">
+   <link rel="stylesheet" href="../../infra/css/common-author.css">
+   <link rel="stylesheet" href="../../author/css/author.css">
+
+   <script src="../../lib/jquery-3-4-1/jquery-3.4.1.slim.min.js"></script>
+   <script src="../../lib/popper-1-15-0/popper.min.js"></script>
+   <script src="../../lib/bootstrap-4-3-1/js/bootstrap.min.js"></script>
+   <script src="../../lib/quill-1-3-7/quill.min.js"></script>
+
+   <script src="../../infra/bus.js"></script>
+   <script src="../../infra/basic.js"></script>
+   <script src="../../infra/dcc-common-server-proxy.js"></script>
+
+   <script src="../../dccs/subscribe-dcc.js"></script>
+   <script src="../../dccs/components/dcc-base.js"></script>
+   <script src="../../dccs/components/dcc-visual.js"></script>
+   <script src="../../dccs/components/dcc-markdown.js"></script>
+   <script src="../../dccs/components/editable/dcc-markdown-editable.js"></script>
+   <script src="../../dccs/components/dcc-image.js"></script>
+   <script src="../../dccs/components/editable/dcc-image-editable.js"></script>
+   <script src="../../dccs/components/dcc-expression.js"></script>
+   <script src="../../dccs/components/dcc-block.js"></script>
+   <script src="../../dccs/components/dcc-trigger.js"></script>
+   <script src="../../dccs/components/dcc-character.js"></script>
+   <script src="../../dccs/components/editable/dcc-character-editable.js"></script>
+   <script src="../../dccs/components/dcc-lively-dialog.js"></script>
+   <script src="../../dccs/components/editable/dcc-lively-dialog-editable.js"></script>
+   <script src="../../dccs/components/dcc-notice-input.js"></script>
+   <script src="../../dccs/components/dcc-state-select.js"></script>
+   <script src="../../dccs/components/dcc-image-marker.js"></script>
+   <script src="../../dccs/components/dcc-styler.js"></script>
+   <script src="../../dccs/components/dcc-entity.js"></script>
+   <script src="../../dccs/components/dcc-input.js"></script>
+   <script src="../../dccs/components/dcc-input-typed.js"></script>
+   <script src="../../dccs/components/dcc-compute.js"></script>
+   <script src="../../dccs/components/dcc-report.js"></script>
+
+</head>
+
+<body>
+   <script>
+      MessageBus.page = new MessageBus(false);
+      Basic.service.rootPath = "../../";
+   </script>
+
+  <div class="std-panel sty-main-panel" style="overflow: scroll">
+     <div class="panel-label">Image Marker</div>
+     <div id="render-panel" style="height:100%">
+        <dcc-group-marker context="ekg" image="images/ekg.png" states="empty, key, contibutes, indiferent, against">
+           <dcc-image-marker label="Difuse ST-segment elevation" coords='129,56,56,46'></dcc-image-marker>
+           <dcc-image-marker label="Difuse ST-segment elevation" coords='779,33,81,65'></dcc-image-marker>
+           <dcc-image-marker label="Difuse ST-segment elevation" coords='126,204,60,54'></dcc-image-marker>
+           <dcc-image-marker label="Difuse ST-segment elevation" coords='315,205,67,60'></dcc-image-marker>
+           <dcc-image-marker label="Difuse ST-segment elevation" coords='784,190,74,70'></dcc-image-marker>
+           <dcc-image-marker label="Difuse ST-segment elevation" coords='594,365,74,90'></dcc-image-marker>
+           <dcc-image-marker label="Difuse ST-segment elevation" coords='777,346,75,70'></dcc-image-marker>
+           <dcc-image-marker label="PR depression in DII lead" coords='374,511,50,59'></dcc-image-marker>
+           <dcc-image-marker label="PR depression in DII lead" coords='510,514,52,50'></dcc-image-marker>
+        </dcc-group-marker>
+     </div>
+  </div>
+
+   </body>
+</html>

@@ -4,15 +4,23 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 
 ## Oficinas de Simulação
 
-* [Zombie Venom](https://bit.ly/museu-zumbi)
-* [Boids](https://bit.ly/museu-boids)
-## Equilíbrio Ecológico
+### Autômatos Celulares
+* [Básico](simula/automatos/)
+* [Máquinas Voadoras](https://bit.ly/museu-fly2)
+
+### Equilíbrio Ecológico
 * [Dinossauros](simula/dinossauros/)
 * [Micro Mundos](https://bit.ly/museu-micro)
-* [Máquinas Voadoras](https://bit.ly/museu-fly2)
-* [Terra 2.0](http://bit.ly/dcc-cases-energy)
+* [Boids](https://bit.ly/museu-boids)
+
+### Simulação Física
 * [Física e Foguetes](https://bit.ly/museu-foguetes)
 
+### Inferências em Saúde
+* [Zombie Venom](https://bit.ly/museu-zumbi)
+
+### Avançado
+* [Flúidos](simula/automatos/)
 
 ## Este site foi escrito em Markdown
 
