@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+/* Selector DCC */
+
+.dcc-state-select-template:hover {
+   cursor: pointer;
+}
+
+.dcc-state-select-0-template {
+   background-color: lightgrey;
+}
+
+.dcc-state-select-1-template {
+   background-color: green;
+}
+
+.dcc-state-select-2-template {
+   background-color: blue;
+}
+
+.dcc-state-select-3-template {
+   background-color: red;
+}
