@@ -23,6 +23,7 @@ Continue ligado em nossas redes sociais para se inscrever na oficina onde você 
 
 _Em breve disponibilizaremos o passo a passo aqui também_ ;)
 
-## Referência 
+## Referência
+A oficina do Museu Exploratório de Ciências se baseou nos seguintes trabalhos
 Roteiro original: Karin Westerling, Matthew Gage Middle School , Riverside, CA
-Adaptado por: Vera Nisaka Solferini; Sónia Cristina de Andrade 
+Adaptado por: Vera Nisaka Solferini; Sónia Cristina de Andrade
