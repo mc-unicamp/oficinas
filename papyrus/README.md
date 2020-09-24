@@ -22,3 +22,7 @@ _(Clique com o botão direto do mouse em cima da imagem, depois "Salvar imagem c
 Continue ligado em nossas redes sociais para se inscrever na oficina onde você aprenderá como a evolução funciona.
 
 _Em breve disponibilizaremos o passo a passo aqui também_ ;)
+
+## Referência 
+Roteiro original: Karin Westerling, Matthew Gage Middle School , Riverside, CA
+Adaptado por: Vera Nisaka Solferini; Sónia Cristina de Andrade 
