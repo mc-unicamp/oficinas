@@ -1,6 +1,11 @@
 # Oficina de Aviões
 Iremos classificar em niveis de dificuldade o processo de montagem dos aviões de papeis.
 
+## Faixa Etária
+Faixa etária indicada: 7 a 14 anos
+
+*(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*
+
 ## Aviões Fáceis
 ### Primeiro Modelo
 **_Como Montar:_**
