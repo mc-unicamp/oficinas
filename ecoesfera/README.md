@@ -3,6 +3,11 @@
 
 Já imaginou ter um pedacinho da natureza em um pote pertinho de você? Ver um ecossistema se desenvolvendo e crescendo? Aventure-se construindo uma EcoEsfera!
 
+## Faixa Etária
+Faixa etária indicada: à partir de 8 anos
+
+*(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*
+
 ## Material:
 * Pote transparente de Vidro (Potes de Geleia, Azeitona e semelhantes) com tampa
 * Terra
