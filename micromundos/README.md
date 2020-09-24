@@ -3,7 +3,8 @@
 ## Micromundo Animal
 
 ### EcoEsfera
-[![Ecoesfera](1_ecoesfera.jpg)](https://youtu.be/p_QyTikuZa8)
+
+[<img src="1_ecoesfera.jpg" width="70%" height="70%">](https://youtu.be/p_QyTikuZa8)
 
 ### Explorando o Mundo Microscópico da Ecoesfera
 
