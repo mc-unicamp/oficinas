@@ -16,6 +16,7 @@ Já imaginou ter um pedacinho da natureza em um pote pertinho de você? Ver um e
 * Musgo seco (Esfagno)
 
 ## Montagem
-Para montar sua ecoesfera siga o passo a passo do vídeo
-[Montagem Ecoesfera](https://youtu.be/p_QyTikuZa8)
+Para montar sua ecoesfera siga o passo a passo do vídeo. (_É só clicar na imagem abaixo que você será redirecionado ao vídeo_)
+[<img src="1_ecoesfera.jpg" width="70%" height="70%">](https://youtu.be/p_QyTikuZa8)
 
+_Futuramente adicionaremos aqui o passo à passo com imagens e dicas de construção_
