@@ -5,6 +5,12 @@ Nessa oficina, recriaremos, juntos, uma representação das condições de fossi
 
 <img src="fossildino.jpeg" width="50%" height="50%">
 
+## Faixa Etária
+
+Faixa etária indicada: 5 a 16 anos
+
+*(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*
+
 ## Materiais
 
 * 2 xícaras de farinha de trigo
