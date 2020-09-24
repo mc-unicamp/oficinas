@@ -3,7 +3,7 @@
 
 Já imaginou ter um pedacinho da natureza em um pote pertinho de você? Ver um ecossistema se desenvolvendo e crescendo? Aventure-se construindo uma EcoEsfera!
 
-## Material para oficina:
+## Material:
 * Pote transparente de Vidro (Potes de Geleia, Azeitona e semelhantes) com tampa
 * Terra
 * Pedrisco
