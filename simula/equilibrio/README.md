@@ -1,18 +1,26 @@
-# Equilíbro Ecológico - Dinossauros
+# Equilíbro Ecológico
+
+## Simulando Dinossauros
 
 Este desafio é composto por três etapas:
 
-## Etapa 1
+### Etapa 1
 
 [![Etapa1](images/ecology1.png)](harena/dccs/playground/presenter.html?source=energy/ecology1)
 
-## Etapa 2
+### Etapa 2
 
 [![Etapa2](images/ecology2.png)](harena/dccs/playground/presenter.html?source=energy/ecology2)
 
-## Etapa 3
+### Etapa 3
 
 [![Etapa3](images/ecology3.png)](harena/dccs/playground/presenter.html?source=energy/ecology3)
+
+## Simulando Micromundos
+
+[![Micromundos](../micromundos/images/microworlds-slider.png)](../micromundos/harena/scripts/playground/editor.html?source=cell/microworld-sliders&mode=no-script-no-hide)
+
+[![Micromundos Script](../micromundos/images/microworlds-script.png)](../micromundos/harena/scripts/playground/editor.html?source=cell/microworld-scripts)
 
 ## Imagens importadas e usadas no ambiente
 
