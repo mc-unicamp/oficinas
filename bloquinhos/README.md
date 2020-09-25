@@ -10,3 +10,6 @@ Observação: apesar do programa rodar em tablet e celular, pode haver algumas d
 Acesso ao site com simulador: [Lets Go Biuld A...](https://dr-d-king.itch.io/lets-go-build-a)
 
 ## Como usar o simulador:
+
+Ao abrir a página teremos um grande botão escrito "Run Game", clique nele.
+![RunGame](RunGame.png)
