@@ -9,7 +9,19 @@ Observação: apesar do programa rodar em tablet e celular, pode haver algumas d
 
 Acesso ao site com simulador: [Lets Go Biuld A...](https://dr-d-king.itch.io/lets-go-build-a)
 
+
 ## Como usar o simulador:
 
+
 Ao abrir a página teremos um grande botão escrito "Run Game", clique nele.
+
 ![RunGame](RunGame.png)
+
+
+O jogo irá carregar e entrará no menu principal. Teremos apenas duas opções, dayly challenge ou random challenge (desadio diário ou desafio aleatório), clique em qualquer um dos dois.
+
+![Challenges](Challenges.png)
+
+Uma palavra em inglês será sortedada, para a oficina não iremos usá-la, apenas ignore. Uma nova ooção irá surgir, Build it (construa), vamos clicar nela.
+
+![Build it](Build it.png)
