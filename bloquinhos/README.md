@@ -26,3 +26,6 @@ Uma palavra em inglês será sortedada, para a oficina não iremos usá-la, apen
 
 ![BuildIt](Buildit.png)
 
+Agora temos a tela principal do aplicativo, vamos entender como usar a interface. Começando pelas cores das peças, basta apenas clicar na cor desejada na tabela abaixo das peças.
+
+![Cores](Cores.png)
