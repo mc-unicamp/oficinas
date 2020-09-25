@@ -24,5 +24,5 @@ O jogo irá carregar e entrará no menu principal. Teremos apenas duas opções,
 
 Uma palavra em inglês será sortedada, para a oficina não iremos usá-la, apenas ignore. Uma nova ooção irá surgir, Build it (construa), vamos clicar nela.
 
-![BuildIt](Build it.png)
+![BuildIt](Buildit.png)
 
