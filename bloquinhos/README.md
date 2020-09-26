@@ -38,3 +38,16 @@ Depois de escolher a cor e o tipo da peça, para colocá-la na base basta clicar
 
 ![ColocarPeças](Colocar_peças.png)
 
+Também é possível virar as peças antes de colocar, basta enquanto segura o botão esquedo do mouse (o clique) apertar o direito também.
+
+![VirarPeças](Virar_peças.png)
+
+Caso você não tenho um mouse físico ou esteja em um dispositivo móvel não poderá fazer a manobra desse jeito, então terá que virar a base inteira no lugar das peças. Para isso basta usar os botões localizados ao lado da tabela de cores.
+
+![VirarMesa](Virar_mesa.png)
+
+Por fim, se precisar excluir uma peça basta deixá-la fora da mesa. Porém, por vezes um bug acontece e isso não funciona, para resolver basta levar o mouse até o símbolo da lixeira no canto inferior direito e clicar nele.
+
+![ExcluirPeças](Excluir_peças.png)
+
+Essas são as instruções básicas do simulador, divirta-se usando ele, principalmente com os desafios da oficina Mundo dos Bloquinhos!
