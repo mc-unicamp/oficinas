@@ -9,6 +9,7 @@ Observação: apesar do programa rodar em tablet e celular, pode haver algumas d
 
 Acesso ao site com simulador: [Lets Go Biuld A...](https://dr-d-king.itch.io/lets-go-build-a)
 
+Este simulador é bem bonito e prático, porém tem uma limitação de 20 peças por vez.
 
 ## Como usar o simulador:
 
