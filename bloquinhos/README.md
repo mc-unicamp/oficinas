@@ -29,3 +29,12 @@ Uma palavra em inglês será sortedada, para a oficina não iremos usá-la, apen
 Agora temos a tela principal do aplicativo, vamos entender como usar a interface. Começando pelas cores das peças, basta apenas clicar na cor desejada na tabela abaixo das peças.
 
 ![Cores](Cores.png)
+
+Além disso podemos usar peças diferentes também, podendo ser acessadas nas setas abaixo das peças. Temos uma sessão de peças normais primeiro, depois das "achatadas" e por último as de formas especiais, que geralmente não são usadas na oficina, mas fique a vontade para usá-las por diversão.
+
+![TrocaPeças](Troca_de_peças.png)
+
+Depois de escolher a cor e o tipo da peça, para colocá-la na base basta clicar nela, segurar e arrastar até a posição desejada.
+
+![ColocarPeças](Colocar_peças)
+
