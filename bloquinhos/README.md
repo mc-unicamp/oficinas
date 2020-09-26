@@ -23,7 +23,7 @@ O jogo irá carregar e entrará no menu principal. Teremos apenas duas opções,
 
 ![Challenges](Challenges.png)
 
-Uma palavra em inglês será sortedada, para a oficina não iremos usá-la, apenas ignore. Uma nova ooção irá surgir, Build it (construa), vamos clicar nela.
+Uma palavra em inglês será sortedada, para a oficina não iremos usá-la, apenas ignore. Uma nova opção irá surgir, Build it (construa), vamos clicar nela.
 
 ![BuildIt](Buildit.png)
 
