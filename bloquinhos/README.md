@@ -36,5 +36,5 @@ Além disso podemos usar peças diferentes também, podendo ser acessadas nas se
 
 Depois de escolher a cor e o tipo da peça, para colocá-la na base basta clicar nela, segurar e arrastar até a posição desejada.
 
-![ColocarPeças](Colocar_peças)
+![ColocarPeças](Colocar_peças.png)
 
