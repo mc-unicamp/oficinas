@@ -1,6 +1,6 @@
 # Mundo dos Bloquinhos
 
-Na oficina, utilizamos um programa simulador de bloquinhos de montar para identificar problemas em um projeto inadequado e, na sequência, você irá criar, desenvolver e aperfeiçoar o seu próprio projeto.
+Nesta oficina, utilizamos um programa simulador de bloquinhos de montar para identificar problemas em um projeto inadequado e, na sequência, você irá criar, desenvolver e aperfeiçoar o seu próprio projeto.
 Mostre a sua habilidade criativa, explorando conceitos matemáticos, espaciais e aprofundando o conhecimento sobre frações.
 
 Para ter acesso ao software usado na oficina é necessário apenas um computador, tablet ou smartphone com navegador atualizado. 
