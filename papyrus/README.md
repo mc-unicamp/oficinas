@@ -1,7 +1,8 @@
 # A Evolução de _Pterodactylus papyrus_
 
-## Atenção! Devido a uma fenda temporal, causada pela *Exposição Tempo Profundo*, O Museu Exploratório foi invadido por seres do passado distante! A oficina Avis papyrus foi dominada pelos impiedosos _Pterodactylus papyrus_, você está pronto para essa nova aventura?
-Se prepare para compreender melhor um dos importantes mecanismos da evolução e descobrir qual a relação das Galinhas com um T-rex!
+## Atenção! Devido a uma fenda temporal, causada pela *Exposição Tempo Profundo*, O Museu Exploratório foi invadido por seres do passado distante! A oficina _Avis papyrus_ foi dominada pelos impiedosos _Pterodactylus papyrus_, você está pronto para essa nova aventura?
+
+Se prepare para compreender um dos importantes mecanismos da evolução e descobrir qual a relação das Galinhas com um T-rex!
 
 ## Materiais
 * Canudos de papel (ou de plástico, caso você ainda os tenha guardado)
