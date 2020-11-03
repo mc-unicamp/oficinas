@@ -25,9 +25,13 @@ _Em breve disponibilizaremos o passo a passo aqui também_ ;)
 
 ## Parceria
 **Exposição Tempo Profundo**
+
 Para mais informações:
+
 [Site](https://www.mc.unicamp.br/paginas/tempo-profundo)
+
 [Instagram](https://www.instagram.com/expotempoprofundo/)
+
 [Facebook](https://www.facebook.com/expotempoprofundo)
 
 ## Referência
