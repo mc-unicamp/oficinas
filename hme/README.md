@@ -1,4 +1,4 @@
-![Hack | Make | Explore](hme-banner.png)
+![Hack-Make-Explore](hme-banner.png)
 
 Numa era na qual o acesso a um imenso fluxo de informações é facilitado por novas tecnologias e novos modos de interação social, como promover a construção do conhecimento autônomo e crítico?
 
