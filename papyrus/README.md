@@ -14,9 +14,10 @@ Se prepare para compreender um dos importantes mecanismos da evolução e descob
 
 ## Molde
 Imprima o molde abaixo em uma folha A4 na orientação retrato antes da oficina para construir as peças necessárias.
+![Molde_Pterodactylus](molde_ptero.png)
 _(Clique com o botão direto do mouse em cima da imagem, depois "Salvar imagem como" para salvar o arquivo e conseguir imprimir a imagem sem distorção)_
 
-**MOLDE EM CONSTRUÇÃO, Disponível até 06/11/2020**
+
 
 
 ## Processo
