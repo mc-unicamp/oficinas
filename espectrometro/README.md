@@ -1,6 +1,6 @@
 # Espectrômetro Caseiro
 
-Nessa oficina você vai construir um aparato que o permitirá estudar a luz e entender como ele nos permite explorar o universo!
+Nessa oficina você vai construir um aparato que o permitirá estudar a luz e entender como ele nos ajuda a explorar o universo!
 
 ## Materiais
 
