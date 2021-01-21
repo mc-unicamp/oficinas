@@ -6,7 +6,7 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 Através de diferentes disciplinas e tecnologias, o método e a construção do conhecimento científico são trabalhados em nossas oficinas.
 
 ### Biologia
-* [EcoEsfera]()
+* [EcoEsfera](ecoesfera/)
 * [A Evolução de Avis papyrus]()
 
 ### Física
