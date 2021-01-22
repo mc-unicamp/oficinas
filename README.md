@@ -11,7 +11,7 @@ Através de diferentes disciplinas e tecnologias, o método e a construção do 
 
 ### Física
 * [Aviões de Papel](avioes/)
-* [Aviões de Material Reciclável]()
+* [Aviões de Material Reciclável](avioes/)
 * [Foguetes de Cartolina](foguetes/)
 * [Espectrometro Caseiro](espectrometro/)
 
@@ -23,7 +23,7 @@ Através de diferentes disciplinas e tecnologias, o método e a construção do 
 
 ### Programação
 * [Oficina Maker de Aplicativos](https://www.youtube.com/watch?v=aWxIs1wratM)
-* [Máquinas que aprendem: Júnior e Avançado]()
+* [Máquinas que aprendem: Júnior e Avançado](ml/)
 
 ## Oficinas de Simulação
 
