@@ -1,5 +1,6 @@
 # Oficina de Aviões
-Iremos classificar em niveis de dificuldade o processo de montagem dos aviões de papeis.
+
+Seja através da construção aviões de papel ou utilizando materiais recicláveis, nessa oficina do Museu, você se tornará um pequeno cientista! Utilizando e compreendendo o método científico você será capaz de dominar os céus!
 
 ## Faixa Etária
 Faixa etária indicada: 7 a 14 anos
