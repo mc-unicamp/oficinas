@@ -7,22 +7,22 @@ Através de diferentes disciplinas e tecnologias, o método e a construção do 
 
 ### Biologia
 * [EcoEsfera](ecoesfera/)
-* [A Evolução de Avis papyrus]()
+* [A Evolução de Avis papyrus](papyrus/)
 
 ### Física
-* [Aviões de Papel]()
+* [Aviões de Papel](avioes/)
 * [Aviões de Material Reciclável]()
-* [Foguetes de Cartolina]()
-* [Espectrometro Caseiro]()
+* [Foguetes de Cartolina](foguetes/)
+* [Espectrometro Caseiro](espectrometro/)
 
 ### Geologia
-* [A História de um Fóssil]()
+* [A História de um Fóssil](fossil/)
 
 ### Matemática
-* [Mundo dos Bloquinhos]()
+* [Mundo dos Bloquinhos](bloquinhos/)
 
 ### Programação
-* [Oficina Maker de Aplicativos]()
+* [Oficina Maker de Aplicativos](https://www.youtube.com/watch?v=aWxIs1wratM)
 * [Máquinas que aprendem: Júnior e Avançado]()
 
 ## Oficinas de Simulação
