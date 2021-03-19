@@ -10,7 +10,7 @@ O clima, altitude, vegetação, solo e tantas outras características, impactam 
 
 Para dar um gostinho de como é essa oficina, o Museu disponibilizou tutorais dos origamos em seu YouTube! A descrição de cada vídeo está recheada de informações e links interessantes, não esqueça de dar uma olhada lá ;)
 
-[![Playlist de Vídeos](video.png)](https://youtube.com/playlist?list=PL7FkgJrOVo2bBwugblsqzjxyxkubx507Q)
+[![Playlist de Vídeos](videos.png)](https://youtube.com/playlist?list=PL7FkgJrOVo2bBwugblsqzjxyxkubx507Q)
 
 ## Para saber mais!
 [Biomas IBGE](https://geoftp.ibge.gov.br/informacoes_ambientais/estudos_ambientais/biomas/documentos/Sintese_Descricao_Biomas.pdf)
