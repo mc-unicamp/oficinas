@@ -1,4 +1,5 @@
 # De onde esse Bicho vem?
+
 ## Biomas do Brasil
 
 "Bioma - Grande conjunto de vida vegetal e animal caracterizado pelo tipo de vegetação dominante” essa é a definição de Bioma encontrada no IBGE, mas será que é só isso mesmo? Que tal utilizarmos uma ferramenta de visualização de imagens de satélite para conhecer e explorar os diferentes biomas brasileiros, e entender o que essa definição significa. Utilizando o [Google Earth](https://earth.google.com/) vamos embarcar nessa viagem pelo Brasil!
@@ -7,5 +8,10 @@ O clima, altitude, vegetação, solo e tantas outras características, impactam 
 
 ## Tutoriais de Origamis
 
-Para dar um gostinho de como é essa oficina, o Museu disponibilizou tutorais dos origamos em seu YouTube! Na descrição de cada vídeo contamos um pouco sobre o animal que estamos fazendo, não esqueça de dar uma olhada lá ;)
+Para dar um gostinho de como é essa oficina, o Museu disponibilizou tutorais dos origamos em seu YouTube! A descrição de cada vídeo está recheada de informações e links interessantes, não esqueça de dar uma olhada lá ;)
 
+[![Playlist de Vídeos](video.png)](https://youtube.com/playlist?list=PL7FkgJrOVo2bBwugblsqzjxyxkubx507Q)
+
+## Para saber mais!
+[Biomas IBGE](https://geoftp.ibge.gov.br/informacoes_ambientais/estudos_ambientais/biomas/documentos/Sintese_Descricao_Biomas.pdf)
+[Artigo científico sobre a definição de Bioma](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-33062006000100002)
