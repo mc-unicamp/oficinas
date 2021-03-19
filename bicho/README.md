@@ -14,6 +14,8 @@ Para dar um gostinho de como é essa oficina, o Museu disponibilizou tutorais do
 
 [<img src="videos.png" width="60%" height="60%">](https://youtube.com/playlist?list=PL7FkgJrOVo2bBwugblsqzjxyxkubx507Q)
 
+_Para acessar a playlist basta clicar na imagem_
+
 ## Para saber mais!
 
 [Biomas IBGE](https://geoftp.ibge.gov.br/informacoes_ambientais/estudos_ambientais/biomas/documentos/Sintese_Descricao_Biomas.pdf)
