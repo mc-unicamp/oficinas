@@ -12,7 +12,7 @@ O clima, altitude, vegetação, solo e tantas outras características, impactam 
 
 Para dar um gostinho de como é essa oficina, o Museu disponibilizou tutorais dos origamos em seu YouTube! A descrição de cada vídeo está recheada de informações e links interessantes, não esqueça de dar uma olhada lá ;)
 
-[![Playlist de Vídeos](videos.png)](https://youtube.com/playlist?list=PL7FkgJrOVo2bBwugblsqzjxyxkubx507Q)
+[<img src="videos.png" width="60%" height="60%">](https://youtube.com/playlist?list=PL7FkgJrOVo2bBwugblsqzjxyxkubx507Q)
 
 ## Para saber mais!
 
