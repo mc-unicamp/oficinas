@@ -31,8 +31,8 @@ Através de diferentes disciplinas e tecnologias, o método e a construção do 
 * [Máquinas Voadoras](https://bit.ly/museu-fly2)
 
 ### Equilíbrio Ecológico
+* [Simulando Micro-organismos e o Equilíbrio da Vida](/simula/micromundos)
 * [Dinossauros](simula/dinossauros/)
-* [Micro Mundos](https://bit.ly/museu-micro)
 * [Boids](https://bit.ly/museu-boids)
 
 ### Simulação Física
