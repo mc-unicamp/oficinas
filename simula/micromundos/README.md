@@ -1,4 +1,12 @@
-# Simulando Micromundos
+# Simulando Micro-organismos e o Equilíbrio da Vida
+
+A Biologia continua ampliando nossa compressão sobre as impressionantes relações entre os mais diversos seres vivos e o ambiente. Nessa oficina utilizaremos um ambiente simulado para estudar e compreender uma dessas relações. Como a Terra é um sistema extremamente complexo, discutiremos a necessidade de simplificar nossa simulação e nos atentarmos para um local de estudo dentro das nossas capacidades de compreensão e processamento, no nosso caso uma parte dentro de uma EcoEsfera repleta de seres microscópicos maravilhosos. Os participantes são desafiados a colocar um micro-ecossistema em equilíbrio, podendo compreender e admirar a delicada relação entre os seres vivos, como esse equilíbrio nos afeta e como podemos ajudar a mantê-lo ou destruí-lo.
+
+##Faixa Etária
+
+Faixa etária indicada: 8 a 12 anos
+
+(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)
 
 Aprendendo sobre simulação em espaço celular:
 
