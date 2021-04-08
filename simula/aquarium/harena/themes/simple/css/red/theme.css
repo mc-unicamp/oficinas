@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.styt-button, .styt-button-option {
+  background-color: #ba2027;
+}
+
+.dcc-button-theme {
+  background-color: #ba2027;
+}
+
+.dcc-button-theme-inline {
+  color: #6e1317;
+  background-color: #ba9fa1;
+}

@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+/* Trigger DCC */
+
+.dcc-button-theme {
+   text-decoration: underline;
+   color: red;
+   display: block;
+}
+.dcc-button-theme:hover {
+   cursor: pointer;
+}
+.dcc-button-image-theme {
+   max-width: 100%;
+   max-height: 100%;
+   cursor: pointer;
+}
