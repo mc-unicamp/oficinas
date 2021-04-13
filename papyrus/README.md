@@ -12,7 +12,7 @@ Se prepare para ver a evolução atuando na prática e descobrir um dos mais imp
 
 ## Molde
 Imprima o molde abaixo em uma folha A4 na orientação retrato antes da oficina para construir as peças necessárias.
-![Molde_Avis](Molde_Avis_Papyrus.png)
+![Molde_Avis](Molde_Avis_Papyrus_3.png)
 _(Clique com o botão direto do mouse em cima da imagem, depois "Salvar imagem como" para salvar o arquivo e conseguir imprimir a imagem sem distorção)_
 
 
