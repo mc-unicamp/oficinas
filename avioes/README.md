@@ -3,7 +3,7 @@
 Seja através da construção aviões de papel ou utilizando materiais recicláveis, nessa oficina do Museu, você se tornará um pequeno cientista! Utilizando e compreendendo o método científico você será capaz de dominar os céus!
 
 ## Faixa Etária
-Faixa etária indicada: 7 a 14 anos
+Faixa etária indicada: 7 a 13 anos
 
 *(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*
 
