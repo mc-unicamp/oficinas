@@ -13,6 +13,7 @@ Faixa etária indicada: à partir de 8 anos
 * Terra
 * Pedrisco
 * Carvão de Churrasco (pedaços pequenos)
+* Pedaço pequeno de Pano, aprox. 10x10cm (Feltro/TNT/Manta Geotêxtil/Algodão/etc.)
 * Plantas pequenas, ervas daninhas, suculentas ou musgos.
 
 ## Materiais opcionais:
