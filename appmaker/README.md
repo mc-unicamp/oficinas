@@ -41,3 +41,7 @@ Recomendamos que o aplicativo seja instalado antes da oficina!
 
 ![ai2.appinventor.mit.edu/](https://producaodejogos.com/wp-content/uploads/2018/07/MIT_AI2.jpg)
 
+# Vídeo da oficina
+
+[https://www.youtube.com/watch?v=aWxIs1wratM]
+
