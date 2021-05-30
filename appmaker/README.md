@@ -12,6 +12,12 @@ Nessa oficina você vai explorar o fascinante mundo da programação e controlar
 
 Torne-se você também um inventor de aplicativos!
 
+# Faixa Etária
+
+Faixa etária indicada: à partir de 8 anos
+
+(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)
+
 # Preparando-se para a Oficina
 
 Para ter acesso à plataforma de programação, será necessária uma conta (login e senha) do Google Gmail.
