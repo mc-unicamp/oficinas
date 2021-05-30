@@ -42,7 +42,7 @@ Através de diferentes disciplinas e tecnologias, o método e a construção do 
 * [Zombie Venom](https://bit.ly/museu-zumbi)
 
 ### Avançado
-* [Flúidos](simula/automatos/)
+* [Fluídos](simula/automatos/)
 
 ## Este site foi escrito em Markdown
 
