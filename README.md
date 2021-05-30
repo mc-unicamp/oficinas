@@ -21,7 +21,7 @@ Através de diferentes disciplinas e tecnologias, o método e a construção do 
 * [Mundo dos Bloquinhos](bloquinhos/)
 
 ### Programação
-* [Oficina Maker de Aplicativos](https://www.youtube.com/watch?v=aWxIs1wratM)
+* [Oficina Maker de Aplicativos](appmaker/)
 * [Máquinas que aprendem: Júnior e Avançado](ml/)
 
 ## Oficinas de Simulação
