@@ -43,7 +43,7 @@ Recomendamos que o aplicativo seja instalado antes da oficina!
 
 # Vídeo da oficina
 
-[https://www.youtube.com/watch?v=aWxIs1wratM](https://www.youtube.com/watch?v=aWxIs1wratM)
+[https://www.youtube.com/watch?v=aWxIs1wratM]
 
 
 
