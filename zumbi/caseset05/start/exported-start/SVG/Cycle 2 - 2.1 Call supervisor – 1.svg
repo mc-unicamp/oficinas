@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-Cycle_2_-_2.1_Call_supervisor_1);
+      }
+
+      .cls-3 {
+        fill: #004270;
+      }
+
+      .cls-4, .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        stroke: #707070;
+        opacity: 0.95;
+      }
+
+      .cls-5, .cls-8 {
+        fill: #346e93;
+      }
+
+      .cls-5 {
+        font-size: 28px;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-6 {
+        fill: #ba2027;
+      }
+
+      .cls-7 {
+        font-size: 20px;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-9 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-10 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_189" data-name="Retângulo 189" class="cls-1" width="1220" height="778.276" transform="translate(866 331)"/>
+    </clipPath>
+    <clipPath id="clip-Cycle_2_-_2.1_Call_supervisor_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Cycle_2_-_2.1_Call_supervisor_1" data-name="Cycle 2 - 2.1 Call supervisor – 1" class="cls-2">
+    <rect id="Retângulo_142" data-name="Retângulo 142" class="cls-3" width="1920" height="1080"/>
+    <g id="Grupo_496" data-name="Grupo 496" transform="translate(-87 -215)">
+      <g id="Retângulo_36" data-name="Retângulo 36" class="cls-4" transform="translate(437 293)">
+        <rect class="cls-10" width="1220" height="937.4" rx="12"/>
+        <rect class="cls-1" x="0.5" y="0.5" width="1219" height="936.4" rx="11.5"/>
+      </g>
+      <text id="EKG" class="cls-5" transform="translate(473 324)"><tspan x="0" y="30">EKG</tspan></text>
+      <rect id="Retângulo_18" data-name="Retângulo 18" class="cls-6" width="139" height="59" rx="29.5" transform="translate(464 1196.4)"/>
+      <text id="Return" class="cls-7" transform="translate(502 1234.4)"><tspan x="0" y="0">Return</tspan></text>
+    </g>
+    <path id="Caminho_378" data-name="Caminho 378" class="cls-8" d="M718.094,273.854a25,25,0,1,0,25,25A25,25,0,0,0,718.094,273.854Zm16.512,35.335a1.861,1.861,0,0,1,0,2.624l-3.553,3.554a1.861,1.861,0,0,1-2.624,0l-10.335-10.335-10.335,10.335a1.861,1.861,0,0,1-2.624,0l-3.553-3.554a1.861,1.861,0,0,1,0-2.624l10.335-10.335-10.335-10.335a1.861,1.861,0,0,1,0-2.624l3.553-3.554a1.861,1.861,0,0,1,2.624,0l10.335,10.335,10.335-10.335a1.861,1.861,0,0,1,2.624,0l3.553,3.554a1.861,1.861,0,0,1,0,2.624l-10.335,10.335Z" transform="translate(810.906 -172.854)"/>
+    <g id="Grupo_de_máscara_34" data-name="Grupo de máscara 34" class="cls-9" transform="translate(-516 -148)">
+      <image id="Imagem_15" data-name="Imagem 15" width="1387.339" height="780.531" transform="translate(798.69 322.586)" xlink:href="Cycle%202%20-%202.1%20Call%20supervisor%20-%201-image.png"/>
+    </g>
+  </g>
+</svg>

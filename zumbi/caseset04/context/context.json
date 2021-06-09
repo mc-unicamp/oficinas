@@ -1,0 +1,7 @@
+{
+   "http://purl.org/versum/evidence/": {
+      "label": "Evidence",
+      "defaultNS": "evidence",
+      "resource": "states-vocabulary/evidence.jsonld"
+   }
+}

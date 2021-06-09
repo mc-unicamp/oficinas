@@ -1,0 +1,36 @@
+{
+   "@context": {
+      "@vocab": "http://purl.org/versum/evidence/",
+      "versum": "http://purl.org/versum/",
+      "evidence": "http://purl.org/versum/evidence/",
+      "title": "http://purl.org/dc/elements/1.1/title",
+      "states": {
+         "@id": "versum:States_vocabulary",
+         "@container": "@index"
+      }
+   },
+   "@id": "evidence:finding_relevance",
+   "title": "finding relevance",
+   "states": {
+      "undefined": {
+         "@id": "versum:undefined",
+         "style": "dcc-state-select-undefined",
+         "symbol": " "},
+      "key": {
+         "@id": "evidence:key_finding",
+         "style": "dcc-state-select-positive-plus",
+         "symbol": "k"},
+      "corroborates": {
+         "@id": "evidence:corroborate_finding",
+         "style": "dcc-state-select-positive",
+         "symbol": "+"},
+      "neutral": {
+         "@id": "evidence:neutral_finding",
+         "style": "dcc-state-select-neutral",
+         "symbol": "="},
+      "against": {
+         "@id": "evd:against_hypothesis",
+         "style": "dcc-state-select-negative",
+         "symbol": "-"}
+   }
+}

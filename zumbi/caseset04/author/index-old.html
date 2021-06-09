@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="utf-8"/>
+   <title>Authoring Environment</title>
+   
+   <link rel="stylesheet" href="../infra/css/common.css">
+   <link rel="stylesheet" href="css/author.css">
+   <link rel="stylesheet" href="css/properties.css">
+   <!--
+   <link rel="stylesheet" href="../themes/classic/css/presentation.css">
+   <link rel="stylesheet" href="../themes/classic/css/templates.css">
+   -->
+   <link rel="stylesheet" href="../lib/quill-1-3-7/quill.snow.css">
+   
+   <script src="../infra/bus.js"></script>
+   <script src="../infra/basic.js"></script>
+   <script src="../infra/dcc-common-server-proxy.js"></script>
+   <script src="../infra/dcc-common-server-address.js"></script>
+   <script src="../context/context.js"></script>
+
+   <script src="../dccs/components/dcc-base.js"></script>
+   <script src="../dccs/components/dcc-visual.js"></script>
+   <script src="../dccs/components/dcc-markdown.js"></script>
+   <script src="../dccs/components/dcc-image.js"></script>
+   <script src="../dccs/components/dcc-expression.js"></script>
+   <script src="../dccs/components/dcc-block.js"></script>
+   <script src="../dccs/components/dcc-trigger.js"></script>
+   <script src="../dccs/components/dcc-character.js"></script>
+   <script src="../dccs/components/dcc-lively-dialog.js"></script>
+   <script src="../dccs/components/dcc-notice-input.js"></script>
+   <script src="../dccs/components/dcc-state-select.js"></script>
+   <script src="../dccs/components/dcc-image-marker.js"></script>
+   <script src="../dccs/components/dcc-styler.js"></script>
+   <script src="../dccs/components/dcc-entity.js"></script>
+   <script src="../dccs/components/dcc-input.js"></script>
+   <script src="../dccs/components/dcc-compute.js"></script>
+   <script src="../dccs/components/dcc-report.js"></script>
+   
+   <script src="../lib/showdown-2-0-0/showdown.min.js"></script>
+   <script src="../translator/translator.js"></script>
+   <script src="../translator/item-templates.js"></script>
+   
+   <script src="../lib/quill-1-3-7/quill.min.js"></script>
+   <script src="../lib/d3.v5.min.js"></script>
+
+   <script src="js/dcc-author-server-proxy.js"></script>
+   <script src="js/panels.js"></script>
+   <script src="js/properties.js"></script>
+   <script src="js/navigator.js"></script>
+   <script src="js/author.js"></script>
+</head>
+<body onload="AuthorManager.author.start()">
+   <div class="sty-main-panel">
+      <div class="sty-control-panel std-border">
+         <div class="control-button"><dcc-trigger action="control/case/load" label="Load" image="icons/icon-load.svg"></dcc-trigger></div>
+         <div class="control-button"><dcc-trigger action="control/case/save" label="Save" image="icons/icon-save.svg"></dcc-trigger></div>
+         <div class="control-button"><dcc-trigger action="control/knot/new" label="New Knot" image="icons/icon-new-knot.svg"></dcc-trigger></div>
+         <!-- <div class="control-button"><dcc-trigger id="trigger-knot-edit" action="control/knot/edit" label="Edit Knot" image="icons/icon-edit-knot.svg"></dcc-trigger></div>
+         <div class="control-button"><dcc-trigger action="control/knot/markdown" label="Edit Knot Markdown" image="icons/icon-edit-knot-markdown.svg"></dcc-trigger></div> -->
+         <div class="control-button"><dcc-trigger action="control/case/markdown" label="Edit Case Markdown" image="icons/icon-edit-case-markdown.svg"></dcc-trigger></div>
+         <div class="control-button"><dcc-trigger action="control/case/play" label="Play" image="icons/icon-play.svg"></dcc-trigger></div>
+         <div class="control-button"><dcc-trigger action="control/config/edit" label="Config" image="icons/icon-config.svg"></dcc-trigger></div>
+         <div class="sty-message-space" id="message-space"></div>
+      </div>
+      <div class="sty-work-panel">
+         <div id="navigation-block" class="sty-navigation-block std-border">
+            <div id="navigation-panel" class="sty-navigation-panel"></div>
+            <div id="navigator-expansion" class="sty-navigation-expansion">
+               <dcc-trigger id="button-expand-nav" action="control/navigator/expand" label="Expand" image="icons/icon-expand.svg"></dcc-trigger>
+               <dcc-trigger id="button-retract-nav" action="control/navigator/retract" label="Retract" image="icons/icon-retract.svg" style="display:none"></dcc-trigger>
+            </div>
+         </div>
+         <div id="knot-panel" class="sty-knot-panel std-border"></div>
+         <div id="elements-block" class="styp-elements-block">
+            <div id="elements-panel" class="sty-control-panel std-border">
+               <div class="control-button"><dcc-trigger action="control/element/text/new" label="Text" image="icons/icon-dcc-text.svg"></dcc-trigger></div>
+               <div class="control-button"><dcc-trigger action="control/element/image/new" label="Text" image="icons/icon-dcc-image.svg"></dcc-trigger></div>
+               <div class="control-button"><dcc-trigger action="control/element/option/new" label="Text" image="icons/icon-dcc-trigger.svg"></dcc-trigger></div>
+            </div>
+            <div id="properties-block" class="styp-properties-block std-border">
+               <div id="properties-panel" class="styp-properties-panel"></div>
+               <div id="properties-buttons" class="sty-control-panel std-border" style="display:none">
+                  <div class="control-button"><dcc-trigger xstyle="in" action="properties/apply" label="Apply" image="icons/icon-check.svg"></dcc-trigger></div>
+                  <div class="control-button"><dcc-trigger xstyle="in" action="control/element/selected/up" label="Element Up" image="icons/icon-move-up.svg"></dcc-trigger></div>
+                  <div class="control-button"><dcc-trigger xstyle="in" action="control/element/selected/down" label="Element Down" image="icons/icon-move-down.svg"></dcc-trigger></div>
+                  <div class="control-button"><dcc-trigger xstyle="in" action="control/element/selected/delete" label="Delete Element" image="icons/icon-delete.svg"></dcc-trigger></div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</body>
+</html>

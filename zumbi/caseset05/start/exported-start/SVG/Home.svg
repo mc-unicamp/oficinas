@@ -1,0 +1,229 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="5876" viewBox="0 0 1920 5876">
+  <defs>
+    <style>
+      .cls-1, .cls-11, .cls-17, .cls-27, .cls-5, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-20 {
+        stroke: #a2a2a2;
+      }
+
+      .cls-16, .cls-2, .cls-20, .cls-28 {
+        fill: none;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-Home);
+      }
+
+      .cls-13, .cls-4 {
+        fill: #346e93;
+      }
+
+      .cls-13, .cls-5 {
+        font-size: 72px;
+        font-family: SegoeUIBlack, Segoe UI;
+      }
+
+      .cls-12, .cls-6, .cls-8 {
+        font-size: 36px;
+      }
+
+      .cls-11, .cls-12, .cls-17, .cls-18, .cls-21, .cls-6, .cls-9 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-7 {
+        fill: #e3e3e3;
+      }
+
+      .cls-8 {
+        fill: #666;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-9 {
+        font-size: 24px;
+        font-weight: 400;
+      }
+
+      .cls-10 {
+        fill: #ba2027;
+      }
+
+      .cls-11 {
+        font-size: 32px;
+      }
+
+      .cls-12, .cls-18, .cls-21 {
+        fill: #707070;
+      }
+
+      .cls-14 {
+        fill: #bf2027;
+      }
+
+      .cls-15 {
+        fill: #96cdef;
+      }
+
+      .cls-16 {
+        stroke: #346e93;
+      }
+
+      .cls-17, .cls-18 {
+        font-size: 20px;
+      }
+
+      .cls-19 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-21 {
+        font-size: 16px;
+      }
+
+      .cls-22 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-23 {
+        fill: #009b3a;
+      }
+
+      .cls-24 {
+        fill: #fedf00;
+      }
+
+      .cls-25 {
+        fill: #002776;
+      }
+
+      .cls-26 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-28 {
+        stroke: #707070;
+      }
+
+      .cls-29 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-2" width="1920" height="52"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Retângulo_32" data-name="Retângulo 32" class="cls-1" width="48" height="32" rx="16" transform="translate(1625 10.217)"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <ellipse id="Elipse_8" data-name="Elipse 8" cx="8.4" cy="8.4" rx="8.4" ry="8.4"/>
+    </clipPath>
+    <clipPath id="clip-Home">
+      <rect width="1920" height="5876"/>
+    </clipPath>
+  </defs>
+  <g id="Home" class="cls-3">
+    <rect class="cls-27" width="1920" height="5876"/>
+    <g id="_2" data-name="2">
+      <path id="Caminho_314" data-name="Caminho 314" class="cls-4" d="M0,0H1920V1142H0Z" transform="translate(0 1016)"/>
+      <text id="_10_casos_" data-name="+ 10 casos " class="cls-5" transform="translate(1174 1481)"><tspan x="0" y="0">+ 10 casos </tspan></text>
+      <text id="com_desafios_disgnósticos_e_interpretação_de_exames" data-name="com desafios disgnósticos e interpretação de exames" class="cls-6" transform="translate(1174 1499)"><tspan x="0" y="39">com desafios disgnósticos e </tspan><tspan x="0" y="87">interpretação de exames</tspan></text>
+      <image id="cherry-no-comments" width="619" height="746" transform="translate(350 1223)" xlink:href="Home-image.png"/>
+    </g>
+    <g id="footer">
+      <path id="Caminho_317" data-name="Caminho 317" class="cls-7" d="M0,0H1920V484H0Z" transform="translate(0 5396)"/>
+      <text id="Fale_com_o_Jacinto_jacintobemelhor_gmail.com" data-name="Fale com o Jacinto
+jacintobemelhor@gmail.com" class="cls-8" transform="translate(762 5549)"><tspan x="0" y="39">Fale com o Jacinto</tspan><tspan class="cls-9"><tspan x="0" y="74">jacintobemelhor@gmail.com</tspan></tspan></text>
+      <text id="Equipe_Fulano_da_Silva_Sauro_Reis_Ciclano_da_Mendonça_Reis_Beltrano_de_Almeida_Barros_" data-name="Equipe
+Fulano da Silva Sauro Reis
+Ciclano da Mendonça Reis
+Beltrano de Almeida Barros
+" class="cls-8" transform="translate(144 5549)"><tspan x="0" y="39">Equipe</tspan><tspan class="cls-9"><tspan x="0" y="74">Fulano da Silva Sauro Reis</tspan><tspan x="0" y="106">Ciclano da Mendonça Reis</tspan><tspan x="0" y="138">Beltrano de Almeida Barros</tspan><tspan x="0" y="170"></tspan></tspan></text>
+      <text id="Siga_o_Jacinto_Facebook_Instagram" data-name="Siga o Jacinto
+Facebook | Instagram" class="cls-8" transform="translate(1380 5549)"><tspan x="0" y="39">Siga o Jacinto</tspan><tspan class="cls-9"><tspan x="0" y="74">Facebook | Instagram</tspan></tspan></text>
+    </g>
+    <g id="_1_" data-name="1 ">
+      <rect id="Retângulo_2" data-name="Retângulo 2" class="cls-10" width="499" height="76" rx="38" transform="translate(247 669)"/>
+      <text id="Let_s_play_it" data-name="Let&apos;s play it" class="cls-11" transform="translate(409 721)"><tspan x="0" y="0">Let&apos;s play it</tspan></text>
+      <text id="Join_us_in_this_adventure_of_becoming_a_doctor" data-name="Join us in this adventure of becoming a doctor" class="cls-12" transform="translate(247 545)"><tspan x="0" y="0">Join us in this adventure of becoming a doctor</tspan></text>
+      <image id="cherry-page-not-found" width="870" height="930" transform="translate(992 101)" xlink:href="Home-image2.png"/>
+      <text id="Phil_Muchbetter:_a_clinical_reasoning_game" data-name="Phil Muchbetter: a clinical reasoning game" class="cls-13" transform="translate(247 298)"><tspan x="0" y="78">Phil Muchbetter: a </tspan><tspan x="0" y="175">clinical reasoning game</tspan></text>
+    </g>
+    <g id="_3" data-name="3">
+      <path id="Caminho_315" data-name="Caminho 315" class="cls-14" d="M0,0H1920V1079H0Z" transform="translate(0 2158)"/>
+      <text id="Raciocínio_evoluído" data-name="Raciocínio evoluído" class="cls-5" transform="translate(244 2675)"><tspan x="0" y="0">Raciocínio evoluído</tspan></text>
+      <text id="Exercite_seu_raciocínio_clínico_com_atividades_empolgantes_e_divertidas._" data-name="Exercite seu raciocínio clínico com atividades empolgantes e divertidas. " class="cls-6" transform="translate(244 2693)"><tspan x="0" y="39">Exercite seu raciocínio clínico com </tspan><tspan x="0" y="87">atividades empolgantes e divertidas. </tspan></text>
+      <image id="cherry-upgrade" width="617" height="634" transform="translate(1072 2400)" xlink:href="Home-image3.png"/>
+    </g>
+    <g id="_4" data-name="4">
+      <path id="Caminho_316" data-name="Caminho 316" class="cls-15" d="M0,0H1920V1079H0Z" transform="translate(0 3237)"/>
+      <text id="IA_tutores_reais" data-name="IA + tutores reais" class="cls-5" transform="translate(1072 3773)"><tspan x="0" y="0">IA + tutores reais</tspan></text>
+      <text id="Aprenda_utilizando_inteligência_artificial_e_tutores_reais._" data-name="Aprenda utilizando inteligência artificial e tutores reais. " class="cls-6" transform="translate(1072 3791)"><tspan x="0" y="39">Aprenda utilizando inteligência </tspan><tspan x="0" y="87">artificial e tutores reais. </tspan></text>
+      <image id="cherry-done" width="665" height="656" transform="translate(295 3444)" xlink:href="Home-image4.png"/>
+    </g>
+    <g id="_5" data-name="5">
+      <rect id="Retângulo_29" data-name="Retângulo 29" class="cls-4" width="293" height="54" rx="27" transform="translate(453 5167)"/>
+      <g id="Retângulo_30" data-name="Retângulo 30" class="cls-16" transform="translate(247 5175)">
+        <rect class="cls-29" width="293" height="38" rx="19"/>
+        <rect class="cls-2" x="0.5" y="0.5" width="292" height="37" rx="18.5"/>
+      </g>
+      <rect id="Retângulo_28" data-name="Retângulo 28" class="cls-10" width="499" height="76" rx="38" transform="translate(247 4871)"/>
+      <text id="Continue_de_onde_parou" data-name="Continue de onde parou" class="cls-17" transform="translate(492 5201)"><tspan x="0" y="0">Continue de onde parou</tspan></text>
+      <text id="Quero_ver_esse_jogo" data-name="Quero ver esse jogo" class="cls-11" transform="translate(350 4923)"><tspan x="0" y="0">Quero ver esse jogo</tspan></text>
+      <text id="Comece_agora_mesmo" data-name="Comece agora mesmo" class="cls-13" transform="translate(247 4710)"><tspan x="0" y="0">Comece agora mesmo</tspan></text>
+      <text id="Você_vai_adorar_aprender_com_esse_jogo._" data-name="Você vai adorar aprender com esse jogo. " class="cls-12" transform="translate(247 4767)"><tspan x="0" y="0">Você vai adorar aprender com esse jogo. </tspan></text>
+      <text id="Já_tem_cadastro_" data-name="Já tem cadastro?" class="cls-18" transform="translate(282 5203)"><tspan x="0" y="0">Já tem cadastro?</tspan></text>
+      <image id="cherry-success" width="713" height="657" transform="translate(1128 4510)" xlink:href="Home-image5.png"/>
+    </g>
+    <g id="Menu_superior" data-name="Menu superior" class="cls-19">
+      <rect id="Retângulo_3" data-name="Retângulo 3" class="cls-7" width="1920" height="50"/>
+      <g id="Retângulo_12" data-name="Retângulo 12" class="cls-20" transform="translate(1518 10)">
+        <rect class="cls-29" width="92" height="31.566" rx="15.783"/>
+        <rect class="cls-2" x="0.5" y="0.5" width="91" height="30.566" rx="15.283"/>
+      </g>
+      <text id="Entrar" class="cls-21" transform="translate(1543 31)"><tspan x="0" y="0">Entrar</tspan></text>
+      <g id="Grupo_de_máscara_10" data-name="Grupo de máscara 10" class="cls-22">
+        <g id="Grupo_352" data-name="Grupo 352" transform="translate(21699.588 8140.558)">
+          <rect id="Retângulo_31" data-name="Retângulo 31" class="cls-23" width="48.001" height="33.6" transform="translate(-20074.588 -8131.483)"/>
+          <path id="Caminho_318" data-name="Caminho 318" class="cls-24" d="M-1743-1100.28l19.921,12.72,19.92-12.72-19.92-12.72Z" transform="translate(-18327.506 -7014.403)"/>
+          <ellipse id="Elipse_7" data-name="Elipse 7" class="cls-25" cx="8.4" cy="8.4" rx="8.4" ry="8.4" transform="translate(-20058.783 -8123.083)"/>
+          <g id="Grupo_237" data-name="Grupo 237" class="cls-26" transform="translate(-20058.783 -8123.083)">
+            <path id="Caminho_319" data-name="Caminho 319" class="cls-27" d="M-2205-294.6a20.4,20.4,0,0,1,20.4-20.4,20.4,20.4,0,0,1,20.4,20.4h-1.2a19.2,19.2,0,0,0-19.2-19.2,19.2,19.2,0,0,0-19.2,19.2Z" transform="translate(2188.2 319.8)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Retângulo_11" data-name="Retângulo 11" class="cls-20" transform="translate(1625 10.217)">
+        <rect class="cls-29" width="48" height="32" rx="14"/>
+        <rect class="cls-2" x="0.5" y="0.5" width="47" height="31" rx="13.5"/>
+      </g>
+    </g>
+    <g id="Grupo_354" data-name="Grupo 354" transform="translate(114 194)">
+      <circle id="Elipse_9" data-name="Elipse 9" class="cls-4" cx="7.5" cy="7.5" r="7.5" transform="translate(51 285)"/>
+      <g id="Elipse_13" data-name="Elipse 13" class="cls-28" transform="translate(51 385)">
+        <circle class="cls-29" cx="7.5" cy="7.5" r="7.5"/>
+        <circle class="cls-2" cx="7.5" cy="7.5" r="7"/>
+      </g>
+      <g id="Elipse_11" data-name="Elipse 11" class="cls-28" transform="translate(51 335)">
+        <circle class="cls-29" cx="7.5" cy="7.5" r="7.5"/>
+        <circle class="cls-2" cx="7.5" cy="7.5" r="7"/>
+      </g>
+      <g id="Elipse_10" data-name="Elipse 10" class="cls-28" transform="translate(51 310)">
+        <circle class="cls-29" cx="7.5" cy="7.5" r="7.5"/>
+        <circle class="cls-2" cx="7.5" cy="7.5" r="7"/>
+      </g>
+      <g id="Elipse_12" data-name="Elipse 12" class="cls-28" transform="translate(51 360)">
+        <circle class="cls-29" cx="7.5" cy="7.5" r="7.5"/>
+        <circle class="cls-2" cx="7.5" cy="7.5" r="7"/>
+      </g>
+    </g>
+    <g id="Retângulo_101" data-name="Retângulo 101" class="cls-20" transform="translate(1389 10.217)">
+      <rect class="cls-29" width="95" height="31.566" rx="14"/>
+      <rect class="cls-2" x="0.5" y="0.5" width="94" height="30.566" rx="13.5"/>
+    </g>
+    <text id="App" class="cls-18" transform="translate(1418 34)"><tspan x="0" y="0">App</tspan></text>
+  </g>
+</svg>

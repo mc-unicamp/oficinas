@@ -1,0 +1,187 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Cycle_2_-_Check_hipothesis_1);
+      }
+
+      .cls-2 {
+        fill: #004270;
+      }
+
+      .cls-10, .cls-16, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: #707070;
+        opacity: 0.95;
+      }
+
+      .cls-13, .cls-4, .cls-7 {
+        fill: #346e93;
+      }
+
+      .cls-13, .cls-4 {
+        font-size: 28px;
+      }
+
+      .cls-4 {
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        fill: #e3e3e3;
+      }
+
+      .cls-6 {
+        fill: #666;
+      }
+
+      .cls-10, .cls-6 {
+        font-size: 20px;
+      }
+
+      .cls-10, .cls-13, .cls-6 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-15, .cls-8 {
+        fill: none;
+      }
+
+      .cls-8 {
+        stroke: #404040;
+        stroke-width: 4px;
+      }
+
+      .cls-9 {
+        fill: #85a6df;
+        stroke: #296bdc;
+      }
+
+      .cls-11, .cls-12, .cls-9 {
+        stroke-width: 2px;
+      }
+
+      .cls-11 {
+        fill: #7bca72;
+        stroke: #14b103;
+      }
+
+      .cls-12 {
+        fill: #df9885;
+        stroke: #dc4e29;
+      }
+
+      .cls-14 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-Cycle_2_-_Check_hipothesis_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Cycle_2_-_Check_hipothesis_1" data-name="Cycle 2 - Check hipothesis 1" class="cls-1">
+    <rect class="cls-16" width="1920" height="1080"/>
+    <rect id="Retângulo_195" data-name="Retângulo 195" class="cls-2" width="1920" height="1080"/>
+    <g id="Grupo_570" data-name="Grupo 570" transform="translate(-87 -215)">
+      <g id="Retângulo_36" data-name="Retângulo 36" class="cls-3" transform="translate(437 293)">
+        <rect class="cls-14" width="1220" height="937.4" rx="12"/>
+        <rect class="cls-15" x="0.5" y="0.5" width="1219" height="936.4" rx="11.5"/>
+      </g>
+      <text id="EKG_review" data-name="EKG review" class="cls-4" transform="translate(473 354)"><tspan x="0" y="30">EKG review</tspan></text>
+      <path id="Caminho_406" data-name="Caminho 406" class="cls-5" d="M29.5,0H144.556a29.5,29.5,0,0,1,0,59H29.5a29.5,29.5,0,0,1,0-59Z" transform="translate(483 1196)"/>
+      <text id="Highlight" class="cls-6" transform="translate(525 1233)"><tspan x="0" y="0">Highlight</tspan></text>
+    </g>
+    <path id="Caminho_408" data-name="Caminho 408" class="cls-7" d="M718.094,273.854a25,25,0,1,0,25,25A25,25,0,0,0,718.094,273.854Zm16.512,35.335a1.861,1.861,0,0,1,0,2.624l-3.553,3.554a1.861,1.861,0,0,1-2.624,0l-10.335-10.335-10.335,10.335a1.861,1.861,0,0,1-2.624,0l-3.553-3.554a1.861,1.861,0,0,1,0-2.624l10.335-10.335-10.335-10.335a1.861,1.861,0,0,1,0-2.624l3.553-3.554a1.861,1.861,0,0,1,2.624,0l10.335,10.335,10.335-10.335a1.861,1.861,0,0,1,2.624,0l3.553,3.554a1.861,1.861,0,0,1,0,2.624l-10.335,10.335Z" transform="translate(810.906 -172.854)"/>
+    <image id="Imagem_17" data-name="Imagem 17" width="1216" height="774" transform="translate(352 185)" xlink:href="Cycle%202%20-%20Check%20hipothesis%201-image.png"/>
+    <g id="Retângulo_199" data-name="Retângulo 199" class="cls-8" transform="translate(498 253)">
+      <rect class="cls-14" width="98" height="68" rx="24"/>
+      <rect class="cls-15" x="2" y="2" width="94" height="64" rx="22"/>
+    </g>
+    <g id="Retângulo_205" data-name="Retângulo 205" class="cls-8" transform="translate(498 428)">
+      <rect class="cls-14" width="98" height="68" rx="24"/>
+      <rect class="cls-15" x="2" y="2" width="94" height="64" rx="22"/>
+    </g>
+    <g id="Retângulo_206" data-name="Retângulo 206" class="cls-8" transform="translate(498 619)">
+      <rect class="cls-14" width="98" height="68" rx="24"/>
+      <rect class="cls-15" x="2" y="2" width="94" height="64" rx="22"/>
+    </g>
+    <g id="Retângulo_210" data-name="Retângulo 210" class="cls-8" transform="translate(498 810)">
+      <rect class="cls-14" width="98" height="68" rx="24"/>
+      <rect class="cls-15" x="2" y="2" width="94" height="64" rx="22"/>
+    </g>
+    <g id="Retângulo_200" data-name="Retângulo 200" class="cls-8" transform="translate(733 253)">
+      <rect class="cls-14" width="98" height="68" rx="24"/>
+      <rect class="cls-15" x="2" y="2" width="94" height="64" rx="22"/>
+    </g>
+    <g id="Retângulo_204" data-name="Retângulo 204" class="cls-8" transform="translate(733 428)">
+      <rect class="cls-14" width="98" height="68" rx="24"/>
+      <rect class="cls-15" x="2" y="2" width="94" height="64" rx="22"/>
+    </g>
+    <g id="Retângulo_207" data-name="Retângulo 207" class="cls-8" transform="translate(733 619)">
+      <rect class="cls-14" width="98" height="68" rx="24"/>
+      <rect class="cls-15" x="2" y="2" width="94" height="64" rx="22"/>
+    </g>
+    <g id="Retângulo_211" data-name="Retângulo 211" class="cls-8" transform="translate(733 810)">
+      <rect class="cls-14" width="98" height="68" rx="24"/>
+      <rect class="cls-15" x="2" y="2" width="94" height="64" rx="22"/>
+    </g>
+    <g id="Retângulo_201" data-name="Retângulo 201" class="cls-8" transform="translate(1016 253)">
+      <rect class="cls-14" width="98" height="68" rx="24"/>
+      <rect class="cls-15" x="2" y="2" width="94" height="64" rx="22"/>
+    </g>
+    <g id="Retângulo_203" data-name="Retângulo 203" class="cls-8" transform="translate(1016 428)">
+      <rect class="cls-14" width="98" height="68" rx="24"/>
+      <rect class="cls-15" x="2" y="2" width="94" height="64" rx="22"/>
+    </g>
+    <g id="Retângulo_208" data-name="Retângulo 208" class="cls-8" transform="translate(1016 619)">
+      <rect class="cls-14" width="98" height="68" rx="24"/>
+      <rect class="cls-15" x="2" y="2" width="94" height="64" rx="22"/>
+    </g>
+    <g id="Retângulo_212" data-name="Retângulo 212" class="cls-8" transform="translate(1016 810)">
+      <rect class="cls-14" width="98" height="68" rx="24"/>
+      <rect class="cls-15" x="2" y="2" width="94" height="64" rx="22"/>
+    </g>
+    <g id="Retângulo_202" data-name="Retângulo 202" class="cls-8" transform="translate(1299 253)">
+      <rect class="cls-14" width="98" height="68" rx="24"/>
+      <rect class="cls-15" x="2" y="2" width="94" height="64" rx="22"/>
+    </g>
+    <g id="Retângulo_198" data-name="Retângulo 198" class="cls-8" transform="translate(1290 421)">
+      <rect class="cls-14" width="113" height="68" rx="24"/>
+      <rect class="cls-15" x="2" y="2" width="109" height="64" rx="22"/>
+    </g>
+    <g id="Retângulo_209" data-name="Retângulo 209" class="cls-8" transform="translate(1290 612)">
+      <rect class="cls-14" width="113" height="68" rx="24"/>
+      <rect class="cls-15" x="2" y="2" width="109" height="64" rx="22"/>
+    </g>
+    <g id="Retângulo_213" data-name="Retângulo 213" class="cls-8" transform="translate(1290 803)">
+      <rect class="cls-14" width="113" height="68" rx="24"/>
+      <rect class="cls-15" x="2" y="2" width="109" height="64" rx="22"/>
+    </g>
+    <g id="Grupo_573" data-name="Grupo 573" transform="translate(68)">
+      <g id="Retângulo_215" data-name="Retângulo 215" class="cls-9" transform="translate(1219 143)">
+        <rect class="cls-14" width="151" height="33" rx="16.5"/>
+        <rect class="cls-15" x="1" y="1" width="149" height="31" rx="15.5"/>
+      </g>
+      <text id="are_neutral" data-name="are neutral" class="cls-10" transform="translate(1237 144)"><tspan x="10.044" y="22">are neutral</tspan></text>
+    </g>
+    <g id="Grupo_571" data-name="Grupo 571" transform="translate(68)">
+      <g id="Retângulo_214" data-name="Retângulo 214" class="cls-11" transform="translate(734 143)">
+        <rect class="cls-14" width="295" height="33" rx="16.5"/>
+        <rect class="cls-15" x="1" y="1" width="293" height="31" rx="15.5"/>
+      </g>
+      <text id="corroborates_your_hypothesis" data-name="corroborates your hypothesis" class="cls-10" transform="translate(752 144)"><tspan x="0.311" y="22">corroborates your hypothesis</tspan></text>
+    </g>
+    <g id="Grupo_572" data-name="Grupo 572" transform="translate(68)">
+      <g id="Retângulo_217" data-name="Retângulo 217" class="cls-12" transform="translate(1039 143)">
+        <rect class="cls-14" width="168" height="33" rx="16.5"/>
+        <rect class="cls-15" x="1" y="1" width="166" height="31" rx="15.5"/>
+      </g>
+      <text id="speaks_against" data-name="speaks against" class="cls-10" transform="translate(1057 144)"><tspan x="0.83" y="22">speaks against</tspan></text>
+    </g>
+    <text id="Highlight_each_marked_area_" data-name="Highlight each marked area " class="cls-13" transform="translate(803 99)"><tspan x="0" y="30">Highlight each marked area </tspan></text>
+  </g>
+</svg>

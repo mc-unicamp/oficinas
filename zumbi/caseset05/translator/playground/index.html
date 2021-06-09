@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Translator Playground</title>
+
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no" name="viewport">
+
+  <link rel="stylesheet" href="../../lib/fontawesome-5-10-1/css/all.min.css">
+  <link rel="stylesheet" href="../../lib/bootstrap-4-3-1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../lib/quill-1-3-7/quill.snow.css">
+
+  <link rel="stylesheet" href="../../infra/css/common.css">
+
+  <script src="../../lib/quill-1-3-7/quill.min.js"></script>
+  <script src="../../lib/showdown-2-0-0/showdown.min.js"></script>
+
+  <script src="../../infra/bus.js"></script>
+  <script src="../../infra/basic.js"></script>
+  <script src="../../infra/dcc-common-server-proxy.js"></script>
+  <script src="../../dccs/components/dcc-base.js"></script>
+  <script src="../../dccs/components/dcc-visual.js"></script>
+  <script src="../../dccs/components/dcc-block.js"></script>
+  <script src="../../dccs/components/dcc-trigger.js"></script>
+
+  <script src="../translator.js"></script>
+  <script src="../item-templates.js"></script>
+
+  <script>
+  function start() {
+    // window.quill = new Quill('#editor', {theme: 'snow'});
+    MessageBus.ext.subscribe("control/translate/example", translate);
+  }
+  async function translate(topic, message) {
+    let mkTranslator = new Translator();
+
+    // to test authoring render
+    mkTranslator.authoringRender = true;
+
+    // let compiled = mkTranslator.compileMarkdown("test", window.quill.getText());
+    let compiled = mkTranslator.compileMarkdown(
+                                   "test", document.querySelector("#editor").value);
+    document.querySelector("#object-results").value = JSON.stringify(compiled, null, 3);
+    let html = "";
+    for (let knot in compiled.knots) {
+      let mkHTML = await mkTranslator.generateKnotHTML(compiled.knots[knot]);
+      html += mkHTML;
+      // html += mkHTML.replace(/>/igm, "&gt;").replace(/</igm, "&lt;");
+    }
+    document.querySelector("#render-panel").value = html;
+  }
+  </script>
+
+  <title>Translator Test</title>
+</head>
+<body onload="start()">
+  <script>
+  MessageBus.page = new MessageBus(false);
+  Basic.service.rootPath = "../../";
+  </script>
+
+  <main role="main">
+    <div class="d-flex flex-column vh-100 hidden-overflow">
+      <div class="container-fluid">
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="#">Home</a></li>
+            <li class="breadcrumb-item"><a href="#">Developers</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Translator Playground</li>
+          </ol>
+        </nav>
+      </div>
+
+      <div class="container-fluid">
+        <h1>Translator Playground</h1>
+        <p class="lead">Test your Versum Script.</p>
+      </div>
+
+      <div class="container-fluid">
+        <nav class="navbar navbar-light d-flex">
+          <dcc-trigger action="control/translate/example" label="TRANSLATE" xstyle="in">
+          </dcc-trigger>
+        </nav>
+      </div>
+
+      <div class="d-flex h-100 mb-3">
+        <div class="d-flex col-6 flex-column align-items-stretch">
+          <div class="d-flex std-panel h-50 flex-column">
+            <div class="panel-label">Editor</div>
+            <div class="h-100 w-100">
+              <!-- <div id="editor" class="std-monospace ql-editor"></div> -->
+              <textarea id="editor" class="w-100 h-100 std-monospace"></textarea>
+            </div>
+          </div>
+          <div class="d-flex std-panel h-50 flex-column">
+            <div class="panel-label">Render</div>
+            <div class="d-flex h-100 w-100">
+              <textarea id="render-panel" class="w-100 h-100 std-monospace"></textarea>
+            </div>
+          </div>
+        </div>
+
+        <div class="align-items-stretch col-6">
+          <div class="std-panel h-100">
+
+            <div class="d-flex h-100 w-100 position-relative flex-column">
+              <div class="panel-label">Object Results</div>
+              <textarea id="object-results" class="w-100 h-100 std-monospace"></textarea>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+</body>
+</html>

@@ -1,0 +1,75 @@
+@charset "UTF-8";
+
+body {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 14pt;
+}
+
+.std-border {
+   border: 1px solid lightgray;
+   border-radius: 5px;
+   margin: 5px;
+}
+
+.sty-main-panel {
+   /* the main box (body) occupies all the visible area */
+   position: absolute;
+   left: 0px;
+   right: 0px;
+   top: 0px;
+   bottom: 0px;
+
+   /* eliminate margins etc. */
+   margin: 0px;
+   padding: 0px;
+   border-width: 0px;
+
+   display: flex;
+   flex-direction: column;
+}
+
+.sty-control-panel {
+   flex: 10%;
+   max-height: 48px;
+   display: flex;
+   flex-direction: row;
+}
+
+.control-button {
+   flex: 10%;
+   max-width: 48px;
+   max-height: 48px;
+   margin-right: 10px;
+}
+
+.sty-work-panel {
+   flex: 90%;
+   height: 90%;
+   max-height: 90%;
+   height: 100%;
+   display: flex;
+}
+
+@media (orientation: landscape) {
+   .work-panel {
+      flex-direction: row;
+   }
+}
+
+@media (orientation: portrait) {
+   .work-panel {
+      flex-direction: column;
+   }
+}
+
+.sty-knot-panel {
+   flex: 90%;
+   max-height: 100%;
+}
+
+.sty-note-panel {
+   border-radius: 1px;
+   box-shadow: 0px 0px 0px 30px rgba(0,0,0,0.5);
+   margin: 10px;
+   background: white;
+}

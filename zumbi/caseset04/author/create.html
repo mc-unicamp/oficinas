@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Authoring Environment</title>
+
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no" name="viewport">
+
+  <link rel="stylesheet" href="../lib/fontawesome-5-10-1/css/all.min.css">
+  <link rel="stylesheet" href="../lib/bootstrap-4-3-1/css/bootstrap.min.css">
+
+  <link rel="stylesheet" href="../infra/css/common.css">
+  <link rel="stylesheet" href="css/author.css">
+
+  <script src="../infra/bus.js"></script>
+  <script src="../infra/basic.js"></script>
+  <script src="../infra/dcc-common-server-proxy.js"></script>
+  <script src="../infra/dcc-common-server-address.js"></script>
+  <script src="js/dcc-author-server-proxy.js"></script>
+
+  <script src="../dccs/components/dcc-base.js"></script>
+  <script src="../dccs/components/dcc-visual.js"></script>
+  <script src="../dccs/components/dcc-notice-input.js"></script>
+
+  <script src="js/create.js"></script>
+</head>
+
+<body onload="TemplateManager.instance.start()">
+  <!-- Create a section to place page content -->
+  <main role="main">
+    <div class="d-flex flex-column vh-100 vw-100 home-author-padding hidden-overflow">
+      <div class="h-100 w-100 home-content-padding">
+        <div class="home-text mb-5">
+          <p>Select a template to start a new case.</p>
+        </div>
+        <div id="template-boxes" class="d-flex h-50 w-100">
+        </div>
+      </div>
+    </div>
+  </main>
+  <!-- end of div /.container -->
+
+</body>
+</html>

@@ -30,9 +30,9 @@
 
 # Jogo do Zumbi Venom
 
-Pronto! Você está pronto para jogar o <a href="http://bit.ly/zombie-venom">Zumbi Venom</a>.
+Pronto! Você está pronto para jogar o <a href="caseset05/player">Zumbi Venom</a>.
 
-[![Zumbi Venom](images/zumbi-venom.png)](http://bit.ly/zombie-venom)
+[![Zumbi Venom](images/zumbi-venom.png)](caseset05/player)
 
 ## Imagens importadas e usadas no ambiente
 

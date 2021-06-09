@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Quill Editor Playground</title>
+
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no" name="viewport">
+
+  <link rel="stylesheet" href="../../lib/fontawesome-5-10-1/css/all.min.css">
+  <link rel="stylesheet" href="../../lib/bootstrap-4-3-1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../lib/quill-1-3-7/quill.snow.css">
+
+  <link rel="stylesheet" href="../../infra/css/common.css">
+
+  <script src="../../lib/quill-1-3-7/quill.min.js"></script>
+  <script src="../../lib/showdown-2-0-0/showdown.min.js"></script>
+
+  <script src="../../infra/bus.js"></script>
+  <script src="../../infra/basic.js"></script>
+  <script src="../../infra/dcc-common-server-proxy.js"></script>
+  <script src="../../dccs/components/dcc-base.js"></script>
+  <script src="../../dccs/components/dcc-visual.js"></script>
+  <script src="../../dccs/components/dcc-block.js"></script>
+  <script src="../../dccs/components/dcc-trigger.js"></script>
+
+  <script src="../translator.js"></script>
+  <script src="../item-templates.js"></script>
+
+  <style>
+    #editor {
+       font-size: 18px;
+    }
+    .ql-contribution {
+       width: 6.3rem;
+    }
+    .dcc-state-select-0-template {
+       background-color: lightgrey;
+    }
+
+    .dcc-state-select-key-template {
+       background-color: green;
+    }
+
+    .dcc-state-select-contributes-template {
+       background-color: blue;
+    }
+
+    .dcc-state-select-indiferent-template {
+       background-color: yellow;
+    }
+
+    .dcc-state-select-against-template {
+       background-color: red;
+    }
+  </style>
+
+  <script>
+      let Clipboard = Quill.import('modules/clipboard');
+      let Delta = Quill.import('delta');
+      let quill = null;
+      let resultsPanel = null;
+      let contributionSelect = null;
+      let contributionSelectHTML = null;
+
+      class PlainClipboard extends Clipboard {
+         onCopy (e) {
+            console.log(e.clipboardData.getData('text/plain'));
+            super.onCopy(e);
+         }
+         onPaste(e) {
+            console.log(e.clipboardData.getData('text/plain'));
+            super.onPaste(e);
+         }
+      }
+
+      Quill.register('modules/clipboard', PlainClipboard, true);
+
+      let Inline = Quill.import('blots/inline');
+
+      class MetadataBlot extends Inline {
+         static create(value) {
+            let node = super.create();
+            node.setAttribute("value", value);
+            node.classList.add("dcc-state-select-" + value + "-template");
+            return node;
+         }
+
+         static formats(node) {
+            return node.getAttribute("value");
+         }
+      }
+      MetadataBlot.blotName = "metadata";
+      MetadataBlot.tagName = "span";
+      Quill.register(MetadataBlot);
+
+      function start() {
+         resultsPanel = document.querySelector("#results");
+         quill = new Quill("#editor", 
+            {theme: "snow",
+             modules: {
+                toolbar: {
+                  container:
+                     [[{"contribution": ["key", "contributes", "indiferent", "against"]}],
+                      ["bold", "italic"]],
+                  handlers: {
+                     "contribution": handleContribution
+                  }
+                }
+             }
+            });
+
+         // transforms contribution the options in HTML
+         const selectOptions =
+            document.querySelectorAll(".ql-contribution .ql-picker-item");
+         const selectItems = Array.prototype.slice.call(selectOptions);
+         selectItems.forEach(item => item.textContent = item.dataset.value);
+
+         contributionSelect = document.querySelector(
+            ".ql-contribution .ql-picker-label");
+         contributionSelectHTML = contributionSelect.innerHTML;
+         contributionSelect.innerHTML =
+            "<span style='color:lightgray'>diagnostics</span>" +
+            contributionSelectHTML;
+
+         MessageBus.ext.subscribe("control/delta/example", showDelta);
+         MessageBus.ext.subscribe("control/raw/example", showRaw);
+         MessageBus.ext.subscribe("control/clipboard/example", showClipboard);
+      }
+
+      function showDelta(topic, message) {
+         const contents = quill.getContents();
+         resultsPanel.value = JSON.stringify(contents, null, 2);
+      }
+
+      function showRaw(topic, message) {
+         const text = quill.getText();
+         let charText = "\n[";
+         for (let t in text)
+            charText += text[t] + ":" + text.charCodeAt(t) +
+                        ((t == text.length-1) ? "" : ", ");
+          resultsPanel.value = text + charText + "]";
+      }
+
+      function showClipboard(topic, message) {
+         navigator.clipboard.readText().then(clipText =>
+            {let charText = "\n[";
+             for (let t in clipText)
+                charText += clipText[t] + ":" + clipText.charCodeAt(t) +
+                            ((t == clipText.length-1) ? "" : ", ");
+             resultsPanel.value = clipText + charText + "]";
+            });
+      }
+
+      function handleContribution(contribution) {
+         contributionSelect.innerHTML = contribution + contributionSelectHTML;
+         var range = quill.getSelection();
+         quill.formatText(range.index, range.length, {
+            metadata: contribution
+         });
+      }
+  </script>
+
+  <title>Translator Test</title>
+</head>
+<body onload="start()">
+  <script>
+  MessageBus.page = new MessageBus(false);
+  Basic.service.rootPath = "../../";
+  </script>
+
+  <main role="main">
+    <div class="d-flex flex-column vh-100 hidden-overflow">
+      <div class="container-fluid">
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="#">Home</a></li>
+            <li class="breadcrumb-item"><a href="#">Developers</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Translator Playground</li>
+          </ol>
+        </nav>
+      </div>
+
+      <div class="container-fluid">
+        <h1>Quill Editor Playground</h1>
+        <p class="lead">Test the editor.</p>
+      </div>
+
+      <div class="container-fluid">
+        <nav class="navbar navbar-light d-flex">
+          <dcc-trigger action="control/delta/example" label="DELTA" xstyle="in">
+          </dcc-trigger>
+          <dcc-trigger action="control/raw/example" label="RAW" xstyle="in">
+          </dcc-trigger>
+          <dcc-trigger action="control/clipboard/example" label="CLIPBOARD" xstyle="in">
+          </dcc-trigger>
+        </nav>
+      </div>
+
+      <div class="d-flex h-100 mb-3">
+
+        <div class="align-items-stretch col-6">
+          <div class="std-panel h-100">
+            <div class="d-flex h-100 w-100 position-relative flex-column">
+              <div class="panel-label">Editor</div>
+              <div class="h-100 w-100">
+                <div id="editor" class="ql-editor h-100 w-100">Text to test...</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="align-items-stretch col-6">
+          <div class="std-panel h-100">
+            <div class="d-flex h-100 w-100 position-relative flex-column">
+              <div class="panel-label ">Object Results</div>
+              <textarea id="results" class="w-100 h-100 std-monospace"></textarea>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+</body>
+</html>

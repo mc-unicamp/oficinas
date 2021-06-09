@@ -1,0 +1,218 @@
+img { margin: 0px; border: none; padding: 0px; }
+div {
+  /* border-color: rgb(0,0,0);
+  border-style: dotted; */
+  /*display: none; invisible
+  display: block; visible
+  */
+}
+
+.show{display: block;}
+.hide{display: none;}
+
+.container{
+  width: 80%;
+  /* background: rgb(255,200,205); */
+}
+.home-image-margin{
+  margin-top: 1%;
+  border-color: rgb(52,110,147);
+  border-bottom-width: 45px;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-style: solid;
+}
+.lets-play{
+  color: white;
+  font-family: 'Lato',serif;
+  font-size: 17pt;
+  text-align: center;
+  height: 40px;
+  width: 300px;
+  background-color: rgb(186,32,39);
+  cursor: pointer;
+}
+
+.home-p-text{
+  font-family: 'Lato',serif;
+  color: rgb(130,130,130);
+  font-size: 20pt;
+}
+.home-header-text{
+  font-family: 'Lato',serif;
+  font-weight: 700;
+  font-size: 40pt;
+  font-style: bold;
+  color: rgb(52,110,147);
+}
+
+.blue-rect{
+  width: 100%;
+  height: 10%;
+  position: fixed;
+  z-index: -1;
+  background-color: rgb(52,110,147);
+  padding-left: 6%;
+  padding-right: 6%;
+}
+
+.blue_shape{
+  margin-left: 1%;
+  min-width: 240px;
+  max-width: 100%;
+  height: 120px;
+  border-color: #346e93;
+  border-style: solid;
+  border-radius: 25px;
+  position: relative;
+  cursor: pointer;
+}
+
+.grey_shape{
+  margin-left: 1%;
+  min-width: 130px;
+  max-width: 130px;
+  height: 120px;
+  border-color: rgb(100,100,100);
+  border-style: solid;
+  border-radius: 31px;
+  background:rgba(200,200,200,255);
+  position: relative;
+  cursor: pointer;
+}
+.challenge_image{
+  display: block;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  width: 7.2rem;
+  text-align: center;
+  position: relative;
+}
+.rect_red{
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  -ms-border-radius: 18px;
+  -o-border-radius: 18px;
+  -moz-border-radius: 18px;
+  -webkit-border-radius: 18px;
+  border-radius: 20px;
+  background:rgba(154,28,38,255);
+}
+
+.text-box{
+  margin-top: 5%;
+  margin-bottom: 3%;
+}
+.challenge-box{
+  overflow-x: hidden;
+  margin-top: 5%;
+  margin-bottom: 10%;
+}
+#big-challenge-box{
+  height: 100%;
+  flex: 1;
+  width: 5%;
+}
+#description_Text{
+  font-size: 12px;
+  flex-shrink: 3;
+  color:white;
+}
+#btn-go{
+  height: 100%;
+  min-width: 25%;
+  background:rgba(154,28,38,255);
+  border-radius: 15px 21px 21px 5px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  margin:0;
+  padding:0;
+  cursor: pointer;
+  border:none;
+  color:white;
+}
+.non-style{
+  color:white;
+  background:none;
+  border:none;
+  margin:0;
+  padding:0;
+  cursor: pointer;
+}
+#challenge_image{
+  top: 0px;
+  left: 0px;
+  z-index: 1;
+  width: auto;
+  height: 100%;
+}
+#locked_image{
+  z-index: 1;
+  width: auto;
+  height: auto;
+  position: absolute;
+  overflow: hidden;
+}
+
+#border_image {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+.case-head-text {
+  overflow: hidden;
+  font-family: Segoe UI;
+  font-size: 16px;
+  font-weight: bold;
+  color:#346e93;
+  height: auto;
+  text-align: center;
+}
+
+/* ------------------------------------------------------- */
+
+#grey_bg{
+  background: rgba(230,230,230,255);
+}
+#locked_challenge{
+  top: 0px;
+  left: 0px;
+  max-width: 130px;
+  max-height: 130px;
+  -ms-border-radius: 21px;
+  -o-border-radius: 21px;
+  -moz-border-radius: 21px;
+  -webkit-border-radius: 21px;
+  border-radius: 21px;
+  background:rgba(230,230,230,255);
+
+}
+.first_text{
+  font-family: Segoe UI;
+  font-size: 60px;
+  text-align: center;
+  line-height: 60px;
+  color:#346e93;
+}
+.vertical_bar{
+  font-size: 50px;
+  color: white;
+  margin-right:1%;
+}
+.second_text{
+  /* overflow: hidden; */
+  margin-top: 1%;
+  margin-bottom: 1%;
+  font-family: Segoe UI;
+  font-size: 36px;
+  text-align: center;
+  line-height: 36px;
+  color:#707070
+}

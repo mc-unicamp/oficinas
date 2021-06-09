@@ -1,0 +1,3 @@
+(function() {
+   DCCPlayerServer.localEnv = false;
+})();

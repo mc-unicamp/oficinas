@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Authoring Environment</title>
+
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no" name="viewport">
+
+  <link rel="stylesheet" href="../lib/fontawesome-5-10-1/css/all.min.css">
+  <link rel="stylesheet" href="../lib/bootstrap-4-3-1/css/bootstrap.min.css">
+
+  <link rel="stylesheet" href="../infra/css/common.css">
+  <link rel="stylesheet" href="css/author.css">
+
+  <script src="../infra/bus.js"></script>
+  <script src="../infra/basic.js"></script>
+  <script src="../infra/dcc-common-server-proxy.js"></script>
+  <script src="../infra/dcc-common-server-address.js"></script>
+
+  <script src="../dccs/components/dcc-base.js"></script>
+  <script src="../dccs/components/dcc-visual.js"></script>
+  <script src="../dccs/components/dcc-notice-input.js"></script>
+
+  <script src="js/start.js"></script>
+</head>
+
+<body onload="AuthorStart.instance.start()">
+  <!-- Create a section to place page content -->
+  <main role="main">
+    <div class="d-flex flex-column vh-100 vw-100 home-author-padding hidden-overflow">
+      <div class="h-100 w-100 home-content-padding">
+        <div class="home-text mb-5">
+          <p>Hello -Supervisor Name-!</p>
+        </div>
+        <div class="home-text">
+          <p>What would like to do today?</p>
+        </div>
+        <div class="d-flex h-50 w-100">
+          <a href="create.html" class="d-flex flex-column align-items-center justify-content-center home-author-box-content home-author-case-box">
+              Create
+              <div class="home-author-sub-text">
+                Create a new case.
+              </div>
+          </a>
+          <div class="d-flex flex-column align-items-center justify-content-center home-author-box-content home-author-case-box">
+            Case Lists
+            <div class="home-author-sub-text">
+              See the publised cases list.
+            </div>
+          </div>
+          <a href="draft.html" class="d-flex flex-column align-items-center justify-content-center home-author-box-content home-author-case-box">
+            Drafts
+            <div class="home-author-sub-text">
+              Continue editing a case.
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </main>
+  <!-- end of div /.container -->
+
+</body>
+</html>

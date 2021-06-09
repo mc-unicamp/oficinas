@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Cycle_2_-_Check_hipothesis_2_5);
+      }
+
+      .cls-2 {
+        fill: #004270;
+      }
+
+      .cls-3, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: #707070;
+        opacity: 0.95;
+      }
+
+      .cls-4 {
+        fill: #ba2027;
+      }
+
+      .cls-5 {
+        font-size: 20px;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-6, .cls-8 {
+        fill: #346e93;
+      }
+
+      .cls-7 {
+        fill: rgba(41,107,220,0.5);
+        stroke: #296bdc;
+        stroke-width: 4px;
+      }
+
+      .cls-8 {
+        font-size: 28px;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-9 {
+        stroke: none;
+      }
+
+      .cls-10 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clip-Cycle_2_-_Check_hipothesis_2_5">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Cycle_2_-_Check_hipothesis_2_5" data-name="Cycle 2 - Check hipothesis 2 – 5" class="cls-1">
+    <rect id="Retângulo_142" data-name="Retângulo 142" class="cls-2" width="1920" height="1080"/>
+    <g id="Grupo_496" data-name="Grupo 496" transform="translate(-87 -215)">
+      <g id="Retângulo_36" data-name="Retângulo 36" class="cls-3" transform="translate(437 293)">
+        <rect class="cls-9" width="1220" height="937.4" rx="12"/>
+        <rect class="cls-10" x="0.5" y="0.5" width="1219" height="936.4" rx="11.5"/>
+      </g>
+      <rect id="Retângulo_18" data-name="Retângulo 18" class="cls-4" width="139" height="59" rx="29.5" transform="translate(464 1196.4)"/>
+      <text id="Finish" class="cls-5" transform="translate(502 1234.4)"><tspan x="0" y="0">Finish</tspan></text>
+    </g>
+    <path id="Caminho_378" data-name="Caminho 378" class="cls-6" d="M718.094,273.854a25,25,0,1,0,25,25A25,25,0,0,0,718.094,273.854Zm16.512,35.335a1.861,1.861,0,0,1,0,2.624l-3.553,3.554a1.861,1.861,0,0,1-2.624,0l-10.335-10.335-10.335,10.335a1.861,1.861,0,0,1-2.624,0l-3.553-3.554a1.861,1.861,0,0,1,0-2.624l10.335-10.335-10.335-10.335a1.861,1.861,0,0,1,0-2.624l3.553-3.554a1.861,1.861,0,0,1,2.624,0l10.335,10.335,10.335-10.335a1.861,1.861,0,0,1,2.624,0l3.553,3.554a1.861,1.861,0,0,1,0,2.624l-10.335,10.335Z" transform="translate(810.906 -172.854)"/>
+    <image id="Imagem_12" data-name="Imagem 12" width="1216" height="774" transform="translate(352 185)" xlink:href="Cycle%202%20-%20Check%20hipothesis%202%20-%205-image.png"/>
+    <g id="Retângulo_176" data-name="Retângulo 176" class="cls-7" transform="translate(733 253)">
+      <rect class="cls-9" width="87" height="68" rx="24"/>
+      <rect class="cls-10" x="2" y="2" width="83" height="64" rx="22"/>
+    </g>
+    <g id="Retângulo_179" data-name="Retângulo 179" class="cls-7" transform="translate(727 435)">
+      <rect class="cls-9" width="99" height="68" rx="24"/>
+      <rect class="cls-10" x="2" y="2" width="95" height="64" rx="22"/>
+    </g>
+    <g id="Retângulo_185" data-name="Retângulo 185" class="cls-7" transform="translate(1073 622)">
+      <rect class="cls-9" width="79" height="109" rx="24"/>
+      <rect class="cls-10" x="2" y="2" width="75" height="105" rx="22"/>
+    </g>
+    <text id="EKG_review_-_Finding_3" data-name="EKG review - Finding 3" class="cls-8" transform="translate(386 139)"><tspan x="0" y="30">EKG review - Finding 3</tspan></text>
+  </g>
+</svg>

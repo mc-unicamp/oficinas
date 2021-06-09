@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Authoring Environment</title>
+
+  <!-- Tell the browser to be responsive to screen width -->
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no" name="viewport">
+
+  <link rel="stylesheet" href="../lib/fontawesome-5-10-1/css/all.min.css">
+  <link rel="stylesheet" href="../lib/bootstrap-4-3-1/css/bootstrap.min.css">
+
+  <link rel="stylesheet" href="../infra/css/common.css">
+  <link rel="stylesheet" href="css/author.css">
+
+  <script src="../lib/jquery-3-4-1/jquery-3.4.1.slim.min.js"></script>
+  <script src="../lib/popper-1-15-0/popper.min.js"></script>
+  <script src="../lib/bootstrap-4-3-1/js/bootstrap.min.js"></script>
+
+</head>
+
+<body>
+
+  <!-- Button modal trigger -->
+  <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+    Demo modal
+  </button>
+  <!-- Modal -->
+  <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-body">
+          <h5>description</h5>
+
+            <h6 class="gray-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </h6>
+
+          <h5>Introduction</h5>
+          <div class="modal-border">
+            <h6 class="gray-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</h6>
+
+          </div>
+          <button type="button" class="btn btn-outline-secondary" name="button">
+            Test
+          </button>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-outline-secondary" data-dismiss="modal">Cancel</button>
+          <button type="button" class="btn btn-secondary">Save</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--end of modal -->
+
+  <!-- Create a section to place page content -->
+  <main role="main">
+    <div class="d-flex flex-column vh-100 vw-100 scroll-y index-boot-padding">
+
+      <!-- Create breadcrumbs -->
+      <div class="container-fluid" >
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="supervisor-home.html">Home</a></li>
+            <li class="breadcrumb-item"><a href="drafts1.html">Drafts</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Preview</li>
+          </ol>
+        </nav>
+      </div>
+      <!-- End of breadcrumbs -->
+
+      <!-- Page title and description -->
+      <div class="container-fluid">
+        <h1>Preview</h1>
+        <p class="lead">Here's how your case will appear to students. You can also edit them. </p>
+      </div>
+      <!-- End of page title and description -->
+
+      <!-- Toolbar -->
+      <div class="container-fluid no-spacing">
+        <nav class="navbar navbar-light">
+          <div class="col-8">
+            <a href="#" class="btn btn-secondary btn-sm"><i class="fas fa-cog"></i> Settings</a>
+          </div>
+          <div class="navbar-sub col-2">
+            <div class="custom-control custom-switch" data-on="success" data-off="default">
+              <input type="checkbox" class="custom-control-input" id="preview-switch">
+              <label class="custom-control-label" for="preview-switch">Preview mode</label>
+            </div>
+          </div>
+          <div class="col-2">
+            <div class="btn-group" role="group" aria-label="Basic example">
+              <a href="#" class="btn btn-secondary btn-nav btn-sm"><i class="fas fa-arrow-left"></i> </a>
+              <a href="#" class="btn btn-secondary btn-nav btn-sm"><i class="fas fa-arrow-right"></i> </a>
+            </div>
+          </div>
+        </nav>
+      </div>
+      <!-- End of toolbar -->
+
+      <div class="d-flex flex-column">
+        <div class="row">
+          <div class="col-sm-3">
+            <div class="card text-center std-panel">
+
+              <h6 class="card-header">START</h6>
+              <div class="card-body">
+                <div class="container">
+                  <div class="row">
+                    <div class="col">
+                      <a href="#"><p class="card p-3">Introduction</p></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <h6 class="card-header">CYCLE 1</h6>
+              <div class="card-body ">
+                <div class="container ">
+                  <div class="row">
+                    <div class="col">
+                      <a href="#"><p class="card p-3 ">Introduction</p></a>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col">
+                      <p class="card p-3">Introduction</p>
+                    </div>
+                    <div class="col">
+                      <p class="card p-3">Introduction</p>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col">
+                      <p class="card p-3">Introduction</p>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col">
+                      <p class="card p-3">Introduction</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <h6 class="card-header">CYCLE 2</h6>
+              <div class="card-body">
+                <p class="card">Introduction</p>
+              </div>
+
+              <h6 class="card-header">FINAL</h6>
+              <div class="card-body">
+                <p class="card">Introduction</p>
+              </div>
+
+            </div>
+            <div class="container">
+              <div class="row">
+                <div class="col">
+                  <div class="custom-control custom-switch">
+                    <input type="checkbox" class="custom-control-input" id="customSwitch2">
+                    <label class="custom-control-label" for="customSwitch2">Thumbnails</label>
+                  </div>
+                </div>
+                <div class="col text-right">
+                  <p ><a href="preview2.html">Maximize <i class="fas fa-expand"></i></a></p>
+                </div>
+              </div>
+            </div>
+
+
+
+          </div>
+
+          <div class="col" id="previewimages">
+            <div class="card sticky-top">
+              <img src="images/bg.png">
+              <img src="images/character1.png">
+              <p>Imagens. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </main>
+  <!-- end of div /.container -->
+
+</body>
+</html>

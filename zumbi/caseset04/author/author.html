@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Authoring Environment</title>
+
+<!-- Tell the browser to be responsive to screen width -->
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no" name="viewport">
+
+<link rel="stylesheet" href="../lib/fontawesome-5-10-1/css/all.min.css">
+<link rel="stylesheet" href="../lib/bootstrap-4-3-1/css/bootstrap.min.css">
+
+<link rel="stylesheet" href="../infra/css/common.css">
+<link rel="stylesheet" href="../dccs/css/dccs.css">
+<link rel="stylesheet" href="css/author.css">
+<link rel="stylesheet" href="css/properties.css">
+
+<link rel="stylesheet" href="../lib/quill-1-3-7/quill.snow.css">
+
+<script src="../infra/bus.js"></script>
+<script src="../infra/basic.js"></script>
+<script src="../infra/dcc-common-server-proxy.js"></script>
+<script src="../infra/dcc-common-server-address.js"></script>
+<script src="../context/context.js"></script>
+
+<script src="../lib/quill-1-3-7/quill.min.js"></script>
+<script src="../lib/d3.v5.min.js"></script>
+
+<script src="../dccs/inplace-text-editor.js"></script>
+<script src="../dccs/components/dcc-base.js"></script>
+<script src="../dccs/components/dcc-visual.js"></script>
+<script src="../dccs/components/dcc-markdown.js"></script>
+<script src="../dccs/components/dcc-image.js"></script>
+<script src="../dccs/components/dcc-expression.js"></script>
+<script src="../dccs/components/dcc-block.js"></script>
+<script src="../dccs/components/dcc-trigger.js"></script>
+<script src="../dccs/components/dcc-character.js"></script>
+<script src="../dccs/components/dcc-lively-dialog.js"></script>
+<script src="../dccs/components/dcc-notice-input.js"></script>
+<script src="../dccs/components/dcc-state-select.js"></script>
+<script src="../dccs/components/dcc-image-marker.js"></script>
+<script src="../dccs/components/dcc-styler.js"></script>
+<script src="../dccs/components/dcc-entity.js"></script>
+<script src="../dccs/components/dcc-input.js"></script>
+<script src="../dccs/components/dcc-compute.js"></script>
+<script src="../dccs/components/dcc-report.js"></script>
+
+<script src="../lib/showdown-2-0-0/showdown.min.js"></script>
+<script src="../translator/translator.js"></script>
+<script src="../translator/item-templates.js"></script>
+
+<script src="js/dcc-author-server-proxy.js"></script>
+<script src="js/panels.js"></script>
+<script src="js/properties.js"></script>
+<script src="js/navigator.js"></script>
+<script src="js/author.js"></script>
+</head>
+
+<body onload="AuthorManager.author.start()">
+  <!-- Create a section to place page content -->
+  <main role="main">
+    <div class="d-flex flex-column vh-100 vw-100 scroll-y index-boot-padding">
+
+      <!-- Create breadcrumbs -->
+      <div class="container-fluid" >
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="supervisor-home.html">Home</a></li>
+            <li class="breadcrumb-item"><a href="drafts1.html">Drafts</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Edit case</li>
+          </ol>
+        </nav>
+      </div>
+      <!-- End of breadcrumbs -->
+
+      <!-- Page title and description -->
+      <div class="container-fluid">
+        <h1>Edit case</h1>
+        <p class="lead">Here's how your case will appear to students. You can also edit them. </p>
+      </div>
+      <!-- End of page title and description -->
+
+      <!-- Toolbar -->
+      <div class="container-fluid no-spacing">
+        <nav class="navbar navbar-light">
+          <div class="col-6">
+
+            <!--
+            <dcc-trigger action="control/case/load" label="LOAD" xstyle="in"></dcc-trigger>
+            <dcc-trigger action="control/knot/new" label="NEW KNOT" xstyle="in"> </dcc-trigger>
+            <dcc-trigger action="control/case/markdown" label="EDIT CASE MARKDOWN" xstyle="in"> </dcc-trigger>
+            <dcc-trigger action="control/case/play" label="PLAY" xstyle="in"> </dcc-trigger>
+            <dcc-trigger action="control/config/edit" label="CONFIG" xstyle="in"> </dcc-trigger>
+          -->
+          <dcc-trigger action="control/case/save" label="SAVE" xstyle="in"></dcc-trigger>
+          <div id="advanced-mode" style="display:none">
+            <dcc-trigger action="control/case/markdown" label="MARKDOWN" xstyle="in"></dcc-trigger>
+          </div>
+          <div class="sty-message-space" id="message-space"></div>
+
+          </div>
+          <div class="navbar-sub col-2">
+            <div class="custom-control custom-switch" data-on="success" data-off="default">
+              <input type="checkbox" class="custom-control-input" id="preview-switch">
+              <label class="custom-control-label" for="preview-switch">Preview mode</label>
+            </div>
+          </div>
+          <div class="col-2">
+            <div class="btn-group" role="group" aria-label="Basic example">
+              <a href="#" class="btn btn-secondary btn-nav btn-sm"><i class="fas fa-arrow-left"></i> </a>
+              <a href="#" class="btn btn-secondary btn-nav btn-sm"><i class="fas fa-arrow-right"></i> </a>
+            </div>
+          </div>
+        </nav>
+      </div>
+      <!-- End of toolbar -->
+
+      <div class="d-flex">
+          <div id="navigation-block" class="w-25">
+            <div class="sty-navigation-block">
+              <div id="navigation-panel" class="sty-navigation-panel std-border"></div>
+            </div>
+            <div class="container">
+              <div class="row">
+                <div class="col">
+                  <div class="custom-control custom-switch">
+                    <input type="checkbox" class="custom-control-input" id="customSwitch2">
+                    <label class="custom-control-label" for="customSwitch2">Thumbnails</label>
+                  </div>
+                </div>
+                <div class="col text-right">
+                  <p ><a href="preview2.html">Maximize <i class="fas fa-expand"></i></a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="w-75 d-flex" id="knot-main">
+            <div id="navigator-expansion" class="sty-navigation-expansion">
+                <div id="navigation-set" class="sty-navigation-set">
+                  <dcc-trigger id="button-expand-nav" action="control/navigator/expand" label="Expand" image="icons/icon-expansion-right.svg"></dcc-trigger>
+                  <dcc-trigger id="button-retract-nav" action="control/navigator/retract" label="Retract" image="icons/icon-expansion-left.svg"></dcc-trigger>
+                </div>
+            </div>
+            <div class="w-100">
+              <div id="inplace-editor-wrapper" class="sticky-top std-border">
+                <div id="knot-panel" class="sty-knot-panel"></div>
+              </div>
+            </div>
+            <div id="properties-expansion" class="sty-navigation-expansion">
+                <dcc-trigger id="button-expand-prop" action="control/properties/expand" label="Expand" image="icons/icon-expansion-left.svg"></dcc-trigger>
+                <dcc-trigger id="button-retract-prop" action="control/properties/retract" label="Retract" image="icons/icon-expansion-right.svg" style="display:none"></dcc-trigger>
+            </div>
+          </div>
+
+          <div id="elements-main" class="d-flex">
+            <div id="elements-block" class="styp-elements-block" style="display:none">
+               <div id="elements-panel" class="sty-control-panel std-border">
+                  <div class="control-button"><dcc-trigger action="control/element/text/new" label="Text" image="icons/icon-dcc-text.svg"></dcc-trigger></div>
+                  <div class="control-button"><dcc-trigger action="control/element/image/new" label="Text" image="icons/icon-dcc-image.svg"></dcc-trigger></div>
+                  <div class="control-button"><dcc-trigger action="control/element/option/new" label="Text" image="icons/icon-dcc-trigger.svg"></dcc-trigger></div>
+               </div>
+               <div id="properties-block" class="styp-properties-block std-border">
+                  <div id="properties-panel" class="styp-properties-panel"></div>
+                  <div id="properties-buttons" class="sty-control-panel std-border" style="display:none">
+                     <div class="control-button"><dcc-trigger xstyle="in" action="properties/apply" label="Apply" image="icons/icon-check.svg"></dcc-trigger></div>
+                     <div class="control-button"><dcc-trigger xstyle="in" action="control/element/selected/up" label="Element Up" image="icons/icon-move-up.svg"></dcc-trigger></div>
+                     <div class="control-button"><dcc-trigger xstyle="in" action="control/element/selected/down" label="Element Down" image="icons/icon-move-down.svg"></dcc-trigger></div>
+                     <div class="control-button"><dcc-trigger xstyle="in" action="control/element/selected/delete" label="Delete Element" image="icons/icon-delete.svg"></dcc-trigger></div>
+                  </div>
+               </div>
+            </div>
+          </div>
+</div>
+
+</div>
+</main>
+<!-- end of div /.container -->
+
+</body>
+</html>

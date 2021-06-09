@@ -1,0 +1,206 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1, .cls-12, .cls-2, .cls-22 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        stroke: #707070;
+      }
+
+      .cls-15, .cls-2 {
+        stroke: #a2a2a2;
+      }
+
+      .cls-15, .cls-3, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-Experimente_1_);
+      }
+
+      .cls-5 {
+        stroke: #346e93;
+      }
+
+      .cls-24, .cls-6 {
+        fill: #346e93;
+      }
+
+      .cls-6 {
+        font-size: 72px;
+        font-family: SegoeUIBlack, Segoe UI;
+      }
+
+      .cls-16, .cls-26, .cls-7, .cls-8 {
+        fill: #707070;
+      }
+
+      .cls-7 {
+        font-size: 36px;
+      }
+
+      .cls-12, .cls-16, .cls-7, .cls-8 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-8 {
+        font-size: 28px;
+      }
+
+      .cls-9 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-10 {
+        fill: url(#pattern);
+      }
+
+      .cls-11 {
+        fill: #ba2027;
+      }
+
+      .cls-12 {
+        font-size: 32px;
+      }
+
+      .cls-13 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-14 {
+        fill: #e3e3e3;
+      }
+
+      .cls-16 {
+        font-size: 16px;
+      }
+
+      .cls-17 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-18 {
+        fill: #009b3a;
+      }
+
+      .cls-19 {
+        fill: #fedf00;
+      }
+
+      .cls-20 {
+        fill: #002776;
+      }
+
+      .cls-21 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-23 {
+        clip-path: url(#clip-path-5);
+      }
+
+      .cls-25 {
+        clip-path: url(#clip-path-6);
+      }
+
+      .cls-27 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_17" data-name="Retângulo 17" class="cls-1" width="322" height="62" transform="translate(534 680)"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 1600 557">
+      <image width="1600" height="557" xlink:href="Experimente%201-image.png"/>
+    </pattern>
+    <clipPath id="clip-path-2">
+      <rect class="cls-3" width="1920" height="52"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Retângulo_32" data-name="Retângulo 32" class="cls-2" width="48" height="32" rx="16" transform="translate(1625 10.217)"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <ellipse id="Elipse_8" data-name="Elipse 8" cx="8.4" cy="8.4" rx="8.4" ry="8.4"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect class="cls-3" width="73" height="73"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect class="cls-3" width="36" height="32"/>
+    </clipPath>
+    <clipPath id="clip-Experimente_1_">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Experimente_1_" data-name="Experimente 1 " class="cls-4">
+    <rect class="cls-22" width="1920" height="1080"/>
+    <g id="Retângulo_15" data-name="Retângulo 15" class="cls-5" transform="translate(830 595)">
+      <rect class="cls-27" width="517.319" height="61" rx="30.5"/>
+      <rect class="cls-3" x="0.5" y="0.5" width="516.319" height="60" rx="30"/>
+    </g>
+    <text id="Consegue_resolver_este_desafio_" data-name="Consegue resolver este desafio?" class="cls-6" transform="translate(413 239)"><tspan x="0" y="0">Consegue resolver este desafio?</tspan></text>
+    <text id="Veja_um_caso_completo_do_início_ao_fim._" data-name="Veja um caso completo, do início ao fim. " class="cls-7" transform="translate(413 296)"><tspan x="0" y="0">Veja um caso completo, do início ao fim. </tspan></text>
+    <g id="Retângulo_13" data-name="Retângulo 13" class="cls-5" transform="translate(830 409)">
+      <rect class="cls-27" width="517.319" height="61" rx="30.5"/>
+      <rect class="cls-3" x="0.5" y="0.5" width="516.319" height="60" rx="30"/>
+    </g>
+    <g id="Retângulo_14" data-name="Retângulo 14" class="cls-5" transform="translate(830 502)">
+      <rect class="cls-27" width="517.319" height="61" rx="30.5"/>
+      <rect class="cls-3" x="0.5" y="0.5" width="516.319" height="60" rx="30"/>
+    </g>
+    <g id="Retângulo_16" data-name="Retângulo 16" class="cls-5" transform="translate(830 595)">
+      <rect class="cls-27" width="517.319" height="61" rx="30.5"/>
+      <rect class="cls-3" x="0.5" y="0.5" width="516.319" height="60" rx="30"/>
+    </g>
+    <text id="Seu_nome" data-name="Seu nome" class="cls-8" transform="translate(554 451)"><tspan x="0" y="0">Seu nome</tspan></text>
+    <text id="Seu_e-mail" data-name="Seu e-mail" class="cls-8" transform="translate(554 544)"><tspan x="0" y="0">Seu e-mail</tspan></text>
+    <text id="Sua_idade" data-name="Sua idade" class="cls-8" transform="translate(554 637)"><tspan x="0" y="0">Sua idade</tspan></text>
+    <text id="Como_você_está_hoje_" data-name="Como você está hoje?" class="cls-8" transform="translate(554 677)"><tspan x="0" y="30">Como você </tspan><tspan x="0" y="67">está hoje?</tspan></text>
+    <g id="Grupo_de_máscara_1" data-name="Grupo de máscara 1" class="cls-9" transform="translate(296 8)">
+      <rect id="Imagem_1" data-name="Imagem 1" class="cls-10" width="337" height="117" transform="translate(525 665)"/>
+    </g>
+    <rect id="Retângulo_18" data-name="Retângulo 18" class="cls-11" width="536" height="117" rx="58.5" transform="translate(830 819)"/>
+    <text id="Quero_tentar_" data-name="Quero tentar!" class="cls-12" transform="translate(1003 891)"><tspan x="0" y="0">Quero tentar!</tspan></text>
+    <g id="Menu_superior" data-name="Menu superior" class="cls-13">
+      <rect id="Retângulo_3" data-name="Retângulo 3" class="cls-14" width="1920" height="50"/>
+      <g id="Retângulo_12" data-name="Retângulo 12" class="cls-15" transform="translate(1518 10)">
+        <rect class="cls-27" width="92" height="31.566" rx="15.783"/>
+        <rect class="cls-3" x="0.5" y="0.5" width="91" height="30.566" rx="15.283"/>
+      </g>
+      <text id="Entrar" class="cls-16" transform="translate(1543 31)"><tspan x="0" y="0">Entrar</tspan></text>
+      <g id="Grupo_de_máscara_10" data-name="Grupo de máscara 10" class="cls-17">
+        <g id="Grupo_352" data-name="Grupo 352" transform="translate(21699.588 8140.558)">
+          <rect id="Retângulo_31" data-name="Retângulo 31" class="cls-18" width="48.001" height="33.6" transform="translate(-20074.588 -8131.483)"/>
+          <path id="Caminho_318" data-name="Caminho 318" class="cls-19" d="M-1743-1100.28l19.921,12.72,19.92-12.72-19.92-12.72Z" transform="translate(-18327.506 -7014.403)"/>
+          <ellipse id="Elipse_7" data-name="Elipse 7" class="cls-20" cx="8.4" cy="8.4" rx="8.4" ry="8.4" transform="translate(-20058.783 -8123.083)"/>
+          <g id="Grupo_237" data-name="Grupo 237" class="cls-21" transform="translate(-20058.783 -8123.083)">
+            <path id="Caminho_319" data-name="Caminho 319" class="cls-22" d="M-2205-294.6a20.4,20.4,0,0,1,20.4-20.4,20.4,20.4,0,0,1,20.4,20.4h-1.2a19.2,19.2,0,0,0-19.2-19.2,19.2,19.2,0,0,0-19.2,19.2Z" transform="translate(2188.2 319.8)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Retângulo_11" data-name="Retângulo 11" class="cls-15" transform="translate(1625 10.217)">
+        <rect class="cls-27" width="48" height="32" rx="14"/>
+        <rect class="cls-3" x="0.5" y="0.5" width="47" height="31" rx="13.5"/>
+      </g>
+    </g>
+    <g id="Seta_voltar" data-name="Seta voltar" class="cls-23" transform="translate(473.5 100)">
+      <circle id="Elipse_5" data-name="Elipse 5" class="cls-24" cx="36.5" cy="36.5" r="36.5"/>
+      <path id="Caminho_320" data-name="Caminho 320" class="cls-22" d="M863.02,182.135H832.728a.519.519,0,0,1-.367-.887l6.732-6.732a.519.519,0,0,0,0-.734l-4.641-4.641a.519.519,0,0,0-.734,0l-12.995,12.995h-.054v.054L817.26,185.6a.52.52,0,0,0,0,.735l16.457,16.457a.519.519,0,0,0,.734,0l4.641-4.641a.519.519,0,0,0,0-.734l-6.788-6.788a.519.519,0,0,1,.367-.887H863.02a.519.519,0,0,0,.519-.519v-6.564A.519.519,0,0,0,863.02,182.135Z" transform="translate(-804.108 -148.988)"/>
+    </g>
+    <g id="Símbolo_3_6" data-name="Símbolo 3 – 6" class="cls-25" transform="translate(1452 10.217)">
+      <g id="home" transform="translate(455.303 386.855)">
+        <g id="Grupo_491" data-name="Grupo 491" transform="translate(-448.001 -380.006)">
+          <path id="Caminho_375" data-name="Caminho 375" class="cls-26" d="M73.45,120.939l-7.738,6.38a.183.183,0,0,1-.007.04.184.184,0,0,0-.007.04v6.46a.874.874,0,0,0,.861.862h5.168v-5.168h3.446v5.168h5.168a.875.875,0,0,0,.862-.862V127.4a.19.19,0,0,0-.014-.08Z" transform="translate(-62.601 -117.453)"/>
+          <path id="Caminho_376" data-name="Caminho 376" class="cls-26" d="M21.548,55.406,18.6,52.956V47.465a.415.415,0,0,0-.431-.431H15.586a.414.414,0,0,0-.431.431V50.09l-3.284-2.746a1.67,1.67,0,0,0-2.045,0L.149,55.406A.391.391,0,0,0,0,55.695a.436.436,0,0,0,.094.316l.834,1a.459.459,0,0,0,.283.148.5.5,0,0,0,.323-.094L10.848,49.3l9.313,7.766a.415.415,0,0,0,.283.094h.04a.46.46,0,0,0,.283-.148l.834-1a.436.436,0,0,0,.094-.317A.392.392,0,0,0,21.548,55.406Z" transform="translate(0.001 -46.994)"/>
+        </g>
+      </g>
+      <g id="Retângulo_43" data-name="Retângulo 43" class="cls-15">
+        <rect class="cls-27" width="36" height="32" rx="14"/>
+        <rect class="cls-3" x="0.5" y="0.5" width="35" height="31" rx="13.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+{"Starting Minimal":
+   {"description": "Minimal template.",
+    "path": "basic/starting_minimal",
+    "icon": "basic/images/picture_up_left.png",
+    "scope": "case"},
+ "Picture Up-Left":
+   {"description": "Template with a picture in the up-left corner.",
+    "path": "basic/picture_up_left",
+    "icon": "basic/images/picture_up_left.png",
+    "scope": "knot"},
+ "Picture Up-Right":
+   {"description": "Template with a picture in the up-right corner.",
+    "path": "basic/picture_up_right",
+    "icon": "basic/images/picture_up_right.png",
+    "scope": "knot"},
+ "Jacinto Standard EKG":
+   {"description": "Standard cycle with an EKG.",
+    "path": "jacinto/standard_eletro",
+    "icon": "jacinto/images/standard_eletro.png",
+    "scope": "case"},
+ "Jacinto Supervisor":
+   {"description": "Standard supervisor assistance.",
+    "path": "jacinto/standard_supervisor",
+    "icon": "jacinto/images/standard_supervisor.png",
+    "scope": "knot"}
+}

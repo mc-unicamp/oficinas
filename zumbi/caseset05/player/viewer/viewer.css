@@ -1,0 +1,56 @@
+.main-panel {
+   /* the main box (body) occupies all the visible area */
+   position: absolute;
+   left: 0px;
+   right: 0px;
+   top: 0px;
+   bottom: 0px;
+
+   /* eliminate margins etc. */
+   margin: 0px;
+   padding: 0px;
+   border-width: 0px;
+
+   display: flex;
+   flex-direction: column;
+   
+   overflow: hidden;
+}
+
+.zoom-panel {
+   width: 100%;
+   height: auto;
+   max-height: 90%;
+   flex: auto;
+   overflow: hidden;
+}
+
+.control-panel {
+   flex: 100px;
+   max-height: 100px;
+   width: 100%;
+   height: 100px;
+}
+
+.control-set {
+   display: block;
+   width: 300px;
+   height: 100%;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.control {
+ 	 width: 100px;
+	 height: 100px;
+   cursor: pointer;
+}
+
+@keyframes image-anim {
+}
+
+.image-zoom {
+  animation-duration: 5s;
+  animation-fill-mode: forwards;
+  animation-name: image-anim;
+}

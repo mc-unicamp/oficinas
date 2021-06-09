@@ -1,0 +1,44 @@
+
+  .bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+
+  body {
+    padding-top: 5rem;
+  }
+
+.card-footer .btn {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+nav.navbar {
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #e6e6e6;
+  border-top: 1px #dddddd solid;
+  padding-top: 30px;
+  margin-top: 30px;
+}
+
+#previewimages {
+  height: 100vh;
+}
+
+#previewimages img {
+  max-width: 100%;
+  position: absolute;
+}

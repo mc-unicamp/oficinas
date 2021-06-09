@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <!-- meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <!-- Reference CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/main.css"/>
+
+  <title>Phil Muchbetter Game</title>
+</head>
+
+<body>
+
+  <div class="container" onclick="ExtendDescription()">
+    <div class="text-box">
+      <div class="first_text">Go with the flow</div>
+      <div class="second_text">Let Phil choose your next challenges</div>
+    </div>
+    <div class="d-flex justify-content-center challenge-box" id="challenge-flex-grid">
+      <!-- Create a animated challenge container -->
+      <div class="blue_shape d-flex align-items-center justify-content-start" id="challenge-1" onclick="AnimDescription(this)">
+        <div class="order-1 challenge_image">
+          <div class="rect_red">
+            <img src= "img/challenge_1.png" id="challenge_image" />
+          </div>
+        </div>
+        <div class=" p-2 order-2 case-head-text" id="challenge_text">
+          Challenge 1
+        </div>
+
+        <div class="hide" id="big-challenge-box">
+          <div class="order-1 vertical_bar">
+            |
+          </div>
+
+          <div class="order-2 text-wrap" id="description_Text">
+            Man, 51 years old, present to an emergency department complaining of chest pain.
+          </div>
+
+          <div class="order-3 d-flex align-items-center justify-content-center ml-auto" id="btn-go" onclick="window.location.href='https://harena.ds4h.org/space/player/index.html?case=phillmuchbetter-case01'">
+            Go
+          </div>
+        </div>
+
+      </div>
+      <!-- Creates a locked challenge -->
+      <div class="grey_shape d-flex shrink-1 justify-content-center align-items-center">
+        <img src="img/locked_challenge.png" id="locked_image" />
+      </div>
+      <div class="grey_shape d-flex shrink-1 justify-content-center align-items-center">
+        <img src="img/locked_challenge.png" id="locked_image" />
+      </div>
+      <div class="grey_shape d-flex shrink-1 justify-content-center align-items-center">
+        <img src="img/locked_challenge.png" id="locked_image" />
+      </div>
+      <div class="grey_shape d-flex shrink-1 justify-content-center align-items-center">
+        <img src="img/locked_challenge.png" id="locked_image" />
+      </div>
+      <div class="grey_shape d-flex shrink-1 justify-content-center align-items-center">
+        <img src="img/locked_challenge.png" id="locked_image" />
+      </div>
+    </div>
+
+    <div class="text-box">
+      <div class="first_text">You've got the power</div>
+      <div class="second_text">You choose the next challenge</div>
+    </div>
+    <!-- Creates a case container -->
+    <div class="d-flex flex-row justify-content-center challenge-box">
+      <div class="blue_shape d-flex justify-content-end align-items-center">
+        <div class="p-2 ml-auto case-head-text">
+          Case 1
+        </div>
+        <div class="challenge_image">
+          <img src="img/case_1.png" id="challenge_image" />
+        </div>
+      </div>
+      <div class="blue_shape d-flex justify-content-end align-items-center">
+        <div class="p-2 ml-auto case-head-text">
+          Case 2
+        </div>
+        <div class="challenge_image">
+          <img src="img/case_2.png" id="challenge_image" />
+        </div>
+      </div>
+      <div class="blue_shape d-flex justify-content-end align-items-center">
+        <div class="p-2 ml-auto case-head-text">
+          Case 3
+        </div>
+        <div class="challenge_image">
+          <img src="img/case_3.png" id="challenge_image" />
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/Js_Anim.js"> </script>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+</html>

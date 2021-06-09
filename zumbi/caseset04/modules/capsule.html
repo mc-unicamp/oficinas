@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="utf-8"/>
+   <title>Knot Capsule</title>
+
+   <link rel="stylesheet" href="../player/css/player.css">
+   
+   <script src="../infra/bus.js"></script>
+   <script src="../infra/basic.js"></script>
+   <script src="../infra/dcc-common-server-proxy.js"></script>
+   <script src="../infra/dcc-common-server-address.js"></script>
+
+   <script src="../lib/showdown-2-0-0/showdown.min.js"></script>
+
+   <script src="../translator/translator.js"></script>
+   <script src="../translator/item-templates.js"></script>
+
+   <script src="../player/js/tracker.js"></script>
+   <script src="../player/js/state.js"></script>
+   <script src="../player/js/dcc-player-server-proxy.js"></script>
+   <script src="../player/js/player.js"></script>
+   
+   <script src="js/knot-capsule.js"></script>
+
+   <script src="../dccs/components/dcc-base.js"></script>
+   <script src="../dccs/components/dcc-visual.js"></script>
+   <script src="../dccs/components/dcc-expression.js"></script>
+   <script src="../dccs/components/dcc-block.js"></script>
+   <script src="../dccs/components/dcc-trigger.js"></script>
+   <script src="../dccs/components/dcc-character.js"></script>
+   <script src="../dccs/components/editable/dcc-character-editable.js"></script>
+   <script src="../dccs/components/dcc-lively-dialog.js"></script>
+   <script src="../dccs/components/editable/dcc-lively-dialog-editable.js"></script>
+   <script src="../dccs/components/dcc-state-select.js"></script>
+   <script src="../dccs/components/dcc-image-marker.js"></script>
+   <script src="../dccs/components/dcc-styler.js"></script>
+   <script src="../dccs/components/dcc-entity.js"></script>
+   <script src="../dccs/components/dcc-input.js"></script>
+   <script src="../dccs/components/dcc-compute.js"></script>
+   <script src="../dccs/components/dcc-report.js"></script>
+</head>
+<body onload="CapsuleManager.capsule.startCapsule()"
+      style="width: 100%; height: {height}px; margin: 0px{scale}">
+   <script>PlayerManager.isCapsule = true;</script>
+   <div id="main-panel" class="sty-main-panel">
+      {knot}
+   </div>
+</body>
+</html>

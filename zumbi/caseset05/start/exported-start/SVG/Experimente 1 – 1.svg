@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-10, .cls-2 {
+        fill: none;
+      }
+
+      .cls-10, .cls-3 {
+        stroke: #a2a2a2;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-Experimente_1_1);
+      }
+
+      .cls-18, .cls-5 {
+        fill: #346e93;
+      }
+
+      .cls-5 {
+        font-size: 72px;
+        font-family: SegoeUIBlack, Segoe UI;
+      }
+
+      .cls-11, .cls-6 {
+        fill: #707070;
+      }
+
+      .cls-6 {
+        font-size: 36px;
+      }
+
+      .cls-11, .cls-6, .cls-8 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-7 {
+        fill: #e3e3e3;
+      }
+
+      .cls-8 {
+        fill: #666;
+        font-size: 32px;
+      }
+
+      .cls-9 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-11 {
+        font-size: 16px;
+      }
+
+      .cls-12 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-13 {
+        fill: #009b3a;
+      }
+
+      .cls-14 {
+        fill: #fedf00;
+      }
+
+      .cls-15 {
+        fill: #002776;
+      }
+
+      .cls-16 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-17 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-19 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-2" width="1920" height="52"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Retângulo_32" data-name="Retângulo 32" class="cls-3" width="48" height="32" rx="16" transform="translate(1625 10.217)"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <ellipse id="Elipse_8" data-name="Elipse 8" cx="8.4" cy="8.4" rx="8.4" ry="8.4"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect class="cls-2" width="73" height="73"/>
+    </clipPath>
+    <clipPath id="clip-Experimente_1_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Experimente_1_1" data-name="Experimente 1 – 1" class="cls-4">
+    <rect class="cls-1" width="1920" height="1080"/>
+    <text id="Envie_sua_foto" data-name="Envie sua foto" class="cls-5" transform="translate(556 239)"><tspan x="0" y="0">Envie sua foto</tspan></text>
+    <text id="Fulano_envie_uma_imagem_que_te_represente._" data-name="Fulano, envie uma imagem que te represente. " class="cls-6" transform="translate(556 296)"><tspan x="0" y="0">Fulano, envie uma imagem que te represente. </tspan></text>
+    <rect id="Retângulo_18" data-name="Retângulo 18" class="cls-7" width="396" height="117" rx="58.5" transform="translate(762 819)"/>
+    <text id="Enviar_imagem" data-name="Enviar imagem" class="cls-8" transform="translate(856 891)"><tspan x="0" y="0">Enviar imagem</tspan></text>
+    <g id="Menu_superior" data-name="Menu superior" class="cls-9">
+      <rect id="Retângulo_3" data-name="Retângulo 3" class="cls-7" width="1920" height="50"/>
+      <g id="Retângulo_12" data-name="Retângulo 12" class="cls-10" transform="translate(1518 10)">
+        <rect class="cls-19" width="92" height="31.566" rx="15.783"/>
+        <rect class="cls-2" x="0.5" y="0.5" width="91" height="30.566" rx="15.283"/>
+      </g>
+      <text id="Entrar" class="cls-11" transform="translate(1543 31)"><tspan x="0" y="0">Entrar</tspan></text>
+      <g id="Grupo_de_máscara_10" data-name="Grupo de máscara 10" class="cls-12">
+        <g id="Grupo_352" data-name="Grupo 352" transform="translate(21699.588 8140.558)">
+          <rect id="Retângulo_31" data-name="Retângulo 31" class="cls-13" width="48.001" height="33.6" transform="translate(-20074.588 -8131.483)"/>
+          <path id="Caminho_318" data-name="Caminho 318" class="cls-14" d="M-1743-1100.28l19.921,12.72,19.92-12.72-19.92-12.72Z" transform="translate(-18327.506 -7014.403)"/>
+          <ellipse id="Elipse_7" data-name="Elipse 7" class="cls-15" cx="8.4" cy="8.4" rx="8.4" ry="8.4" transform="translate(-20058.783 -8123.083)"/>
+          <g id="Grupo_237" data-name="Grupo 237" class="cls-16" transform="translate(-20058.783 -8123.083)">
+            <path id="Caminho_319" data-name="Caminho 319" class="cls-1" d="M-2205-294.6a20.4,20.4,0,0,1,20.4-20.4,20.4,20.4,0,0,1,20.4,20.4h-1.2a19.2,19.2,0,0,0-19.2-19.2,19.2,19.2,0,0,0-19.2,19.2Z" transform="translate(2188.2 319.8)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Retângulo_11" data-name="Retângulo 11" class="cls-10" transform="translate(1625 10.217)">
+        <rect class="cls-19" width="48" height="32" rx="14"/>
+        <rect class="cls-2" x="0.5" y="0.5" width="47" height="31" rx="13.5"/>
+      </g>
+    </g>
+    <g id="Seta_voltar" data-name="Seta voltar" class="cls-17" transform="translate(473.5 100)">
+      <circle id="Elipse_5" data-name="Elipse 5" class="cls-18" cx="36.5" cy="36.5" r="36.5"/>
+      <path id="Caminho_320" data-name="Caminho 320" class="cls-1" d="M863.02,182.135H832.728a.519.519,0,0,1-.367-.887l6.732-6.732a.519.519,0,0,0,0-.734l-4.641-4.641a.519.519,0,0,0-.734,0l-12.995,12.995h-.054v.054L817.26,185.6a.52.52,0,0,0,0,.735l16.457,16.457a.519.519,0,0,0,.734,0l4.641-4.641a.519.519,0,0,0,0-.734l-6.788-6.788a.519.519,0,0,1,.367-.887H863.02a.519.519,0,0,0,.519-.519v-6.564A.519.519,0,0,0,863.02,182.135Z" transform="translate(-804.108 -148.988)"/>
+    </g>
+  </g>
+</svg>

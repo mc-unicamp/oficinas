@@ -1,0 +1,178 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="414" height="856" viewBox="0 0 414 856">
+  <defs>
+    <style>
+      .cls-1, .cls-12, .cls-2, .cls-21 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-5 {
+        stroke: #a2a2a2;
+      }
+
+      .cls-2 {
+        stroke: #707070;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-iPhone_6_7_8_Plus_2);
+      }
+
+      .cls-4 {
+        fill: #e3e3e3;
+      }
+
+      .cls-16, .cls-24, .cls-5 {
+        fill: none;
+      }
+
+      .cls-18, .cls-6 {
+        fill: #707070;
+      }
+
+      .cls-6 {
+        font-size: 11px;
+      }
+
+      .cls-14, .cls-18, .cls-21, .cls-6 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-7 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-8 {
+        fill: #009b3a;
+      }
+
+      .cls-9 {
+        fill: #fedf00;
+      }
+
+      .cls-10 {
+        fill: #002776;
+      }
+
+      .cls-11 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-13, .cls-15 {
+        fill: #666;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-13 {
+        font-size: 13px;
+      }
+
+      .cls-14 {
+        font-weight: 400;
+      }
+
+      .cls-15, .cls-17 {
+        font-size: 20px;
+      }
+
+      .cls-16 {
+        stroke: #346e93;
+      }
+
+      .cls-17, .cls-22 {
+        fill: #346e93;
+      }
+
+      .cls-17 {
+        font-family: SegoeUIBlack, Segoe UI;
+      }
+
+      .cls-18, .cls-21 {
+        font-size: 15px;
+      }
+
+      .cls-19 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-20 {
+        fill: #ba2027;
+      }
+
+      .cls-23 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_99" data-name="Retângulo 99" class="cls-1" width="28.143" height="18.762" rx="9.381"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <ellipse id="Elipse_15" data-name="Elipse 15" cx="4.925" cy="4.925" rx="4.925" ry="4.925"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Retângulo_17" data-name="Retângulo 17" class="cls-2" width="213.811" height="40.353" transform="translate(534 680)"/>
+    </clipPath>
+    <clipPath id="clip-iPhone_6_7_8_Plus_2">
+      <rect width="414" height="856"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_6_7_8_Plus_2" data-name="iPhone 6/7/8 Plus – 2" class="cls-3">
+    <rect class="cls-12" width="414" height="856"/>
+    <rect id="Retângulo_96" data-name="Retângulo 96" class="cls-4" width="414" height="40"/>
+    <g id="Retângulo_97" data-name="Retângulo 97" class="cls-5" transform="translate(281.395 11.455)">
+      <rect class="cls-23" width="68.013" height="18.508" rx="9.254"/>
+      <rect class="cls-24" x="0.5" y="0.5" width="67.013" height="17.508" rx="8.754"/>
+    </g>
+    <text id="Entrar" class="cls-6" transform="translate(301.328 24.5)"><tspan x="0" y="0">Entrar</tspan></text>
+    <g id="Grupo_de_máscara_16" data-name="Grupo de máscara 16" class="cls-7" transform="translate(355.855 11.455)">
+      <g id="Grupo_521" data-name="Grupo 521" transform="translate(0 -0.67)">
+        <rect id="Retângulo_98" data-name="Retângulo 98" class="cls-8" width="28.144" height="19.701"/>
+        <path id="Caminho_386" data-name="Caminho 386" class="cls-9" d="M-1743-1105.542l11.68,7.458,11.68-7.458-11.68-7.458Z" transform="translate(1745.393 1115.392)"/>
+        <ellipse id="Elipse_14" data-name="Elipse 14" class="cls-10" cx="4.925" cy="4.925" rx="4.925" ry="4.925" transform="translate(9.267 4.925)"/>
+        <g id="Grupo_520" data-name="Grupo 520" class="cls-11" transform="translate(9.267 4.925)">
+          <path id="Caminho_387" data-name="Caminho 387" class="cls-12" d="M-2205-303.039A11.961,11.961,0,0,1-2193.039-315a11.961,11.961,0,0,1,11.961,11.961h-.7a11.258,11.258,0,0,0-11.258-11.258,11.258,11.258,0,0,0-11.257,11.258Z" transform="translate(2195.15 317.814)"/>
+        </g>
+      </g>
+    </g>
+    <g id="footer" transform="translate(0 -4753)">
+      <path id="Caminho_317" data-name="Caminho 317" class="cls-4" d="M0,0H414V103.379H0Z" transform="translate(0 5396)"/>
+      <path id="Caminho_389" data-name="Caminho 389" class="cls-4" d="M0,0H414V51.763H0Z" transform="translate(0 5588.834)"/>
+      <text id="Fale_com_o_Jacinto_jacintobemelhor_gmail.com" data-name="Fale com o Jacinto
+jacintobemelhor@gmail.com" class="cls-13" transform="translate(212 5408)"><tspan x="0" y="14">Fale com o Jacinto</tspan><tspan class="cls-14"><tspan x="0" y="31">jacintobemelhor@gmail.com</tspan></tspan></text>
+      <text id="Equipe_Fulano_da_Silva_Sauro_Reis_Ciclano_da_Mendonça_Reis_Beltrano_de_Almeida_Barros_" data-name="Equipe
+Fulano da Silva Sauro Reis
+Ciclano da Mendonça Reis
+Beltrano de Almeida Barros
+" class="cls-13" transform="translate(36 5408)"><tspan x="0" y="14">Equipe</tspan><tspan class="cls-14"><tspan x="0" y="31">Fulano da Silva Sauro Reis</tspan><tspan x="0" y="48">Ciclano da Mendonça Reis</tspan><tspan x="0" y="65">Beltrano de Almeida Barros</tspan></tspan></text>
+      <text id="Siga_o_Jacinto_Facebook_Instagram" data-name="Siga o Jacinto
+Facebook | Instagram" class="cls-15" transform="translate(36 5515)"><tspan x="105.956" y="22">Siga o Jacinto</tspan><tspan class="cls-14"><tspan x="76.977" y="49">Facebook | Instagram</tspan></tspan></text>
+    </g>
+    <g id="Retângulo_15" data-name="Retângulo 15" class="cls-16" transform="translate(35.5 390)">
+      <rect class="cls-23" width="342.5" height="45" rx="22.5"/>
+      <rect class="cls-24" x="0.5" y="0.5" width="341.5" height="44" rx="22"/>
+    </g>
+    <text id="Consegue_resolver_este_desafio_" data-name="Consegue resolver este desafio?" class="cls-17" transform="translate(87 72.189)"><tspan x="0" y="22">Consegue resolver </tspan><tspan x="0" y="49">este desafio?</tspan></text>
+    <text id="Veja_um_caso_completo_do_início_ao_fim._" data-name="Veja um caso completo, do início ao fim. " class="cls-18" transform="translate(87 144.063)"><tspan x="0" y="0">Veja um caso completo, do início ao fim. </tspan></text>
+    <g id="Retângulo_13" data-name="Retângulo 13" class="cls-16" transform="translate(35.5 212)">
+      <rect class="cls-23" width="342.5" height="45" rx="22.5"/>
+      <rect class="cls-24" x="0.5" y="0.5" width="341.5" height="44" rx="22"/>
+    </g>
+    <g id="Retângulo_14" data-name="Retângulo 14" class="cls-16" transform="translate(35.5 301)">
+      <rect class="cls-23" width="342.5" height="45" rx="22.5"/>
+      <rect class="cls-24" x="0.5" y="0.5" width="341.5" height="44" rx="22"/>
+    </g>
+    <text id="Seu_nome" data-name="Seu nome" class="cls-18" transform="translate(36 203)"><tspan x="0" y="0">Seu nome</tspan></text>
+    <text id="Seu_e-mail" data-name="Seu e-mail" class="cls-18" transform="translate(36 292)"><tspan x="0" y="0">Seu e-mail</tspan></text>
+    <text id="Sua_idade" data-name="Sua idade" class="cls-18" transform="translate(36 381)"><tspan x="0" y="0">Sua idade</tspan></text>
+    <text id="Como_você_está_hoje_" data-name="Como você está hoje?" class="cls-18" transform="translate(35.5 454)"><tspan x="0" y="16">Como você está hoje?</tspan></text>
+    <g id="Grupo_de_máscara_1" data-name="Grupo de máscara 1" class="cls-19" transform="translate(-434 -203)">
+      <image id="Imagem_1" data-name="Imagem 1" width="218.744" height="76.15" transform="translate(528.024 670.237)" xlink:href="iPhone%206-7-8%20Plus%20-%202-image.png"/>
+    </g>
+    <rect id="Retângulo_18" data-name="Retângulo 18" class="cls-20" width="166" height="38" rx="19" transform="translate(124 561)"/>
+    <text id="Quero_tentar_" data-name="Quero tentar!" class="cls-21" transform="translate(163 586)"><tspan x="0" y="0">Quero tentar!</tspan></text>
+    <g id="Grupo_524" data-name="Grupo 524" transform="translate(-154 17.607)">
+      <circle id="Elipse_16" data-name="Elipse 16" class="cls-22" cx="16.196" cy="16.196" r="16.196" transform="translate(190 66)"/>
+      <path id="Caminho_390" data-name="Caminho 390" class="cls-12" d="M837.481,174.822H824.039a.23.23,0,0,1-.163-.393l2.987-2.987a.23.23,0,0,0,0-.326l-2.06-2.06a.231.231,0,0,0-.326,0l-5.766,5.766h-.024v.024l-1.512,1.512a.231.231,0,0,0,0,.326l7.3,7.3a.23.23,0,0,0,.326,0l2.06-2.059a.23.23,0,0,0,0-.326l-3.012-3.012a.23.23,0,0,1,.163-.393h13.466a.23.23,0,0,0,.23-.23v-2.913A.23.23,0,0,0,837.481,174.822Z" transform="translate(-621.34 -94.114)"/>
+    </g>
+  </g>
+</svg>

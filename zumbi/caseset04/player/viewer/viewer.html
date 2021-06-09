@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<link rel="stylesheet" href="viewer.css">
+	<script src="viewer.js"></script>
+	<title>EKG Viewer</title>
+</head>
+<body onload="Zoom.instance.start()">
+	<div class="main-panel">
+		<div class="zoom-panel">
+    		<img id="zoom-image" src="ekg.svg">
+    	</div>
+    	<div class="control-panel">
+            <div class="control-set">
+        		<img id="button-in"  class="control" src="zoom-in.svg">
+                <img id="button-same" class="control" src="zoom-same.svg" style="display:none">
+        		<img id="button-out" class="control" src="zoom-out.svg" style="display:none">
+                <img id="button-next"  class="control" src="next.svg">
+            </div>
+    	</div>
+    </div>
+</body>
+</html>
