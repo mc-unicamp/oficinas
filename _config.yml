@@ -2,3 +2,7 @@ theme: minima
 
 header_pages:
  - museu.md
+
+exclude:
+  - zumbi/caseset04/templates/
+  - zumbi/caseset04/templates/
