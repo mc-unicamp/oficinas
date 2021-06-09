@@ -5,4 +5,4 @@ header_pages:
 
 exclude:
   - zumbi/caseset04/templates/
-  - zumbi/caseset04/templates/
+  - zumbi/caseset05/templates/
