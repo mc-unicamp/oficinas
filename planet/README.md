@@ -1,6 +1,6 @@
 # Planet Hunters
 
-<img src="mountains-1112911_1920.jpg" width="60%" height="60%">
+<img src="mountains-1112911_1920.jpg" width="70%" height="70%">
  
 #### “Você já pensou em viajar para um planeta com dois sóis? E um onde a vegetação é vermelha? Que tal visitar um planeta com um oceano de lava fervente?
 
