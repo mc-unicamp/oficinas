@@ -13,6 +13,7 @@ Através de diferentes disciplinas e tecnologias, o método e a construção do 
 * [Aviões de Material Reciclável](avioes/)
 * [Foguetes de Cartolina](foguetes/)
 * [Espectrometro Caseiro](espectrometro/)
+* [Planet Hunters](planet/)
 
 ### Geologia
 * [A História de um Fóssil](fossil/)
