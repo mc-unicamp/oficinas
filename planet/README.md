@@ -15,7 +15,7 @@ Faixa etária indicada: 8 a 12 anos
 
 ## Lista de materiais:
 
-* Bandejinhas rasas de isopor (como as de supermercado) cortadas em círculos de quatro diâmetros diferentes (1.5 cm, 2.5 cm, 5.0 cm e 10.0 cm)
+* Bandejinhas rasas de isopor (como as de supermercado) cortadas em círculos de quatro diâmetros diferentes (1.5 cm, 2.5 cm, 5.0 cm e 10.0 cm). Vide imagem abaixo.
 * Duas folhas sulfite quadriculada (dimensões dos quadrados: 2cm x 2cm)
 * Uma folha sulfite com gráficos
 * Uma superfície para apoiar as folhas (tipo prancheta)
@@ -23,3 +23,5 @@ Faixa etária indicada: 8 a 12 anos
 * Pincel pequeno (para passar a tinta no isopor)
 * Lápis ou caneta
 * Régua
+
+<img src="circulos.jpg" width="70%" height="70%">
