@@ -30,6 +30,7 @@ _Imprima o molde abaixo em uma folha A4 na orientação retrato antes da oficina
 ![Molde Círuclos](mold_circles2_planet.png)
 
 Exemplo dos círculos recortados
+
 <img src="circulos.jpeg" width="50%" height="50%">
 
 
