@@ -16,8 +16,8 @@ Faixa etária indicada: 8 a 12 anos
 ## Lista de materiais:
 
 * Bandejinhas rasas de isopor (como as de supermercado) cortadas em círculos de quatro diâmetros diferentes (1.5 cm, 2.5 cm, 5.0 cm e 10.0 cm). Vide imagem abaixo.
-* Duas folhas A4/sulfite quadriculadas 2x2 cm (Você mesmo pode preparar suas folhas quadriculadas ou imprimir usando 
-[nosso modelo](./quadriculado.pdf)
+* Duas folhas A4/sulfite quadriculadas 2x2 cm. Você mesmo pode preparar suas folhas quadriculadas ou imprimir usando 
+[nosso modelo](./quadriculado.pdf).
 * Duas folhas A4/brancas
 * Uma superfície para apoiar as folhas (tipo prancheta)
 * Tinta guache de cor escura (de preferência preta, mas pode ser marrom ou verde escuro)
