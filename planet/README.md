@@ -24,4 +24,4 @@ Faixa etária indicada: 8 a 12 anos
 * Lápis ou caneta
 * Régua
 
-<img src="circulos.jpg" width="70%" height="70%">
+<img src="circulos.jpeg" width="70%" height="70%">
