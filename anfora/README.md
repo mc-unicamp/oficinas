@@ -37,8 +37,9 @@ Essa oficina foi idealizada e desenvolvida por alunas de graduação durante uma
 
 **[Janaína da Silva Fonseca](https://www.linkedin.com/in/jana%C3%ADna-da-silva-fonseca-b80979144)** 
 
-**Júlia Martins Portugal** 
+**[Júlia Martins Portugal](https://www.instagram.com/julia.mportugal/)** 
+[✉️](mailto:julia.mportugal98@gmail.com)
 
-**Leticia Daniele Diniz Vitor** 
 
-
+**[Leticia Daniele Diniz Vitor](https://www.instagram.com/lehdiniz22/)**
+[✉️](mailto:leticiaddiniz22@gmail.com)
