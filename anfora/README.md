@@ -2,7 +2,7 @@
 
 #### Você sabia que o nosso conhecimento sobre o mundo antigo é resultado do minucioso trabalho dos historiadores?
 
-<img src="vaso2.jpeg" width="60%" height="60%">
+<img src="vaso2.jpeg" width="70%" height="70%">
 
 ## Apresentação
 
