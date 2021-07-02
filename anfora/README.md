@@ -4,6 +4,8 @@
 
 <img src="vaso2.jpeg" width="60%" height="60%">
 
+## Apresentação
+
 Nessa oficina, você será apresentado(a) aos fundamentos da pesquisa histórica e, na sequência, colocará a mão-na-massa! Massinha de biscuit, para ser exato. Sim, faremos juntos um modelo caseiro de ânfora - tipo de vaso usado pelos antigos gregos e romanos -  aplicando algumas técnicas de restauração sobre a peça.
 
 Descubra como atuam os especialistas que buscam em diversas fontes os elementos que contam a trajetória humana no tempo, analisando e desvendando informações do passado para instruir o presente.
@@ -29,7 +31,7 @@ Faixa etária indicada: 8 a 11 anos
 
 ## Autoras 
 
-<img src="vaso1.jpeg" width="15%" height="15%">
+<img src="vaso1.jpeg" width="25%" height="25%">
 
 Essa oficina foi idealizada e desenvolvida por alunas de graduação durante uma disciplina de estágio no Museu.
 
