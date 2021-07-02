@@ -18,6 +18,9 @@ Através de diferentes disciplinas e tecnologias, o método e a construção do 
 ### Geologia
 * [A História de um Fóssil](fossil/)
 
+### História
+* [Restaurando a arte e desvendando a História Antiga](anfora/)
+
 ### Matemática
 * [Mundo dos Bloquinhos](bloquinhos/)
 
