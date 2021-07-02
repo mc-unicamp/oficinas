@@ -1,4 +1,4 @@
-# Restaurando a arte e desvendando a História Antiga 🏺
+# Restaurando a Arte e Desvendando a História Antiga 🏺
 
 #### Você sabia que o nosso conhecimento sobre o mundo antigo é resultado do minucioso trabalho dos historiadores?
 
