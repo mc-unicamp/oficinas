@@ -18,6 +18,7 @@ Faixa etária indicada: 8 a 12 anos
 * Bandejinhas rasas de isopor (como as de supermercado) cortadas em círculos de quatro diâmetros diferentes (1.5 cm, 2.5 cm, 5.0 cm e 10.0 cm). Vide molde abaixo.
 * Duas folhas A4/sulfite quadriculadas 2x2 cm. Você mesmo pode preparar suas folhas quadriculadas ou imprimir usando 
 [nosso modelo](./mold_grid_planet.png).
+* Uma folha de Gráficos.  Você mesmo pode preparar sua folha de gráficos copiando ou imprimindo [nosso modelo](./Gráficos oficina Planet Hunters.pdf).
 * Duas folhas A4/brancas
 * Uma superfície para apoiar as folhas (tipo prancheta)
 * Tinta guache de cor escura (de preferência preta, mas pode ser marrom ou verde escuro)
@@ -27,7 +28,7 @@ Faixa etária indicada: 8 a 12 anos
 
 ## Molde
 _Imprima o molde abaixo em uma folha A4 na orientação retrato antes da oficina para construir as peças necessárias. (Clique com o botão direito do mouse em cima da imagem, depois "Salvar imagem como" para salvar o arquivo e conseguir imprimir o molde. Pequenas distorções das medidas são esperadas!)_
-![Molde Círuclos](mold_circles2_planet.png)
+![Molde Círuclos](mold_planet_v2.png)
 
 Exemplo dos círculos recortados
 
