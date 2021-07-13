@@ -15,7 +15,8 @@ Faixa etária indicada: 8 a 12 anos
 
 ## Lista de materiais:
 
-* Bandejinhas rasas de isopor (como as de supermercado) cortadas em círculos de quatro diâmetros diferentes (1.5 cm, 2.5 cm, 5.0 cm e 10.0 cm). Vide molde abaixo.
+* Bandejinha rasa de isopor (como as de supermercado) cortada em um círculo 10cm de diâmetro (molde abaixo)
+* Três círculos de papel com os diâmetros 1.5 cm, 2.5 cm, 5.0 cm (molde abaixo)
 * Duas folhas A4/sulfite quadriculadas 2x2 cm. Você mesmo pode preparar suas folhas quadriculadas ou imprimir usando 
 [nosso modelo](./mold_grid_planet.png).
 * Uma folha de Gráficos.  Você mesmo pode preparar sua folha de gráficos copiando ou imprimindo [nosso modelo](./graphs_planet_hunters.pdf).
