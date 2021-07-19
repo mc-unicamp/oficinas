@@ -40,4 +40,4 @@ No item com mais de uma opção separada por _ou_ você não precisa de **todos*
 ## Lista de Materiais 
 
 Para que você não se esqueça de nada, preparamos uma lista de compras que você pode imprimir e utilizar enquanto procura ou compra os materiais necessários! Lembrando sempre de tomar todas as [medidas de precaução](https://www.who.int/pt/emergencies/diseases/novel-coronavirus-2019/advice-for-public) quando estiver fora de casa. #usemáscara
-[Clique aqui](Lista de Materiais.pdf)
+[Clique aqui](\Lista de Materiais.pdf)
