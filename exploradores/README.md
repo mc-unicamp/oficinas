@@ -1,6 +1,6 @@
 # Micro Exploradores de Férias
 
-<img src="Botton_MicroExploradores.png" width="25%" height="25%">
+<img src="Botton_MicroExploradores.png" width="30%" height="30%">
 
 Grandes exploradores do mundo microscópico, estes são os materiais que utilizaremos ao longo do nosso programa de férias! Estão prontos para analisar o mundo microscópico?
 
