@@ -40,4 +40,4 @@ No item com mais de uma opção separada por _OU_ você não precisa de **todos*
 
 Para que você não se esqueça de nada, preparamos uma lista que você pode imprimir e utilizar enquanto procura em casa ou compra os materiais necessários! Siga todas as [medidas de precaução](https://www.who.int/pt/emergencies/diseases/novel-coronavirus-2019/advice-for-public) quando estiver fora de casa. 
 
-[Clique aqui](./lista.pdf)
+[Clique aqui](./lista2.pdf)
