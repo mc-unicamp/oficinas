@@ -2,7 +2,7 @@
 
 <img src="Botton_MicroExploradores.png" width="30%" height="30%">
 
-Grandes exploradores do mundo microscópico, estes são os materiais que utilizaremos ao longo do nosso programa de férias! Estão prontos para analisar o mundo microscópico?
+Grandes exploradores do mundo microscópico, estes são os materiais que utilizaremos ao longo do nosso programa de férias!
 
 
 ## Antes de começar os Experimentos
