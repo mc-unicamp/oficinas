@@ -15,8 +15,9 @@ Através de diferentes disciplinas e tecnologias, o método e a construção do 
 * [Espectrometro Caseiro](espectrometro/)
 * [Planet Hunters](planet/)
 
-### Geologia
+### Geografia
 * [A História de um Fóssil](fossil/)
+* [Construindo Mapas Topográficos](mapas/)
 
 ### História
 * [Restaurando a arte e desvendando a História Antiga](anfora/)
