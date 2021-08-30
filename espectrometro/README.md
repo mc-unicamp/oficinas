@@ -1,4 +1,4 @@
-# Espectrômetro Caseiro
+# Mensagens na Luz - Espectrômetro Caseiro
 
 Nessa oficina você vai construir um aparato que o permitirá estudar a luz e entender como ele nos ajuda a explorar o universo!
 
