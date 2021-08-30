@@ -12,7 +12,7 @@ Através de diferentes disciplinas e tecnologias, o método e a construção do 
 * [Aviões de Papel](avioes/)
 * [Aviões de Material Reciclável](avioes/)
 * [Foguetes de Cartolina](foguetes/)
-* [Espectrometro Caseiro](espectrometro/)
+* [Mensagens na Luz - Espectrômetro Caseiro](espectrometro/)
 * [Planet Hunters](planet/)
 
 ### Geografia
