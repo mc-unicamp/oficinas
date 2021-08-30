@@ -20,7 +20,7 @@ Através de diferentes disciplinas e tecnologias, o método e a construção do 
 * [Construindo Mapas Topográficos](mapas/)
 
 ### História
-* [Restaurando a arte e desvendando a História Antiga - Temporada Encerrada - Indisponível](anfora/)
+* [Restaurando a arte e desvendando a História Antiga (Temporada Encerrada - Indisponível)](anfora/)
 
 ### Matemática
 * [Mundo dos Bloquinhos](bloquinhos/)
