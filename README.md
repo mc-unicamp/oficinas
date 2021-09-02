@@ -39,6 +39,7 @@ Através de diferentes disciplinas e tecnologias, o método e a construção do 
 * [Simulando Micro-organismos e o Equilíbrio da Vida](https://bit.ly/museu-micro)
 * [Dinossauros](simula/dinossauros/)
 * [Boids](https://bit.ly/museu-boids)
+* [Aquario Virtual](simula/aquarium-plus/)
 
 ### Simulação Física
 * [Física e Foguetes](https://bit.ly/museu-foguetes)
