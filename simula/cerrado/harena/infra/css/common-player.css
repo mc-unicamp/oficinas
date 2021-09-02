@@ -1,0 +1,350 @@
+@charset "UTF-8";
+
+.player-quest-container{
+  margin: 5px;
+  border-radius: 5px;
+  border-color: #b4b4b4;
+  border-style: solid;
+  border-width: 2px;
+  background-color: #f7f7f7;
+}
+.player-quest-icon-padding{
+  padding-top: 0.5rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+.hidden-overflow{
+  overflow: hidden;
+}
+.scroll-y{
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+.scroll-x{
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+
+:root{
+  --player-quest-icon-image-map: url({{ assetsUrl('player/images/edge/atividades.png') }});
+  142px: 142px;
+  7px: 7px;
+}
+
+div{
+
+  /* border-color: green;
+  border-style: solid; */
+}
+
+h1{
+  font-weight: bold;
+  color: #808080;
+}
+h5{
+  font-weight: bold;
+  color: #606060;
+}
+
+.player-quest-icon{
+  width: 142px;
+  height: 142px;
+  /* margin-top: 7px; */
+  /* background: var(--player-quest-icon-image-map) -5px -155px; */
+  border: 7px solid #e8e8e8;
+  border-radius: 142px;
+  cursor: pointer;
+}
+.player-quest-icon:hover{
+
+  border: 7px solid #0962b5;
+  border-radius: 142px;
+  width: 142px +10px;
+  height: 142px +10px;
+  /* background: var(--player-quest-icon-image-map) 0 -150px; */
+}
+.player-quest-txt{
+  color: #245797;
+}
+
+.visita-virtual{
+  width: 142px;
+  height: 142px;
+  margin-top: 7px;
+
+  border: 7px solid #e8e8e8;
+  border-radius: 142px;
+  background: var(--player-quest-icon-image-map) -5px -155px;
+  cursor: pointer;
+}
+.visita-virtual:hover{
+  border: 7px solid #0962b5;
+  width: 142px +10px;
+  height: 142px +10px;
+  background: var(--player-quest-icon-image-map) 0 -150px;
+}
+.txt-visita-virtual{
+  color: #245797;
+}
+
+.quiz-emergencia{
+  width: 142px;
+  height: 142px;
+  margin-top: 7px;
+
+  border: 7px solid #e8e8e8;
+  border-radius: 142px;
+  background: var(--player-quest-icon-image-map) -157px -155px;
+  cursor: pointer;
+}
+.quiz-emergencia:hover{
+  border: 7px solid #0962b5;
+  width: 142px +10px;
+  height: 142px +10px;
+  background: var(--player-quest-icon-image-map) -150px -150px;
+}
+.txt-quiz-emergencia{
+  color: #e64e31;
+}
+
+.decisoes-extremas{
+  width: 142px;
+  height: 142px;
+  margin-top: 7px;
+
+  border: 7px solid #e8e8e8;
+  border-radius: 142px;
+  background: var(--player-quest-icon-image-map) -305px -155px;
+  cursor: pointer;
+}
+.decisoes-extremas:hover{
+  border: 7px solid #0962b5;
+  width: 142px +10px;
+  height: 142px +10px;
+  background: var(--player-quest-icon-image-map) -300px -150px;
+}
+.txt-decisoes-extremas{
+  color: #a34fa3;
+}
+
+.pronto-atendimento{
+  width: 142px;
+  height: 142px;
+  margin-top: 7px;
+
+  border: 7px solid #e8e8e8;
+  border-radius: 142px;
+  background: var(--player-quest-icon-image-map) -5px 145px;
+  cursor: pointer;
+}
+.pronto-atendimento:hover{
+  border: 7px solid #0962b5;
+  width: 142px +10px;
+  height: 142px +10px;
+  background: var(--player-quest-icon-image-map) 0 150px;
+}
+.txt-pronto-atendimento{
+  color: #666666;
+}
+
+.desafio-eletro{
+  width: 142px;
+  height: 142px;
+  margin-top: 7px;
+
+  border: 7px solid #e8e8e8;
+  border-radius: 142px;
+  background: var(--player-quest-icon-image-map) -455px -155px;
+  cursor: pointer;
+}
+.desafio-eletro:hover{
+  border: 7px solid #0962b5;
+  width: 142px +10px;
+  height: 142px +10px;
+  background: var(--player-quest-icon-image-map) -450px -150px;
+}
+.txt-desafio-eletro{
+  color: #ae9e00;
+}
+
+.desafio-radio{
+  width: 142px;
+  height: 142px;
+  margin-top: 7px;
+
+  border: 7px solid #e8e8e8;
+  border-radius: 142px;
+  background: var(--player-quest-icon-image-map) -5px -305px;
+  cursor: pointer;
+}
+.desafio-radio:hover{
+  border: 7px solid #0962b5;
+  width: 142px +10px;
+  height: 142px +10px;
+  background: var(--player-quest-icon-image-map) 0 -300px;
+}
+.txt-desafio-radio{
+  color: #348f00;
+}
+
+.prescricao-virtual{
+  width: 142px;
+  height: 142px;
+  margin-top: 7px;
+
+  border: 7px solid #e8e8e8;
+  border-radius: 142px;
+  background: var(--player-quest-icon-image-map) -305px -305px;
+  cursor: pointer;
+}
+.prescricao-virtual:hover{
+  border: 7px solid #0962b5;
+  width: 142px +10px;
+  height: 142px +10px;
+  background: var(--player-quest-icon-image-map) -300px -300px;
+}
+.txt-prescricao-virtual{
+  color: #48ccce;
+}
+
+.desafio-gaso{
+  width: 142px;
+  height: 142px;
+  margin-top: 7px;
+
+  border: 7px solid #e8e8e8;
+  border-radius: 142px;
+  background: var(--player-quest-icon-image-map) -455px -305px;
+  cursor: pointer;
+}
+.desafio-gaso:hover{
+  border: 7px solid #0962b5;
+  width: 142px +10px;
+  height: 142px +10px;
+  background: var(--player-quest-icon-image-map) -450px -300px;
+}
+.txt-desafio-gaso{
+  color: #8a4e11;
+}
+
+.cruzada-emergencia{
+  width: 142px;
+  height: 142px;
+  margin-top: 7px;
+
+  border: 7px solid #e8e8e8;
+  border-radius: 142px;
+  background: var(--player-quest-icon-image-map) -5px -455px;
+  cursor: pointer;
+}
+.cruzada-emergencia:hover{
+  border: 7px solid #0962b5;
+  width: 142px +10px;
+  height: 142px +10px;
+  background: var(--player-quest-icon-image-map) 0 -450px;
+}
+.txt-cruzada-emergencia{
+  color: #c80b67;
+}
+
+.basico-alem-basico{
+  width: 142px;
+  height: 142px;
+  margin-top: 7px;
+
+  border: 7px solid #e8e8e8;
+  border-radius: 142px;
+  background: var(--player-quest-icon-image-map) -155px -305px;
+  cursor: pointer;
+}
+.basico-alem-basico:hover{
+  border: 7px solid #0962b5;
+  width: 142px +10px;
+  height: 142px +10px;
+  background: var(--player-quest-icon-image-map) -150px -300px;
+
+}
+.txt-basico-alem-basico{
+  color: #dc7a0c;
+}
+.teste{
+  background-color: black;
+}
+
+.player-welcome-padding{
+
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.player-welcome-content{
+
+}
+
+.player-cases-content-padding{
+  /* background-color: #3295ce; */
+  background-color: #f2f2f2;
+  border-color: #505050;
+  border-width: 0.5rem;
+  border-top-style: solid;
+  border-left-style: solid;
+  border-right-style: solid;
+  border-top-left-radius: 0.94rem;
+  border-top-right-radius: 0.94rem;
+
+  padding-left: 2px;
+  padding-top: 2px;
+}
+
+.breadcrumb {
+  list-style-type: inherit;
+  list-style-position: outside;
+  background-color: unset;
+  padding-left: 0px;
+  text-transform: uppercase;
+}
+
+.breadcrumb-item {
+  font-size: 8pt;
+  background-color: #a6a6a6;
+  color: white;
+  border-radius: 5px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.breadcrumb-item:hover{
+  text-decoration: underline;
+}
+
+.breadcrumb-item + .breadcrumb-item {
+  padding-left: 10px;
+  margin-left: 9px;
+}
+
+.breadcrumb-item::marker {
+  content: "";
+}
+
+.breadcrumb-item + .breadcrumb-item::marker {
+  content: " > ";
+  background-color: #f2f2f2;
+  color: #a6a6a6;
+  margin-right: 5px;
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+  content: none;
+  padding-right: 10px;
+}
+
+.breadcrumb-item.active {
+  color: white;
+}
+
+.breadcrumb-item a {
+  color: white;
+}

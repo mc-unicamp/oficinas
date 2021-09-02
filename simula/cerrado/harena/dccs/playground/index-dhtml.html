@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="utf-8">
+   <title>DCCs Playground</title>
+
+   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no" name="viewport">
+
+   <script src="../../config/config.js"></script>
+
+   <link rel="stylesheet" href="../../lib/fontawesome-5-10-1/css/all.min.css">
+   <link rel="stylesheet" href="../../lib/bootstrap-4.4.1/css/bootstrap.min.css">
+   <link href="../../lib/quill-1-3-7/quill.snow.css" rel="stylesheet">
+
+   <link rel="stylesheet" href="../../infra/css/common-player.css">
+   <link rel="stylesheet" href="../../infra/css/common-author.css">
+
+   <script src="../../lib/jquery-3-4-1/jquery-3.4.1.slim.min.js"></script>
+   <script src="../../lib/popper-1-15-0/popper.min.js"></script>
+   <script src="../../lib/bootstrap-4.4.1/js/bootstrap.min.js"></script>
+   <script src="../../lib/axios-0.21.0/axios.min.js"></script>
+
+   <script src="../../dccs/base/dcc.js"></script>
+   <script src="../../dccs/base/dcc-base.js"></script>
+   <script src="../../dccs/base/dcc-visual.js"></script>
+   <script src="../../dccs/base/dcc-block.js"></script>
+   <script src="../../dccs/components/visual/dcc-button.js"></script>
+   <script src="../../dccs/components/visual/dcc-input.js"></script>
+   <script src="../../dccs/components/visual/dcc-input-typed.js"></script>
+
+   <script src="../../dccs/components/data/dcc-model.js"></script>
+   <script src="../../dccs/components/data/dcc-submit.js"></script>
+   <script src="../../dccs/components/data/dcc-record.js"></script>
+
+   <script src="../../dccs/components/web/dcc-include.js"></script>
+   <script src="../../dccs/components/web/dcc-dhtml.js"></script>
+   <script src="../../dccs/components/web/dcc-rest.js"></script>
+
+   <script src="../../infra/bus.js"></script>
+   <script src="../../infra/basic.js"></script>
+   <script src="../../infra/dcc-common-server-proxy.js"></script>
+   <script src="../../infra/dcc-rest-proxy.js"></script>
+
+   <script src="../../dccs/base/subscribe-dcc.js"></script>
+   <script src="../../dccs/base/trigger-dcc.js"></script>
+   <script src="../../dccs/base/property-dcc.js"></script>
+   <script src="../../dccs/base/connect-dcc.js"></script>
+
+   <script src="js/model-components.js"></script>
+   <script src="js/rest-components.js"></script>
+   <script src="js/submit-components.js"></script>
+
+   <script>
+      function start() {
+         document.querySelector("#json-message").value = "";
+         MessageBus.ext.subscribe("control/render/example", render);
+         MessageBus.ext.subscribe("#", showJson);
+
+         let parameters = window.location.search.substr(1);
+         if (parameters != null && parameters.length > 0) {
+            const source = parameters.match(/source=([\w-\/]+)/i);
+            if (source != null) {
+               let caseScript = document.createElement("script");
+               caseScript.src = "gallery/" + source[1] + ".js";
+               document.head.appendChild(caseScript);
+            }
+         }
+      }
+
+      function render(topic, message) {
+         document.querySelector("#render-panel").innerHTML = document.querySelector("#editor").value;
+      }
+
+      function insertSource(name, source) {
+         document.querySelector("#editor").value = source;
+         render();
+      }
+
+      function showJson(topic, message) {
+         if (topic != "control/render/example")
+            document.querySelector("#json-message").value =
+               document.querySelector("#json-message").value +
+               "topic: " + topic + "\n" +
+               "message: " + JSON.stringify(message) + "\n\n";
+      }
+   </script>
+
+</head>
+
+  <body>
+  
+<dcc-dhtml>
+  {{nome}}
+ <div>EDIT</div>
+ <div>PREVIEW</div>
+ <dcc-button></dcc-button>
+ <div>DELETE</div>
+</dcc-dhtml>
+
+  </body>
+</html>
