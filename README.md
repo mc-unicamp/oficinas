@@ -40,6 +40,7 @@ Através de diferentes disciplinas e tecnologias, o método e a construção do 
 * [Dinossauros](simula/dinossauros/)
 * [Boids](https://bit.ly/museu-boids)
 * [Aquario Virtual](simula/aquarium-plus/)
+* [Cerrado](simula/cerrado/)
 
 ### Simulação Física
 * [Física e Foguetes](https://bit.ly/museu-foguetes)
@@ -53,4 +54,3 @@ Através de diferentes disciplinas e tecnologias, o método e a construção do 
 ## Este site foi escrito em Markdown
 
 Veja como usá-lo neste link: [Markdown](docs/).
-
