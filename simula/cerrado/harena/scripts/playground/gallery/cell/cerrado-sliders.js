@@ -1,6 +1,6 @@
 (function () {
   AuthorCellManager.instance.insertSource(
-    'Aquarium Sliders',
+    'Cerrado Equilíbrio',
     [],
 `<block type="neighbor"></block>
 <block type="action"></block>`,
