@@ -3,10 +3,11 @@
 Construa suas montanhas, e aprenda a utilizar diferentes técnicas de representação para desenhar o mundo. Acompanhe a evolução do mapeamento topográfico e explore mapas históricos.
 
 ![Gif Montanha](Webp_net-gifmaker.gif)
-## Faixa etária 
- Faixa etária indicada: 9 a 12 anos
+
+## Faixa etária
+Faixa etária indicada: 9 a 12 anos
  
- (A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)
+(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)
  
  ## Materiais
  - Lápis grafite
