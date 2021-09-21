@@ -1,9 +1,7 @@
 # Explorando mapas e desenhando o mundo.
 ## Construindo Mapas Topográficos
 Construa suas montanhas, e aprenda a utilizar diferentes técnicas de representação para desenhar o mundo. Acompanhe a evolução do mapeamento topográfico e explore mapas históricos.
-
-![Gif Montanha](file:///C:/Users/Bruna/Downloads/Webp_net-gifmaker%20(1).gif)
-
+![Gif Montanha](Webp_net-gifmaker.gif)
  ## Faixa etária 
  Faixa etária indicada: 9 a 12 anos
  
