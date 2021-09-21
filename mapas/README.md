@@ -1,6 +1,7 @@
 # Explorando mapas e desenhando o mundo.
 ## Construindo Mapas Topográficos
 Construa suas montanhas, e aprenda a utilizar diferentes técnicas de representação para desenhar o mundo. Acompanhe a evolução do mapeamento topográfico e explore mapas históricos.
+
 ![Gif Montanha](Webp_net-gifmaker.gif)
  ## Faixa etária 
  Faixa etária indicada: 9 a 12 anos
@@ -12,4 +13,4 @@ Construa suas montanhas, e aprenda a utilizar diferentes técnicas de representa
  - Papel sulfite
 - 1 régua
 - 1 pedaço de fio (linha de costura ou fio dental) aproximadamente 30 cm
-- Massa de modelar ou argila. A quantidade deve ser igual ao tamanho de seu punho. Você pode comprar argila (por exemplo, Play-Doh) ou fazer a sua própria. A argila de modelagem não deve ser muito pegajosa.
+- Massa de modelar (por exemplo, Play-Doh) ou argila, não pode ser muito pegajosa. A quantidade deve ser igual ao tamanho de seu punho.
