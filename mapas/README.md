@@ -1,7 +1,6 @@
 # Explorando mapas e desenhando o mundo.
 ### Construindo Mapas Topográficos
-Construa suas montanhas, e aprenda a utilizar diferentes técnicas de representação para desenhar o mundo.                       
-Acompanhe a evolução do mapeamento topográfico e explore mapas históricos.
+Construa suas montanhas, e aprenda a utilizar diferentes técnicas de representação para desenhar o mundo. Acompanhe a evolução do mapeamento topográfico e explore mapas históricos.
 
 ![Gif Montanha](Webp_net-gifmaker.gif)
 
