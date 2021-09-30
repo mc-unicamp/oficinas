@@ -1,6 +1,6 @@
 # Mensagens na Luz - Espectrômetro Caseiro
 
-Nessa oficina você vai construir um aparato que o permitirá estudar a luz e entender como ele nos ajuda a explorar o universo!
+Nessa oficina você vai construir um aparato que o permitirá estudar a luz e entender como ele nos ajuda a explorar e descobrir a composição do universo!
 
 ## Materiais
 
@@ -10,6 +10,8 @@ Nessa oficina você vai construir um aparato que o permitirá estudar a luz e en
 * Papel de seda
 * Fita crepe ou adesiva
 * Fonte luminosa (luz solar, lâmpada, lanterna, apontador laser, etc.)
+
+![gifmateriais](meteriais.gif)
 
 ## Como fazer
 
