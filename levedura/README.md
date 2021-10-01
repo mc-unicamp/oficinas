@@ -1,7 +1,9 @@
 #  Investigando os Limites da Vida 
 ## Como as Mudanças Climáticas afetam os seres vivos
 
+
 > Um dos astronautas da equipe do Museu Exploratório de Ciências da Unicamp precisa de ajuda! Durante uma missão em um planeta distante ele encontrou estranhos lagos borbulhantes. Participe dessa incrível oficina e ajude na missão!
+
 
 ## Apresentação
 
@@ -40,7 +42,7 @@ Faixa etária indicada: 8 a 11 anos
 ## Autoras
 Essa oficina foi idealizada e desenvolvida por alunas de graduação durante uma disciplina de estágio de licenciatura no Museu.
 
-<img src="levs.jpeg" width="25%" height="25%">
+<img src="levs.jpeg" width="20%" height="20%">
 
 **[Cecília Damiano](http://lattes.cnpq.br/5058348826136179)** 
 [✉️](mailto:c195629@dac.unicamp.br)
