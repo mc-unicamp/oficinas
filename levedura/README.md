@@ -1,7 +1,7 @@
 #  Investigando os Limites da Vida 
 ## Como as Mudanças Climáticas afetam os seres vivos
 
-<img src="planeta_perdido1.jpg" width="70%" height="70%">
+<img src="planeta_perdido1.jpg" width="80%" height="80%">
 
 > Um dos astronautas da equipe do Museu Exploratório de Ciências da Unicamp precisa de ajuda! Durante uma missão em um planeta distante ele encontrou estranhos lagos borbulhantes. Participe dessa incrível oficina e ajude na missão!
 
