@@ -23,11 +23,11 @@ Faixa etária indicada: 8 a 11 anos
 | Ingrediente | Quantidade  |
 |:-----------:|:-------------:|
 |Fermento biológico seco| 3 Pacotes de 10g|
-|Água morna | 300 ml|
-|Água gelada | 100ml |
-|Gelo| 2 cubos|
+|Água morna | 300 mL|
+|Água gelada | 100 mL |
+|Gelo| 2 Cubos|
 |Vinagre | 2 Colheres de sopa|
-|Açúcar branco | 4 colheres de sopa|
+|Açúcar branco | 4 Colheres de sopa|
 
 ### Instrumentos
 
