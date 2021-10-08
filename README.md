@@ -16,6 +16,9 @@ Através de diferentes disciplinas e tecnologias, o método e a construção do 
 * [Mensagens na Luz - Espectrômetro Caseiro](espectrometro/)
 * [Planet Hunters](planet/)
 
+### Química
+* [Laboratório de Cores](quimica-cores/)
+
 ### Geografia
 * [A História de um Fóssil](fossil/)
 * [Construindo Mapas Topográficos](mapas/)
