@@ -2,6 +2,10 @@
 
 Se prepare para ver a evolução atuando na prática e descobrir um dos mais importantes mecanismos da vida!
 
+## Faixa Etária
+* Faixa etária indicada: a partir de 11 anos
+(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)
+
 ## Materiais
 * Canudos de papel (ou de plástico, caso você ainda os tenha guardado)
 * Dado de 6 lados
