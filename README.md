@@ -15,6 +15,7 @@ Através de diferentes disciplinas e tecnologias, o método e a construção do 
 * [Foguetes de Cartolina](foguetes/)
 * [Mensagens na Luz - Espectrômetro Caseiro](espectrometro/)
 * [Planet Hunters](planet/)
+* [Como os Instrumentos Funcionam - A Ciência Por Trás da Música](musica/)
 
 ### Química
 * [Laboratório de Cores](quimica-cores/)
