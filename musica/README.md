@@ -1,5 +1,7 @@
 # Como os Instrumentos Funcionam - A Ciência por Trás da Música
 
+![Instrumentos Musicais](https://br.freepik.com/vetores-gratis/conjunto-de-instrumentos-musicais_8610228.htm#page=1&query=music&position=48&from_view=search)
+
 ## Apresentação
 
 Som, música e conceitos de Física. Nesta oficina, veremos como as propriedades do som e os fenômenos que as alteram são usados na construção de instrumentos musicais.Aprenda a ler partitura da ciência e a produzir música em casa.
