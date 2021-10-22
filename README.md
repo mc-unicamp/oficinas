@@ -21,7 +21,7 @@ Através de diferentes disciplinas e tecnologias, o método e a construção do 
 
 ### Geografia
 * [A História de um Fóssil](fossil/)
-* [Construindo Mapas Topográficos](mapas/)
+* [Explorando Mapas e Desenhando o Mundo](mapas/)
 
 ### História
 * [Restaurando a arte e desvendando a História Antiga (Temporada Encerrada - Indisponível)](anfora/)
