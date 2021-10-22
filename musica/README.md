@@ -1,6 +1,6 @@
 # Como os Instrumentos Funcionam - A Ciência por Trás da Música
 
-![Instrumentos musicais](instrumentos musicais.jpg)
+![Instrumentos musicais](instrumentosmusicais.jpg)
 
 ## Apresentação
 
