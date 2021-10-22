@@ -6,7 +6,7 @@ Através de diferentes disciplinas e tecnologias, o método e a construção do 
 ### Biologia
 * [EcoEsfera](ecoesfera/)
 * [A Evolução de Avis papyrus](papyrus/)
-* [De onde esse bicho vem?](bicho/)
+* [De Onde Esse Bicho Vem?](bicho/)
 * [Investigando os Limites da Vida](levedura/)
 
 ### Física
@@ -24,14 +24,14 @@ Através de diferentes disciplinas e tecnologias, o método e a construção do 
 * [Explorando Mapas e Desenhando o Mundo](mapas/)
 
 ### História
-* [Restaurando a arte e desvendando a História Antiga (Temporada Encerrada - Indisponível)](anfora/)
+* [Restaurando a Arte e Desvendando a História Antiga (Temporada Encerrada - Indisponível)](anfora/)
 
 ### Matemática
 * [Mundo dos Bloquinhos](bloquinhos/)
 
 ### Programação
 * [Oficina Maker de Aplicativos](appmaker/)
-* [Máquinas que aprendem: Júnior e Avançado](ml/)
+* [Máquinas que Aprendem: Júnior e Avançado](ml/)
 
 ## Oficinas de Simulação
 
