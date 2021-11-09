@@ -8,7 +8,7 @@ Olá, aqui você ira encontrar uma série de links e materiais para auxiliar na 
 
 ## Slides para Apresentação
 
-[Clique aqui](/ILV-2.pdf) para fazer o Download dos Slides em alta resolução sem comentários.
+[Clique aqui](./ILV2.pdf) para fazer o Download dos Slides em alta resolução sem comentários.
 
 ## Slides Comentados
 
