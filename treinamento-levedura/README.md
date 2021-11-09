@@ -22,7 +22,7 @@ Olá, aqui você ira encontrar uma série de links e materiais para auxiliar na 
 
 [Clique aqui](https://docs.google.com/spreadsheets/d/1bdVLF7xBft9Kq3w8nArWv1aGbBF26JBwtU_lCxVfOQU/edit?usp=sharing) para acessar uma planilha interativa que cria os gráficos utilizados. 
 
-*Para utilizar a planilha basta seguir as instruções dentro dela*
+*Para utilizar a planilha basta seguir as instruções dentro dela.*
 
 ## Autoras
 Essa oficina foi idealizada e desenvolvida por alunas de graduação durante uma disciplina de estágio de licenciatura no Museu.
