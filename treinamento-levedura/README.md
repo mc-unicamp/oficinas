@@ -2,7 +2,7 @@
 ## Investigando os Limites da Vida
 ### Como as Mudanças Climáticas afetam os seres vivos
 
-<img src="planeta_perdido1.jpg" width="80%" height="80%">
+<img src="planeta_perdido1.jpg" width="60%" height="60%">
 
 Olá, aqui você ira encontrar uma série de links e materiais para auxiliar na aplicação dessa oficina. Quaisquer dúvidas, entre em contato com algum dos criadores ou com um funcionário do Museu Exploratório de Ciências. Sinta-se a vontade para utilizar e adaptar os materiais, só pedimos que compartilhe conosco como foi sua experiência! Entre em contato via [Instagram](https://www.instagram.com/mcunicamp/) ou [Email](mailto:mc.unicamp.br) para que possamos trocar conhecimentos e trabalhar juntos na melhoria de nosssa oficinas.
 
@@ -20,9 +20,9 @@ Olá, aqui você ira encontrar uma série de links e materiais para auxiliar na 
 
 ## Gráficos
 
-[Clique aqui]() para acessar uma planilha interativa que cria os gráficos utilizados. 
+[Clique aqui](https://docs.google.com/spreadsheets/d/1bdVLF7xBft9Kq3w8nArWv1aGbBF26JBwtU_lCxVfOQU/edit?usp=sharing) para acessar uma planilha interativa que cria os gráficos utilizados. 
 
-*Para utilizar a planilha, sugerimos que você faça uma cópia e siga as instruções de preenchimento nos comentários"
+*Para utilizar a planilha basta seguir as instruções dentro dela*
 
 ## Autoras
 Essa oficina foi idealizada e desenvolvida por alunas de graduação durante uma disciplina de estágio de licenciatura no Museu.
