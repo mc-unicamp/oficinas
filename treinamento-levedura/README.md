@@ -24,6 +24,13 @@ Olá, aqui você ira encontrar uma série de links e materiais para auxiliar na 
 
 *Para utilizar a planilha basta seguir as instruções dentro dela.*
 
+## Referencial Teórico
+
+- [Importância do Experimentar: notas sobre a experiência e o saber da experiência - Jorge Larrosa Bondía.](https://www.scielo.br/j/rbedu/a/Ycc5QDzZKcYVspCNspZVDxC/?lang=pt&format=pdf)
+- [Literacia Científica](https://digituma.uma.pt/handle/10400.13/3235)
+- [Ensino não Formal](https://periodicos.ufjf.br/index.php/zoociencias/article/view/24644)
+- [Uso de Experimentos](https://fisica.ufmt.br/eenciojs/index.php/eenci/article/view/239)
+
 ## Autoras
 Essa oficina foi idealizada e desenvolvida por alunas de graduação durante uma disciplina de estágio de licenciatura no Museu.
 
