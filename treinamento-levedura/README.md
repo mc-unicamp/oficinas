@@ -27,9 +27,9 @@ Olá, aqui você ira encontrar uma série de links e materiais para auxiliar na 
 ## Referencial Teórico
 
 - [Importância do Experimentar: notas sobre a experiência e o saber da experiência - Jorge Larrosa Bondía.](https://www.scielo.br/j/rbedu/a/Ycc5QDzZKcYVspCNspZVDxC/?lang=pt&format=pdf)
-- [Literacia Científica](https://digituma.uma.pt/handle/10400.13/3235)
-- [Ensino não Formal](https://periodicos.ufjf.br/index.php/zoociencias/article/view/24644)
-- [Uso de Experimentos](https://fisica.ufmt.br/eenciojs/index.php/eenci/article/view/239)
+- [Literacia científica: ensino, aprendizagem e quotidiano. - Hélder Spínola & Mateus Sílvia Spínola](https://digituma.uma.pt/handle/10400.13/3235)
+- [Educação Não-Formal: Qual a sua importância? - Gabrielle Rabello Quadra & Sthefane D’ávila](https://periodicos.ufjf.br/index.php/zoociencias/article/view/24644)
+- [A Atividade Experimental no Ensino de Ciências Naturais: Contrbuições E Contrapontos - Senilde Solange Catelan & Carlos Rinaldi](https://fisica.ufmt.br/eenciojs/index.php/eenci/article/view/239)
 
 ## Autoras
 Essa oficina foi idealizada e desenvolvida por alunas de graduação durante uma disciplina de estágio de licenciatura no Museu.
