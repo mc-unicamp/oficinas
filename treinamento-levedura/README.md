@@ -30,6 +30,7 @@ Olá, aqui você ira encontrar uma série de links e materiais para auxiliar na 
 - [Literacia científica: ensino, aprendizagem e quotidiano. - Hélder Spínola & Mateus Sílvia Spínola](https://digituma.uma.pt/handle/10400.13/3235)
 - [Educação Não-Formal: Qual a sua importância? - Gabrielle Rabello Quadra & Sthefane D’ávila](https://periodicos.ufjf.br/index.php/zoociencias/article/view/24644)
 - [A Atividade Experimental no Ensino de Ciências Naturais: Contrbuições E Contrapontos - Senilde Solange Catelan & Carlos Rinaldi](https://fisica.ufmt.br/eenciojs/index.php/eenci/article/view/239)
+- [Educação científica na perspectiva de letramento como prática social: funções, princípios e desafios - Wildson Luiz Pereira dos Santos](https://www.scielo.br/j/rbedu/a/C58ZMt5JwnNGr5dMkrDDPTN/abstract/?lang=pt)
 
 ## Autoras
 Essa oficina foi idealizada e desenvolvida por alunas de graduação durante uma disciplina de estágio de licenciatura no Museu.
