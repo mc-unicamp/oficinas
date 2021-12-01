@@ -46,6 +46,9 @@ Através de diferentes disciplinas e tecnologias, o método e a construção do 
 * [Aquario Virtual](simula/aquarium-plus/)
 * [Cerrado](simula/cerrado/)
 
+### Vírus e Contaminação
+* [Simulando um Vírus para entender Doenças](simula/contagion/)
+
 ### Simulação Física
 * [Física e Foguetes](https://bit.ly/museu-foguetes)
 
