@@ -12,6 +12,7 @@
 <dcc-cell-image type="v" label="vaccinated" image="images/cell/person-vaccinated.svg"></dcc-cell-image>
 <dcc-cell-image type="d" label="disease" image="images/cell/person-disease.svg"></dcc-cell-image>
 <dcc-cell-image type="n" label="nurse" image="images/cell/nurse.svg"></dcc-cell-image>
+<dcc-cell-image type="g" label="ghost" image="images/cell/ghost.svg"></dcc-cell-image>
 <dcc-cell-image type="w" label="wall" image="images/cell/wall.svg"></dcc-cell-image>
 
 <rule-dcc-cell-pair label="healthy moves" probability="50" transition="h_>_h">
@@ -30,6 +31,11 @@
    ***
 </rule-dcc-cell-pair>
 <rule-dcc-cell-pair label="nurse moves" probability="50" transition="n_>_n">
+   ***
+   *_*
+   ***
+</rule-dcc-cell-pair>
+<rule-dcc-cell-pair label="ghost moves" probability="50" transition="g_>_g">
    ***
    *_*
    ***
@@ -54,7 +60,12 @@
    _*_
    ___
 </rule-dcc-cell-pair>
-<rule-dcc-cell-pair id="sick-dies" label="sick dies" probability="0" transition="dd>__">
+<rule-dcc-cell-pair id="sick-dies" label="sick dies" probability="0" transition="dd>gg">
+   ___
+   _*_
+   ___
+</rule-dcc-cell-pair>
+<rule-dcc-cell-pair id="ghost-dies" label="ghost dies" probability="40" transition="gg>__">
    ___
    _*_
    ___
