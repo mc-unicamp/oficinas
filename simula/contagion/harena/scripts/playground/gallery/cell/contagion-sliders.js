@@ -11,9 +11,11 @@
 <dcc-cell-image type="h" label="healthy" image="images/cell/person-healthy.svg"></dcc-cell-image>
 <dcc-cell-image type="v" label="vaccinated" image="images/cell/person-vaccinated.svg"></dcc-cell-image>
 <dcc-cell-image type="d" label="disease" image="images/cell/person-disease.svg"></dcc-cell-image>
+<dcc-cell-image type="r" label="recovered" image="images/cell/person-recovered.svg"></dcc-cell-image>
 <dcc-cell-image type="n" label="nurse" image="images/cell/nurse.svg"></dcc-cell-image>
 <dcc-cell-image type="g" label="ghost" image="images/cell/ghost.svg"></dcc-cell-image>
 <dcc-cell-image type="w" label="wall" image="images/cell/wall.svg"></dcc-cell-image>
+<dcc-cell-image type="t" label="tombstone" image="images/cell/tombstone.svg"></dcc-cell-image>
 
 <rule-dcc-cell-pair label="healthy moves" probability="50" transition="h_>_h">
    ***
@@ -26,6 +28,11 @@
    ***
 </rule-dcc-cell-pair>
 <rule-dcc-cell-pair label="sick moves" probability="50" transition="d_>_d">
+   ***
+   *_*
+   ***
+</rule-dcc-cell-pair>
+<rule-dcc-cell-pair label="recovered moves" probability="50" transition="r_>_r">
    ***
    *_*
    ***
@@ -50,12 +57,17 @@
    *_*
    ***
 </rule-dcc-cell-pair>
+<rule-dcc-cell-pair id="contagion-recovered" label="contagion recovered" probability="0" transition="dr>rr">
+   ***
+   *_*
+   ***
+</rule-dcc-cell-pair>
 <rule-dcc-cell-pair id="nurse-vaccinate" label="nurse vaccinate" probability="0" transition="nh>nv">
    ***
    *_*
    ***
 </rule-dcc-cell-pair>
-<rule-dcc-cell-pair id="sick-cured" label="sick cured" probability="0" transition="dd>hh">
+<rule-dcc-cell-pair id="sick-cured" label="sick cured" probability="0" transition="dd>rr">
    ___
    _*_
    ___
@@ -65,7 +77,7 @@
    _*_
    ___
 </rule-dcc-cell-pair>
-<rule-dcc-cell-pair id="ghost-dies" label="ghost dies" probability="40" transition="gg>__">
+<rule-dcc-cell-pair id="ghost-dies" label="ghost dies" probability="40" transition="gg>tt">
    ___
    _*_
    ___
@@ -164,7 +176,7 @@ Selecione abaixo a chance de cada um dos eventos:
    <span style="flex:5%; max-width:24px; max-height:48px"></span>
    <span style="border-left:6px solid gray; height: 48px;"></span>
    <span style="flex:5%; max-width:24px; max-height:48px"></span>
-   <img src="images/cell/person-healthy.svg" style="flex:10%; max-width:48px; max-height:48px">
+   <img src="images/cell/person-recovered.svg" style="flex:10%; max-width:48px; max-height:48px">
    <span style="flex:5%; max-width:24px; max-height:48px"></span>
    <div style="flex:50%; max-height:48px; margin-right:10px">
       <dcc-slider variable="sick_cured" value="0" index></dcc-slider>
@@ -187,6 +199,8 @@ Selecione abaixo a chance de cada um dos eventos:
 <subscribe-dcc target="contagion" topic="var/contagion/changed" role="probability">
 </subscribe-dcc>
 <subscribe-dcc target="contagion-vaccinated" topic="var/contagion_vaccinated/changed" role="probability">
+</subscribe-dcc>
+<subscribe-dcc target="contagion-vaccinated" topic="var/contagion_recovered/changed" role="probability">
 </subscribe-dcc>
 <subscribe-dcc target="nurse-vaccinate" topic="var/nurse_vaccinate/changed" role="probability">
 </subscribe-dcc>
