@@ -42,11 +42,6 @@
    *_*
    ***
 </rule-dcc-cell-pair>
-<rule-dcc-cell-pair label="ghost moves" probability="50" transition="g_>_g">
-   ***
-   *_*
-   ***
-</rule-dcc-cell-pair>
 <rule-dcc-cell-pair id="contagion" label="contagion" probability="0" transition="dh>dd">
    ***
    *_*
