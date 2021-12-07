@@ -8,6 +8,7 @@ Através de diferentes disciplinas e tecnologias, o método e a construção do 
 * [A Evolução de Avis papyrus](papyrus/)
 * [De Onde Esse Bicho Vem?](bicho/)
 * [Investigando os Limites da Vida](levedura/)
+  * [Material para Educadores](treinamento-levedura/)   
 
 ### Física
 * [Aviões de Papel](avioes/)
