@@ -1,0 +1,1 @@
+Pasta para imagens simulação
