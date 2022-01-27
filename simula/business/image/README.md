@@ -3,4 +3,6 @@ Pasta para imagens simulação
 ![imagem carrinho](icecream-cart.png)
 ![imagem pessoa](relaxing-walk.png)
 ![imagem carrinho](beach-umbrella.png)
-![imagem pessoa](carrinho-de-comida.png)
+![imagem pessoa](beach-umbrella_project.png)
+![imagem carrinho](beach-umbrella_project_green.png)
+![imagem pessoa](beach-umbrella-academy.png)
