@@ -7,3 +7,5 @@ Pasta para imagens simulação
 ![imagem pessoa](beach-umbrella_project.png)
 ![imagem carrinho](beach-umbrella_project_green.png)
 ![imagem pessoa](beach-umbrella-academy.png)
+![imagem carrinho](beach-umbrella_project_orange.png)
+![imagem carrinho](beach-umbrella_project_red.png)
