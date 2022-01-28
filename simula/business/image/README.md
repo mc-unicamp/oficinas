@@ -12,3 +12,5 @@ Pasta para imagens simulação
 ![imagem carrinho](waves_espuma2.png)
 ![imagem carrinho](waves_espuma3.png)
 ![imagem carrinho](waves_white.png)
+![imagem carrinho](cell-yellow-green-black2.png)
+![imagem carrinho](cell-yellow-green-black.png)
