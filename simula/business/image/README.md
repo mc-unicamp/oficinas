@@ -4,6 +4,7 @@ Pasta para imagens simulação
 ![imagem carrinho](icecream-cart-green.png)
 ![imagem pessoa](relaxing-walk.png)
 ![imagem pessoa](relaxing-walk-child.png)
+![imagem pessoa](relaxing-walk-child-icecream.png)
 ![imagem pessoa](relaxing-walk-man.png)
 ![imagem pessoa](relaxing-walk-men-icecream.png)
 ![imagem pessoa](relaxing-walk-woman.png)
