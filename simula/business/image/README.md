@@ -5,7 +5,7 @@ Pasta para imagens simulação
 ![imagem pessoa](relaxing-walk.png)
 ![imagem pessoa](relaxing-walk-money.png)
 ![imagem pessoa](relaxing-walk-man.png)
-![imagem pessoa](relaxing-walk-man-icecream.png)
+![imagem pessoa](relaxing-walk-men-icecream.png)
 ![imagem pessoa](relaxing-walk-woman.png)
 ![imagem pessoa](relaxing-walk-woman-icecream.png)
 ![imagem carrinho](beach-umbrella.png)
