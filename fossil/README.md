@@ -20,16 +20,11 @@ Faixa etária indicada: 5 a 16 anos
 
 ## Medidas
 
-**Para um montão:**
-* 2 xícaras de farinha de trigo
-* 1 xícara de sal
-* 1 xícara de água morna
-
-**Para um montinho:** 
-* 1/2 xícaras de farinha de trigo
-* 1/4 xícara de sal
-* 1/4 xícara de água morna
-
+| **Para um montão:** | **Para um montinho:**  |
+|:-----------:|:-------------:|
+| 2 xícaras de farinha de trigo|  1/2 xícaras de farinha de trigo|
+| 1 xícara de sal | 1/4 xícara de sal|
+| 1 xícara de água morna | 1/4 xícara de água morna |
 
 ## Como fazer
 * Misture bem a farinha e o sal
