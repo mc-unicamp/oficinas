@@ -16,10 +16,9 @@ Faixa etária indicada: acima de 10 anos.
 ![origamis](deonde.png)
 
 ## Tutoriais de Origamis
-
-Para dar um gostinho de como é essa oficina, o Museu disponibilizou tutorais dos origamos em seu YouTube! A descrição de cada vídeo está recheada de informações e links interessantes, não esqueça de dar uma olhada lá ;) _Para acessar a playlist basta clicar na imagem_
-
-[<img src="videos.png" width="60%" height="60%">](https://youtube.com/playlist?list=PL7FkgJrOVo2bBwugblsqzjxyxkubx507Q)
+|_Para acessar a playlist basta clicar na imagem_||
+|:-------------:|:-------------:|
+|Para dar um gostinho de como é essa oficina, o Museu disponibilizou tutorais dos origamos em seu YouTube! A descrição de cada vídeo está recheada de informações e links interessantes, não esqueça de dar uma olhada lá|[<img src="videos.png" width="60%" height="60%">](https://youtube.com/playlist?list=PL7FkgJrOVo2bBwugblsqzjxyxkubx507Q)|
 
 ## Para saber mais!
 
