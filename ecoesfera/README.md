@@ -28,6 +28,7 @@
 * Casca de árvore (Geralmente casca de pinus, vendido também como substrato de orquídea)
 
 ## Montagem
+
 |Para ter sua própria ecoesfera|| 
 |:-------------:|:-------------:|
 |Siga o passo a passo do vídeo. (_É só clicar na imagem ao lado que você será redirecionado_)|[<img src="1_ecoesfera.jpg" width="90%" height="90%">](https://youtu.be/p_QyTikuZa8)|
