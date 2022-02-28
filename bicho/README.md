@@ -6,20 +6,22 @@
 
 Essa é a definição de Bioma encontrada no IBGE, mas será que é só isso mesmo? Que tal utilizarmos uma ferramenta de visualização de imagens de satélite para conhecer e explorar os diferentes biomas brasileiros, e entender o que essa definição significa. Utilizando o [Google Earth](https://earth.google.com/) vamos embarcar nessa viagem pelo Brasil!
 
-O clima, altitude, vegetação, solo e tantas outras características, impactam diretamente na vida vegetal e animal, mas será que conseguimos descobrir qual(is) bioma(s) um animal habita apenas com essas caracteríscias? A segunda parte, que dá nome a oficina, consiste em descobrir o animal de origami que estamos fazendo e criar hipóteses sobre qual o seu habitat, compreendendo assim a delicada relação entre o meio ambiente e os seres vivos.
+O clima, altitude, vegetação, solo e tantas outras características, impactam diretamente na vida vegetal e animal, mas será que conseguimos descobrir qual(is) bioma(s) um animal habita apenas com essas caracteríscias?
+
+|||
+|:-------------:|:-------------:|
+|![origamis](deonde.png)| A segunda parte, que dá nome a oficina, consiste em descobrir o animal de origami que estamos fazendo e criar hipóteses sobre qual o seu habitat, compreendendo assim a delicada relação entre o meio ambiente e os seres vivos.|
 
 ## Faixa Etária
 Faixa etária indicada: acima de 10 anos.
 
 (A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)
 
-![origamis](deonde.png)
-
 ## Tutoriais de Origamis
 
 |_Para acessar a playlist basta clicar na imagem_||
 |:-------------:|:-------------:|
-|Para dar um gostinho de como é essa oficina, o Museu disponibilizou tutorais dos origamos em seu YouTube! A descrição de cada vídeo está recheada de informações e links interessantes, não esqueça de dar uma olhada lá| [<img src="videos.png" width="60%" height="60%">](https://youtube.com/playlist?list=PL7FkgJrOVo2bBwugblsqzjxyxkubx507Q)|
+|Para dar um gostinho de como é essa oficina, o Museu disponibilizou tutorais dos origamos em seu YouTube! A descrição de cada vídeo está recheada de informações e links interessantes, não esqueça de dar uma olhada lá| [<img src="videos.png" width="90%" height="90%">](https://youtube.com/playlist?list=PL7FkgJrOVo2bBwugblsqzjxyxkubx507Q)|
 
 ## Para saber mais!
 
