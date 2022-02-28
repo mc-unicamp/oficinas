@@ -1,7 +1,8 @@
 # Construindo uma EcoEsfera
-<img src="ecoesfera_b.jpeg" width="60%" height="60%">
 
-Já imaginou ter um pedacinho da natureza em um pote pertinho de você? Ver um ecossistema se desenvolvendo e crescendo? Aventure-se construindo uma EcoEsfera!
+Já imaginou ter um pedacinho da natureza em um pote pertinho de você? Ver um ecossistema se desenvolvendo e crescendo? Construa o seu micromundo, conhecendo o funcionamento básico de um ecossistema, os caminhos do ciclo da água e o processo de equilíbrio entre os vários elementos. Aventure-se construindo uma EcoEsfera, um universo incrivelmente bonito, vivo e autossuficiente.!.
+
+<img src="ecoesfera_b.jpeg" width="60%" height="60%">
 
 ## Faixa Etária
 Faixa etária indicada: à partir de 8 anos
@@ -16,6 +17,8 @@ Faixa etária indicada: à partir de 8 anos
 * Pedaço pequeno de Pano, aprox. 10x10cm (Feltro/TNT/Manta Geotêxtil/Algodão/etc.)
 * Plantas pequenas, ervas daninhas, suculentas ou musgos.
 
+![materiais](materialecoesfera.png)
+
 ## Materiais opcionais:
 * Areia
 * Pedras de Jardim
@@ -25,5 +28,3 @@ Faixa etária indicada: à partir de 8 anos
 ## Montagem
 Para montar sua ecoesfera siga o passo a passo do vídeo. (_É só clicar na imagem abaixo que você será redirecionado ao vídeo_)
 [<img src="1_ecoesfera.jpg" width="50%" height="50%">](https://youtu.be/p_QyTikuZa8)
-
-_Futuramente adicionaremos aqui o passo à passo com imagens e dicas de construção!_
