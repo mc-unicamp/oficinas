@@ -42,9 +42,8 @@ Faixa etária indicada: 8 a 11 anos
 
 
 ## Autoras
-|||  
-|:-------------:|:-------------:|
-|Essa oficina foi idealizada e desenvolvida por alunas de graduação durante uma disciplina de estágio de licenciatura no Museu.|<img src="levs.jpeg" width="50%" height="50%">| 
+Essa oficina foi idealizada e desenvolvida por alunas de graduação durante uma disciplina de estágio de licenciatura no Museu.
+<img src="levs.jpeg" width="20%" height="20%">
 
 **[Cecília Damiano](http://lattes.cnpq.br/5058348826136179)** 
 [✉️](mailto:c195629@dac.unicamp.br)
