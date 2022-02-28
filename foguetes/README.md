@@ -1,7 +1,8 @@
 # Foguetes de Cartolina
 
 ## Apresentação
-Nessa oficina o céu não é mais o limite! Venha construir um foguete que, embora seja simples, é muito poderoso e pode ir longe.
+Nessa oficina o céu não é mais o limite! Venha construir um foguete que, embora seja simples, é muito poderoso e pode ir longe. 
+Conheça conceitos básicos de Física usados na construção de foguetes, explore métodos de comparação de distâncias e técnicas de aperfeiçoamento de voo, aprimore o seu projeto com escolhas bem fundamentadas.Na oficina, você colocará a mão na massa para entender, na prática, como pensam e agem os cientistas, diante dos desafios.
 
 ## Faixa Etária
 Faixa etária indicada: 10 a 15 anos
@@ -17,13 +18,14 @@ Faixa etária indicada: 10 a 15 anos
 * Molde impresso em folha A4
 
 ## Molde
-Imprima o molde abaixo em uma folha A4 na orientação retrato antes da oficina para construir as peças necessárias.
+Imprima o molde abaixo em uma folha A4 na orientação retrato antes da oficina para construir as peças necessárias.         
 _(Clique com o botão direto do mouse em cima da imagem, depois "Salvar imagem como" para salvar o arquivo e conseguir imprimir a imagem sem distorção)_
-
-![Molde A4](Molde_Foguete_Cartolina_Logo.png)
+![Molde A4](molde-foguete-_1_.png)
 
 ## Montagem
 Continue ligado em nossas redes sociais para se inscrever na oficina onde aprederemos a construir esse foguete incrível! 
+
+![Foguete](WhatsApp_Image_2021-12-16_at_20.36.20-removebg-preview.png)
 
 _Em breve disponibilizaremos o passo a passo aqui também._ 
 _Por enquanto você encontra as instruções de montagem clicando no link abaixo_
