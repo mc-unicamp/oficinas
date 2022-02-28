@@ -1,9 +1,8 @@
 # A História de um Fóssil: Colocando a Mão na Massa
 
-## Apresentação
-Nessa oficina, recriaremos, juntos, uma representação das condições de fossilização e produziremos o nosso “fóssil” caseiro, ao estilo fóssil de impressão. Faremos isso colocando a mão na massa, preparando uma mistura de ingredientes simples para obter uma réplica de rocha sedimentar, base do nosso projeto.
-
-<img src="fossildino.jpeg" width="50%" height="50%">
+|Apresentação||
+|:-------------:|:-------------:|
+|Nessa oficina, recriaremos, juntos, uma representação das condições de fossilização e produziremos o nosso “fóssil” caseiro, ao estilo fóssil de impressão. Faremos isso colocando a mão na massa, preparando uma mistura de ingredientes simples para obter uma réplica de rocha sedimentar, base do nosso projeto.|![fossil](fossildino.jpeg)| 
 
 ## Faixa Etária
 
@@ -11,20 +10,15 @@ Faixa etária indicada: 5 a 16 anos
 
 *(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*
 
-## Materiais
+## Ingredientes e medidas 
 
-* 2 xícaras de farinha de trigo
-* 1 xícara de sal
-* 1 xícara de água morna (vamos misturar lentamente)
-* Objetos pequenos para “fossilizar” (modelos miniaturas de dinossauros e outros animais, folhas de plantas, conchas, etc).
+|Ingrediente| **Para um montão:** | **Para um montinho:**  |
+|:-----------:|:-------------:|:-------------:|
+|Farinha de trigo| 2 xícaras|  1/2 xícaras |
+|Sal| 1 xícara| 1/4 xícara|
+|Água morna | 1 xícara  | 1/4 xícara|
 
-## Medidas
-
-| **Para um montão:** | **Para um montinho:**  |
-|:-----------:|:-------------:|
-| 2 xícaras de farinha de trigo|  1/2 xícaras de farinha de trigo|
-| 1 xícara de sal | 1/4 xícara de sal|
-| 1 xícara de água morna | 1/4 xícara de água morna |
+* **Objetos pequenos para “fossilizar”**  (modelos miniaturas de dinossauros e outros animais, folhas de plantas, conchas, etc).
 
 ## Como fazer
 * Misture bem a farinha e o sal
@@ -36,6 +30,8 @@ Faixa etária indicada: 5 a 16 anos
   * Ou acelerar um pouco deixando no forno em temperatura baixa entre 15 a 30 minutos.
   
 ## Dicas
-Depois de seco, é interessante impermeabilizar seu fóssil. Você pode fazer isso passando uma camada de cola branca ou verniz sobre o fóssil. Ou então pintar com tinta guache, deixando ele com cara de rocha!
-![Fóssil Pintado](osso.jpeg)
+|||
+|:-------------:|:-------------:|
+|Depois de seco, é interessante impermeabilizar seu fóssil. Você pode fazer isso passando uma camada de cola branca ou verniz sobre o fóssil. Ou então pintar com tinta guache, deixando ele com cara de rocha!|![Fóssil Pintado](osso.jpeg)| 
+
 
