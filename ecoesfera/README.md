@@ -1,4 +1,3 @@
-# Construindo uma EcoEsfera
 
 |Construindo uma EcoEsfera||  
 |:-------------:|:-------------:|
@@ -27,6 +26,4 @@
 * Casca de árvore (Geralmente casca de pinus, vendido também como substrato de orquídea)
 
 ## Montagem
-|Montando sua própria ecoesfera ||
-|:-------------:|:-------------:|
-| Siga o passo a passo do vídeo.   **--------------------------->**   (_É só clicar na imagem ao lado que você será redirecionado_)|[<img src="1_ecoesfera.jpg" width="50%" height="50%">](https://youtu.be/p_QyTikuZa8)|
+Siga o passo a passo do vídeo. (_É só clicar na imagem abaixo que você será redirecionado_)[<img src="1_ecoesfera.jpg" width="50%" height="50%">](https://youtu.be/p_QyTikuZa8)
