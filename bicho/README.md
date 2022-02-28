@@ -13,16 +13,18 @@ Faixa etária indicada: acima de 10 anos.
 
 (A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)
 
+![origamis](deonde.png)
+
 ## Tutoriais de Origamis
 
-Para dar um gostinho de como é essa oficina, o Museu disponibilizou tutorais dos origamos em seu YouTube! A descrição de cada vídeo está recheada de informações e links interessantes, não esqueça de dar uma olhada lá ;)
+Para dar um gostinho de como é essa oficina, o Museu disponibilizou tutorais dos origamos em seu YouTube! A descrição de cada vídeo está recheada de informações e links interessantes, não esqueça de dar uma olhada lá ;) _Para acessar a playlist basta clicar na imagem_
 
 [<img src="videos.png" width="60%" height="60%">](https://youtube.com/playlist?list=PL7FkgJrOVo2bBwugblsqzjxyxkubx507Q)
-
-_Para acessar a playlist basta clicar na imagem_
 
 ## Para saber mais!
 
 [Biomas IBGE](https://geoftp.ibge.gov.br/informacoes_ambientais/estudos_ambientais/biomas/documentos/Sintese_Descricao_Biomas.pdf)
 
 [Artigo científico sobre a definição de Bioma](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-33062006000100002)
+
+
