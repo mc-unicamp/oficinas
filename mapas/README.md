@@ -3,7 +3,7 @@
 
 |||
 |:-------------:|:-------------:|
-|Construa montanhas, e aprenda a utilizar diferentes técnicas de representação para desenhar o mundo. Acompanhe a evolução do mapeamento topográfico e explore mapas históricos.|   ![Gif Montanha](Webp_net-gifmaker.gif)             |
+|Construa montanhas, e aprenda a utilizar diferentes técnicas de representação para desenhar o mundo. Acompanhe a evolução do mapeamento topográfico e explore mapas históricos.|   <img src="Webp_net-gifmaker.gif" width="200%" height="200%">        |
 |  |   |
 
 ## Faixa etária
@@ -21,6 +21,6 @@ entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)
 |  |  1 régua |Massa de modelar ou argila |
 
 
-**OBS:** A massa de modelar não pode ser muito pegajosa. A quantidade deve ser igual ao tamanho de seu punho.
+**OBS:** A massa de modelar não pode ser muito pegajosa. A quantidade deve ser igual ao tamanho de seu punho.    
 
 ![Gif Montanha](Webp.net-gifmaker(5).gif)
