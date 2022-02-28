@@ -2,7 +2,7 @@
 
 |Apresentação|
 |:-------------:|
-|Nessa oficina o céu não é mais o limite! Venha construir um foguete que, embora seja simples, é muito poderoso e pode ir longe. Conheça conceitos básicos de Física usados na construção de foguetes, explore métodos de comparação de distâncias e técnicas de aperfeiçoamento de voo, aprimore o seu projeto com escolhas bem fundamentadas. Coloque a mão na massa para entender, na prática, como pensam e agem os cientistas, diante dos desafios.|![foguete](Semtítulo.png)| 
+|Nessa oficina o céu não é mais o limite! Venha construir um foguete que, embora seja simples, é muito poderoso e pode ir longe. Conheça conceitos básicos de Física usados na construção de foguetes, explore métodos de comparação de distâncias e técnicas de aperfeiçoamento de voo, aprimore o seu projeto com escolhas bem fundamentadas. Coloque a mão na massa para entender, na prática, como pensam e agem os cientistas, diante dos desafios.|
 |![foguete](Semtítulo.png)|
 
 
