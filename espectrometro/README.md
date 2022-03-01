@@ -1,6 +1,8 @@
 # Mensagens na Luz - Espectrômetro Caseiro
 
-Nessa oficina você vai construir um aparato que o permitirá estudar a luz e entender como ele nos ajuda a explorar e descobrir a composição do universo!
+|<img src="luzz.png" width="70%" height="70%"> |
+| :-----:|
+|Sabia que a luz pode revelar a composição de um astro celeste?  Descubra o que é um espectrômetro, e como ele funciona, construindo o seu modelo caseiro, e com o auxílio da Física, analise os espectros coloridos em busca de importantes informações escondidas.|
 
 ## Materiais
 
@@ -11,10 +13,15 @@ Nessa oficina você vai construir um aparato que o permitirá estudar a luz e en
 * Fita crepe ou adesiva
 * Fonte luminosa (luz solar, lâmpada, lanterna, apontador laser, etc.)
 
-![gifmateriais](meteriais.gif)
 
-## Como fazer
 
-Se inscreva em nossas oficinas para acompanhar o passo a passo! Em breve disponibilizaremos ele aqui também.
+## Como fazer:
+
+| Se inscreva em nossas oficinas para acompanhar o passo a passo! |
+| :-----:|
+|<img src="meteriais.gif" width="100%" height="100%">|
+
+
+
 
 Oficina baseadas em [Experimentos de Astronomia para o Ensino Fundamental e Médio](http://each.uspnet.usp.br/ortiz/classes/experimentos_2011.pdf) de Roberto Ortiz - Escola de Artes, Ciências e Humanidades da USP.
