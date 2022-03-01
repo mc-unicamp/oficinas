@@ -1,6 +1,8 @@
 # Oficina de Aviões
 
-Seja através da construção aviões de papel ou utilizando materiais recicláveis, nessa oficina do Museu, você se tornará um pequeno cientista! Utilizando e compreendendo o método científico você será capaz de dominar os céus!
+|<img src= "aviao.png" width="70%" height="70%"> |
+|:----:|
+|Seja através da construção aviões de papel ou utilizando materiais recicláveis, nessa oficina do Museu, você se tornará um pequeno cientista! Utilizando e compreendendo o método científico você será capaz de dominar os céus!|
 
 ## Faixa Etária
 Faixa etária indicada: 7 a 13 anos
