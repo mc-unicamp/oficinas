@@ -4,7 +4,7 @@
 |Apresentação|
 |:-------------:|
 |Som, música e conceitos de Física. Nesta oficina, veremos como as propriedades do som e os fenômenos que as alteram são usados na construção de instrumentos musicais. Aprenda a ler partitura da ciência e a produzir música em casa.|
-|<img src="instrumentos musicais.jpg" width="50%" height="50%">|
+|<img src="musica.png" width="70%" height="70%">|
 |Após a apresentação, serão usados recipientes de vidro (copo, garrafas, taças) que serão preenchidos com quantidades diferentes de água. Então, com a colher, bateremos nos recipientes para ver as diferenças entre as frequências de cada um deles.|
 
 ## Faixa Etária
