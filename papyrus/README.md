@@ -2,6 +2,10 @@
 
 Se prepare para ver a evolução atuando na prática e descobrir um dos mais importantes mecanismos da vida!
 
+|<img src="ave.png" width="70%" height="70%"> |
+| :-----:|
+|Evolução é sinônimo de melhoria? Vamos descobrir juntos, criando a nossa própria espécie de ave e explorando os diversos caminhos do processo evolutivo. Qual será o comportamento de sua ave ao ser exposta aos desafios da seleção natural?|
+
 ## Faixa Etária
 * Faixa etária indicada: a partir de 11 anos
 
@@ -16,12 +20,9 @@ Se prepare para ver a evolução atuando na prática e descobrir um dos mais imp
 * Molde impresso
 
 ## Molde
-Imprima o molde abaixo em uma folha A4 na orientação retrato antes da oficina para construir as peças necessárias.
+Imprima o molde abaixo em uma folha A4 na orientação retrato antes da oficina para construir as peças necessárias. _(Clique com o botão direto do mouse em cima da imagem, depois "Salvar imagem como" para salvar o arquivo e conseguir imprimir a imagem sem distorção)_
+
 ![Molde_Avis](Molde_Avis_Papyrus_3.png)
-_(Clique com o botão direto do mouse em cima da imagem, depois "Salvar imagem como" para salvar o arquivo e conseguir imprimir a imagem sem distorção)_
-
-
-
 
 ## Processo
 Continue ligado em nossas redes sociais para se inscrever na oficina onde você aprenderá como a evolução funciona.
