@@ -1,10 +1,12 @@
-![Oficina Maker de Aplicativos](https://raw.githubusercontent.com/mc-unicamp/oficinas/master/appmaker/images/smartphone-1184883_640.png)
+
 
 # Oficina Maker de Aplicativos
 
-Você vira seu celular e a fotografia gira.
+|<img src="maker.png" width="70%" height="70%"> |
+| :---:|
+||
 
-Seu dedo toca na tela e seu jogo emite um som de explosão.
+Você vira seu celular e a fotografia gira. Seu dedo toca na tela e seu jogo emite um som de explosão.
 
 Você já se perguntou como tudo isso é possível?
 
@@ -14,9 +16,10 @@ Torne-se você também um inventor de aplicativos!
 
 # Faixa Etária
 
-Faixa etária indicada: à partir de 11 anos
+|Faixa etária indicada: à partir de 11 anos||
+| :----: | :-------: |
+|(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)|![Oficina Maker de Aplicativos](https://raw.githubusercontent.com/mc-unicamp/oficinas/master/appmaker/images/smartphone-1184883_640.png)|
 
-(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)
 
 # Preparando-se para a Oficina
 
@@ -37,13 +40,14 @@ as atividades normalmente, mas não será possível testá-lo.
 
 Para que os aplicativos desenvolvidos pelos alunos possam ser executados no dispositivo é necessária a instalação prévia do aplicativo MIT AI2 Companion disponível no Google Play.
 
-Recomendamos que o aplicativo seja instalado antes da oficina!
+Recomendamos que o aplicativo seja instalado **antes da oficina!**
 
 ![ai2.appinventor.mit.edu/](https://producaodejogos.com/wp-content/uploads/2018/07/MIT_AI2.jpg)
 
 # Vídeo da oficina
 
-[https://www.youtube.com/watch?v=aWxIs1wratM](https://www.youtube.com/watch?v=aWxIs1wratM)
-
+|_clicar na imagem para ser redirecionado ao vídeo_|[<img src="live.png" width="60%" height="60%">](https://www.youtube.com/watch?v=aWxIs1wratM)|
+|:-------------:|:-------------:|
+|||
 
 
