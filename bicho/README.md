@@ -4,6 +4,8 @@
 
 |<img src="bicho.png" width="70%" height="70%"> |
 | :-----:|
+||
+
 
 > "Bioma - Grande conjunto de vida vegetal e animal caracterizado pelo tipo de vegetação dominante” 
 
