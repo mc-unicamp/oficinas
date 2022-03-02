@@ -1,14 +1,13 @@
 # A História de um Fóssil: Colocando a Mão na Massa
 
-|Apresentação||
-|:-------------:|:-------------:|
-|Nessa oficina, recriaremos, juntos, uma representação das condições de fossilização e produziremos o nosso “fóssil” caseiro, ao estilo fóssil de impressão. Faremos isso colocando a mão na massa, preparando uma mistura de ingredientes simples para obter uma réplica de rocha sedimentar, base do nosso projeto.|![fossil](fossildino.jpeg)| 
+|<img src="fossil.png" width="70%" height="70%"> |
+|:-------------:|
+|Nessa oficina, recriaremos, juntos, uma representação das condições de fossilização e produziremos o nosso “fóssil” caseiro, ao estilo fóssil de impressão. Faremos isso colocando a mão na massa, preparando uma mistura de ingredientes simples para obter uma réplica de rocha sedimentar, base do nosso projeto.|
 
 ## Faixa Etária
-
-Faixa etária indicada: 5 a 16 anos
-
-*(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*
+|Faixa etária indicada: 7 a 12 anos||
+|:-----:|:-----:|
+|*(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*|![fossil](fossildino.jpeg)|
 
 ## Ingredientes e medidas 
 
