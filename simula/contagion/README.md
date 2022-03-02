@@ -2,7 +2,7 @@
 
 |<img src="virus.png" width="70%" height="70%"> |
 | :------: |
-|Nesta oficina, você vai utilizar um programa de simulação para estudar como um vírus é transmitido entre pessoas, observando e analisando o seu comportamento, descobrindo como ele se espalha. Trabalhe em um modelo de simulação e entenda como o recurso é importante para a Ciência, auxiliando na compreensão de fenômenos complexos, como a contaminação.  Vamos descobrir juntos como um vírus se espalha tão depressa, quais os efeitos do distanciamento social, do uso de máscaras e da vacina.|
+|Trabalhe em um modelo de simulação e entenda como o recurso é importante para a Ciência, auxiliando na compreensão de fenômenos complexos, como a contaminação.  Vamos descobrir juntos como um vírus se espalha tão depressa, quais os efeitos do distanciamento social, do uso de máscaras e da vacina.|
 
 ## Faixa Etária
 
