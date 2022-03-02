@@ -2,6 +2,14 @@
 
 ## Introdução
 
-Venha desvendar como conseguimos ensinar os computadores a pensar (ou quase isso), nessa oficina você irá explorar as possibilidades incríveis que o _Machine Learning_ nos proporciona!
+|<img src="maq1.png" width="70%" height="70%"> |
+| :------:|
+|Na oficina, obtenha noções de como um computador é preparado usando conceitos de Aprendizado de Máquina (Machine Learning).  Aprimore o projeto proposto, realizando testes de avaliação e ajustando os parâmetros da programação.|
 
-![Em_construção](construção.png)
+## Faixa Etária
+
+Faixa etária indicada:
+
+* Júnior: 7 a 11 anos.
+
+* Avançado: à partir de 12 anos.
