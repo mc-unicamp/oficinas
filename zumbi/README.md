@@ -1,5 +1,9 @@
 # Zumbi Venom
 
+|<img src="zombie.png" width="70%" height="70%"> |
+| :--------:|
+|Mostre o seu talento interpretando o papel de um médico Girafa que deve diagnosticar zumbis intoxicados, analisando sintomas e sinais característicos. Conheça as formas como médicos e cientistas estudam, utilizam ferramentas e métodos específicos para explorar o mundo.|
+
 # Treino
 
 [![Zumbi Treino](images/zombie-wall.png)](harena/scripts/playground/editor.html?source=cell/zombie-wall-train1&mode=no-script)
