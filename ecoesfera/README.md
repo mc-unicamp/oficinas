@@ -1,8 +1,8 @@
 # Construindo uma EcoEsfera
 
-|Construindo uma EcoEsfera||  
-|:-------------:|:-------------:|
-| Já imaginou ter um pedacinho da natureza em um pote pertinho de você? Ver um ecossistema se desenvolvendo e crescendo? Construa o seu micromundo, conhecendo o funcionamento básico de um ecossistema, os caminhos do ciclo da água e o processo de equilíbrio entre os vários elementos. Aventure-se construindo uma EcoEsfera, um universo incrivelmente bonito, vivo e autossuficiente.!.| <img src="1ce0a069-96ec-43fd-a100-8d1129db85f7-removebg-preview.png" width="100%" height="100%">  | 
+|<img src="eco.png" width="70%" height="70%"> |
+|:-------------:|
+| Já imaginou ter um pedacinho da natureza em um pote pertinho de você? Ver um ecossistema se desenvolvendo e crescendo? Construa o seu micromundo, conhecendo o funcionamento básico de um ecossistema, os caminhos do ciclo da água e o processo de equilíbrio entre os vários elementos. Aventure-se construindo uma EcoEsfera, um universo incrivelmente bonito, vivo e autossuficiente.!.|
  
 
 ## Faixa Etária
@@ -19,7 +19,10 @@
 * Pote transparente de Vidro (Potes de Geleia, Azeitona e semelhantes) com tampa
 * Pedaço pequeno de Pano, aprox. 10x10cm (Feltro/TNT/Manta Geotêxtil/Algodão/etc.)
 
-<img src="materialecoesfera.png" width="70%" height="70%">
+|<img src="materialecoesfera.png" width="100%" height="100%">| <img src="1ce0a069-96ec-43fd-a100-8d1129db85f7-removebg-preview.png" width="100%" height="100%">  | 
+| :-------: | :-----: |
+|| | 
+
 
 ## Materiais opcionais:
 * Areia
