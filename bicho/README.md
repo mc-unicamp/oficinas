@@ -2,6 +2,9 @@
 
 ## Biomas do Brasil
 
+|<img src="bicho.png" width="70%" height="70%"> |
+| :-----:|
+
 > "Bioma - Grande conjunto de vida vegetal e animal caracterizado pelo tipo de vegetação dominante” 
 
 Essa é a definição de Bioma encontrada no IBGE, mas será que é só isso mesmo? Que tal utilizarmos uma ferramenta de visualização de imagens de satélite para conhecer e explorar os diferentes biomas brasileiros, e entender o que essa definição significa. Utilizando o [Google Earth](https://earth.google.com/) vamos embarcar nessa viagem pelo Brasil!
