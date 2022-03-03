@@ -1,12 +1,14 @@
 # Planet Hunters
 
-<img src="mountains-1112911_1920.jpg" width="70%" height="70%">
- 
-#### “Você já pensou em viajar para um planeta com dois sóis? E um onde a vegetação é vermelha? Que tal visitar um planeta com um oceano de lava fervente?
-
 ## Apresentação
-O Universo está repleto de planetas muito interessantes! Alguns são assustadores e outros têm características que vão muito além do que podemos imaginar! 
-Em nossa Galáxia já foram descobertos alguns milhares desses planetas, mas ainda há muito o que se explorar! Em “Planet Hunters” vamos aprender como encontrar esses mundos tão distantes! Preparados para a caçada!?”
+
+|<img src="planet.png" width="70%" height="70%"> |
+| :----:|
+|O Universo está repleto de planetas muito interessantes! Alguns são assustadores e outros têm características que vão muito além do que podemos imaginar!  Em nossa Galáxia já foram descobertos alguns milhares desses planetas, mas ainda há muito o que se explorar! Em “Planet Hunters” vamos aprender como encontrar esses mundos tão distantes! Preparados para a caçada!?”|
+
+|“Você já pensou em viajar para um planeta com dois sóis? E um onde a vegetação é vermelha? Que tal visitar um planeta com um oceano de lava fervente? |<img src="mountains-1112911_1920.jpg" width="70%" height="70%">|
+| :----:|:----:|
+|||
 
 ## Faixa Etária
 Faixa etária indicada: 8 a 12 anos
