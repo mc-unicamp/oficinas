@@ -1,16 +1,16 @@
 #  Investigando os Limites da Vida 
 ## Como as Mudanças Climáticas afetam os seres vivos
 
-<img src="planeta_perdido1.jpg" width="80%" height="80%">
-
-> Um dos astronautas da equipe do Museu Exploratório de Ciências da Unicamp precisa de ajuda! Durante uma missão em um planeta distante ele encontrou estranhos lagos borbulhantes. Participe dessa incrível oficina e ajude na missão!
-
+|Um dos astronautas da equipe do Museu Exploratório de Ciências da Unicamp precisa de ajuda! Durante uma missão em um planeta distante ele encontrou estranhos lagos borbulhantes. Participe dessa incrível oficina e ajude na missão!|
+| :------:|
+|<img src="vida2.png" width="70%" height="40%">|
 
 ## Apresentação
 
-Através do contato com nosso astronauta perdido os participantes dessa oficina experimentaram a rotina de um cientista. Com materiais simples realizaremos experimentos e coleta de dados para auxiliar o nosso colega perdido no espaço.
+|<img src="vida.png" width="70%" height="70%">|
+| :------:|
+|Através do contato com nosso astronauta perdido os participantes dessa oficina experimentaram a rotina de um cientista. Com materiais simples realizaremos experimentos e coleta de dados para auxiliar o nosso colega perdido no espaço. Além disso, seremos capazes de compreender como os impactos ambientais alteram as condições de vida dos seres vivos e como a manutenção da vida na Terra se trata de um equilíbrio delicado.|
 
-Além disso, seremos capazes de compreender como os impactos ambientais alteram as condições de vida dos seres vivos e como a manutenção da vida na Terra se trata de um equilíbrio delicado.
 
 ## Faixa Etária
 Faixa etária indicada: 8 a 11 anos
@@ -43,6 +43,7 @@ Faixa etária indicada: 8 a 11 anos
 
 ## Autoras
 Essa oficina foi idealizada e desenvolvida por alunas de graduação durante uma disciplina de estágio de licenciatura no Museu.
+
 <img src="levs.jpeg" width="20%" height="20%">
 
 **[Cecília Damiano](http://lattes.cnpq.br/5058348826136179)** 
