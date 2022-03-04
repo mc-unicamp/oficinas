@@ -7,6 +7,7 @@ Através de diferentes disciplinas e tecnologias, o método e a construção do 
 * [EcoEsfera](ecoesfera/)
 * [A Evolução de Avis papyrus](papyrus/)
 * [De Onde Esse Bicho Vem?](bicho/)
+* [Mensagens na Garrafa](mensagemgarrafa/)
 * [Investigando os Limites da Vida](levedura/)
   * [Material para Educadores](treinamento-levedura/)   
 
