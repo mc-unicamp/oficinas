@@ -1,15 +1,15 @@
 # Foguetes de Cartolina
 
-|Apresentação|
+|<img src="foguete.png" width="70%" height="70%">  |
 |:-------------:|
 |Nessa oficina o céu não é mais o limite! Venha construir um foguete que, embora seja simples, é muito poderoso e pode ir longe. Conheça conceitos básicos de Física usados na construção de foguetes, explore métodos de comparação de distâncias e técnicas de aperfeiçoamento de voo, aprimore o seu projeto com escolhas bem fundamentadas. Coloque a mão na massa para entender, na prática, como pensam e agem os cientistas, diante dos desafios.|
-|![foguete](Semtítulo.png)|
 
 
 ## Faixa Etária
-Faixa etária indicada: 10 a 15 anos
 
-*(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*
+|Faixa etária indicada: 10 a 15 anos ||
+|:-------------:|:-------------:|
+|*(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*|![foguete](Semtítulo.png)|
 
 ## Materiais
 * Tesoura
