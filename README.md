@@ -52,7 +52,7 @@ Através de diferentes disciplinas e tecnologias, o método e a construção do 
 * [Simulando um Vírus para entender Doenças](simula/contagion/)
 
 ### Simulação Física
-* [Física e Foguetes](https://bit.ly/museu-foguetes)
+* [Física e Foguetes](simula/simufoguete/)
 
 ### Inferências em Saúde
 * [Zombie Venom](https://bit.ly/museu-zumbi)
