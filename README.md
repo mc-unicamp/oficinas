@@ -34,6 +34,7 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 
 ### Matemática
 * [Mundo dos Bloquinhos](bloquinhos/)
+* [Explorando a Matemática dos Jogos](jogosmatematica/)
 
 ### Programação
 * [Oficina Maker de Aplicativos](appmaker/)
