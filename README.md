@@ -1,6 +1,10 @@
 Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unicamp.
 
 ## Oficinas Práticas
+
+|<img src="museub.png" width="50%" height="50%">  |
+|:-----:|
+||
 Através de diferentes disciplinas e tecnologias, o método e a construção do conhecimento científico são trabalhados em nossas oficinas.
 
 ### Biologia
