@@ -12,7 +12,7 @@ Através de diferentes disciplinas e tecnologias, o método e a construção do 
 
 ### Física
 * [Aviões de Papel](avioes/)
-* [Aviões de Material Reciclável](avioes/)
+* [Aviões de Material Reciclável](aviaomaker/)
 * [Foguetes de Cartolina](foguetes/)
 * [Mensagens na Luz - Espectrômetro Caseiro](espectrometro/)
 * [Planet Hunters](planet/)
