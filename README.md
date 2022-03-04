@@ -48,22 +48,19 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 
 ### Equilíbrio Ecológico
 * [Simulando Micro-organismos e o Equilíbrio da Vida](https://bit.ly/museu-micro)
-* [Dinossauros](simula/dinossauros/)
-* [Boids](https://bit.ly/museu-boids)
 * [Aquario Virtual](simula/aquarium-plus/)
 * [Cerrado](simula/cerrado/)
+* [Boids](https://bit.ly/museu-boids)
 
 ### Vírus e Contaminação
 * [Simulando um Vírus para entender Doenças](simula/contagion/)
 
 ### Simulação Física
-* [Física e Foguetes](simula/simufoguete/)
+* [Simulando a trajetória de foguetes](simula/simufoguete/)
 
 ### Inferências em Saúde
 * [Zombie Venom](https://bit.ly/museu-zumbi)
 
-### Avançado
-* [Fluídos](simula/automatos/)
 
 ## Este site foi escrito em Markdown
 
