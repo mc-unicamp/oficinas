@@ -2,9 +2,11 @@
 ## Investigando os Limites da Vida
 ### Como as Mudanças Climáticas afetam os seres vivos
 
-<img src="planeta_perdido1.jpg" width="60%" height="60%">
+|<img src="vida3.png" width="70%" height="70%">|
+|:-----:|
+|Olá, aqui você ira encontrar uma série de links e materiais para auxiliar na aplicação dessa oficina. Quaisquer dúvidas, entre em contato com algum dos criadores ou com um funcionário do Museu Exploratório de Ciências.|
 
-Olá, aqui você ira encontrar uma série de links e materiais para auxiliar na aplicação dessa oficina. Quaisquer dúvidas, entre em contato com algum dos criadores ou com um funcionário do Museu Exploratório de Ciências. Sinta-se a vontade para utilizar e adaptar os materiais, só pedimos que compartilhe conosco como foi sua experiência! Entre em contato via [Instagram](https://www.instagram.com/mcunicamp/) ou [Email](mailto:mc.unicamp.br) para que possamos trocar conhecimentos e trabalhar juntos na melhoria de nosssa oficinas.
+Sinta-se a vontade para utilizar e adaptar os materiais, só pedimos que compartilhe conosco como foi sua experiência! Entre em contato via [Instagram](https://www.instagram.com/mcunicamp/) ou [Email](mailto:mc.unicamp.br) para que possamos trocar conhecimentos e trabalhar juntos na melhoria de nossas oficinas.
 
 ## Slides para Apresentação
 
