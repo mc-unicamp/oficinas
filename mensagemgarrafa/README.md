@@ -9,9 +9,9 @@
  
 ## Faixa etária
 
-Faixa etária indicada: 10 a 12 anos
-
-*(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*
+|Faixa etária indicada: 10 a 12 anos||
+|:----:|:------:|
+|*(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*|<img src="garrafa.gif" width="50%" height="50%">|
 
 ## Materiais
 
@@ -24,3 +24,7 @@ Faixa etária indicada: 10 a 12 anos
 - 1 pote (300ml) com pedriscos (usada em aquário ou em jardim)
 - 1 pote (300ml) com cascalho grosso (usada em aquário ou em jardim)
 - 1 copo de 300mL com água suja (pode colocar barro, folhas secas cortadas, papel picado)
+
+|<img src="8a136cfb-47b6-4737-9eb1-8ea95a29319c.gif" width="70%" height="70%">  |
+|:-----:
+||
