@@ -17,28 +17,23 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |[<img src="deonde1.png" width="50%" height="50%">](bicho/)|[<img src="vida1.png" width="50%" height="50%">](levedura/)|
 ||  [Material para Educadores - Investigando os Limites da Vida](treinamento-levedura/) |
 
-* [EcoEsfera](ecoesfera/)
-* [A Evolução de Avis papyrus](papyrus/)
-* [De Onde Esse Bicho Vem?](bicho/)
-* [Investigando os Limites da Vida](levedura/)
-  * [Material para Educadores - Investigando os Limites da Vida](treinamento-levedura/) 
 
 ### Ecologia
-* [Mensagens na Garrafa](mensagemgarrafa/)
 
 |Mensagens na Garrafa|
 |:------:|
 |[<img src="garrafa1.png" width="25%" height="25%">](mensagemgarrafa/)|
 
-garrafa1.png
-
 ### Física
-* [Aviões de Papel](avioes/)
-* [Aviões de Material Reciclável](aviaomaker/)
-* [Foguetes de Cartolina](foguetes/)
-* [Mensagens na Luz - Espectrômetro Caseiro](espectrometro/)
-* [Planet Hunters](planet/)
-* [Como os instrumentos funcionam? - A Ciência por trás da música](musica/)
+
+|Aviões de Papel|Aviões de Material Reciclável|
+|:------:|:----:|
+|[<img src="avipapel1.png" width="50%" height="50%">](avioes/)|[<img src="aviao1.png" width="50%" height="50%">](aviaomaker/)|
+|**Foguetes de Cartolina**|**Mensagens na Luz - Espectrômetro Caseiro**|
+|[<img src="foguete1.png" width="50%" height="50%">](foguetes/)|[<img src="luz1.png" width="50%" height="50%">](espectrometro/)|
+|**Planet Hunters**| **Como os instrumentos funcionam? - A Ciência por trás da música**|
+|[<img src="planet1.png" width="50%" height="50%">](planet/)|[<img src="musica1.png" width="50%" height="50%">](musica/)|
+
 
 ### Química
 * [Laboratório de Cores](quimica-cores/)
