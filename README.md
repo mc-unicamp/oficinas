@@ -9,6 +9,7 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 **OBS:** Clique na imagem para saber mais sobre a oficina.
 
 ### Biologia
+
 |EcoEsfera|A Evolução de Avis papyrus|
 |:------:|:----:|
 |[<img src="eco1.png" width="50%" height="50%">](ecoesfera/)|[<img src="papiru1.png" width="50%" height="50%">](papyrus/)|
@@ -25,6 +26,11 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 ### Ecologia
 * [Mensagens na Garrafa](mensagemgarrafa/)
 
+|Mensagens na Garrafa|
+|:------:|
+|[<img src="garrafa1.png" width="25%" height="25%">](mensagemgarrafa/)|
+
+garrafa1.png
 
 ### Física
 * [Aviões de Papel](avioes/)
