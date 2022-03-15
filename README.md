@@ -51,8 +51,11 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 * [Restaurando a Arte e Desvendando a História Antiga (Temporada Encerrada - Indisponível)](anfora/)
 
 ### Matemática
-* [Mundo dos Bloquinhos](bloquinhos/)
-* [Explorando a Matemática dos Jogos](jogosmatematica/)
+
+|Mundo dos Bloquinhosl|Explorando a Matemática dos Jogos|
+|:------:|:----:|
+|[<img src="bloquinho1.png" width="50%" height="50%">](bloquinhos/)|[<img src="jogos1.png" width="50%" height="50%">](jogosmatematica/)|
+
 
 ### Programação
 * [Oficina Maker de Aplicativos](appmaker/)
