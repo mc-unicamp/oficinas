@@ -36,11 +36,16 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 
 
 ### Química
-* [Laboratório de Cores](quimica-cores/)
+
+|Laboratório de Cores|
+|:------:|
+|[<img src="cor1.png" width="25%" height="25%">](quimica-cores/)|
 
 ### Geografia
-* [A História de um Fóssil](fossil/)
-* [Explorando Mapas e Desenhando o Mundo](mapas/)
+
+|A História de um Fóssil|Explorando Mapas e Desenhando o Mundo|
+|:------:|:----:|
+|[<img src="fossil1.png" width="50%" height="50%">](fossil/)|[<img src="mundo1.png" width="50%" height="50%">](mapas/)|
 
 ### História
 * [Restaurando a Arte e Desvendando a História Antiga (Temporada Encerrada - Indisponível)](anfora/)
