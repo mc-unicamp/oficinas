@@ -6,13 +6,25 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |:-----:|
 |Através de diferentes disciplinas e tecnologias, o método e a construção do conhecimento científico são trabalhados em nossas oficinas.|
 
+**OBS:** Clique na imagem para saber mais sobre a oficina.
+
 ### Biologia
+|EcoEsfera|A Evolução de Avis papyrus|
+|:------:|:----:|
+|[<img src="eco1.png" width="50%" height="50%">](ecoesfera/)|[<img src="papiru1.png" width="50%" height="50%">](papyrus/)|
+|**De Onde Esse Bicho Vem?**|**Investigando os Limites da Vida**|
+|[<img src="deonde1.png" width="50%" height="50%">](bicho/)|[<img src="vida1.png" width="50%" height="50%">](levedura/)|
+||  [Material para Educadores - Investigando os Limites da Vida](treinamento-levedura/) |
+
 * [EcoEsfera](ecoesfera/)
 * [A Evolução de Avis papyrus](papyrus/)
 * [De Onde Esse Bicho Vem?](bicho/)
-* [Mensagens na Garrafa](mensagemgarrafa/)
 * [Investigando os Limites da Vida](levedura/)
-  * [Material para Educadores](treinamento-levedura/)   
+  * [Material para Educadores - Investigando os Limites da Vida](treinamento-levedura/) 
+
+### Ecologia
+* [Mensagens na Garrafa](mensagemgarrafa/)
+
 
 ### Física
 * [Aviões de Papel](avioes/)
