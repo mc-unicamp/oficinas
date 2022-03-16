@@ -18,7 +18,7 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 ||  [Material para Educadores - Investigando os Limites da Vida](treinamento-levedura/) |
 
 
-### Ecologia
+### Ciências Ambientais
 
 |Mensagens na Garrafa|
 |:------:|
