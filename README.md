@@ -47,41 +47,61 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |:------:|:----:|
 |[<img src="fossil1.png" width="50%" height="50%">](fossil/)|[<img src="mundo1.png" width="50%" height="50%">](mapas/)|
 
-### História
-* [Restaurando a Arte e Desvendando a História Antiga (Temporada Encerrada - Indisponível)](anfora/)
-
 ### Matemática
 
-|Mundo dos Bloquinhosl|Explorando a Matemática dos Jogos|
+|Mundo dos Bloquinhos|Explorando a Matemática dos Jogos|
 |:------:|:----:|
 |[<img src="bloquinho1.png" width="50%" height="50%">](bloquinhos/)|[<img src="jogos1.png" width="50%" height="50%">](jogosmatematica/)|
 
 
 ### Programação
-* [Oficina Maker de Aplicativos](appmaker/)
-* [Máquinas que Aprendem: Júnior e Avançado](ml/)
+
+|Oficina Maker de Aplicativos|Máquinas que Aprendem: Júnior e Avançado|
+|:------:|:----:|
+|[<img src="app.png" width="50%" height="50%">](appmaker/)|[<img src="maquina.png" width="50%" height="50%">](ml/)|
+
+### História
+* [Restaurando a Arte e Desvendando a História Antiga (Temporada Encerrada - Indisponível)](anfora/)
+
 
 ## Oficinas de Simulação
+
+### Equilíbrio Ecológico
+
+|Simulando Micro-organismos e o Equilíbrio da Vida|
+|:------:|
+|[<img src="mo.png" width="25%" height="25%">](https://bit.ly/museu-micro)|
+
+
+|Aquario Virtual|Cerrado|
+|:------:|:------:|
+|[<img src="aquario.png" width="50%" height="50%">](simula/aquarium-plus/)|[<img src="cerrado.png" width="50%" height="50%">](simula/cerrado/)|
+
+
+
+### Vírus e Contaminação
+
+|Simulando um Vírus para entender Doenças|
+|:------:|
+|[<img src="virus.png" width="25%" height="25%">](simula/contagion/)|
+
+
+### Simulação Física
+
+|Simulando a trajetória de foguetes|
+|:------:|
+|[<img src="simufoguete.png" width="25%" height="25%">](simula/simufoguete/)|
+
+
+### Inferências em Saúde
+
+|Zombie Venom|
+|:------:|
+|[<img src="zombie.png" width="25%" height="25%">](https://bit.ly/museu-zumbi)|
 
 ### Autômatos Celulares
 * [Básico](simula/automatos/)
 * [Máquinas Voadoras](https://bit.ly/museu-fly2)
-
-### Equilíbrio Ecológico
-* [Simulando Micro-organismos e o Equilíbrio da Vida](https://bit.ly/museu-micro)
-* [Aquario Virtual](simula/aquarium-plus/)
-* [Cerrado](simula/cerrado/)
-* [Boids](https://bit.ly/museu-boids)
-
-### Vírus e Contaminação
-* [Simulando um Vírus para entender Doenças](simula/contagion/)
-
-### Simulação Física
-* [Simulando a trajetória de foguetes](simula/simufoguete/)
-
-### Inferências em Saúde
-* [Zombie Venom](https://bit.ly/museu-zumbi)
-
 
 ## Este site foi escrito em Markdown
 
