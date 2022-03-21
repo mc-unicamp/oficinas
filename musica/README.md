@@ -9,7 +9,7 @@
 
 ## Faixa Etária
 
-Faixa etária indicada: 8 a 11 anos
+Indicada para o público de 8 a 10 anos
 
 *(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*
 
