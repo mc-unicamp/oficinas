@@ -2,9 +2,10 @@
 
 ## Apresentação
 
-Esta oficina mistura contação de história, trabalhos manuais e, ainda, convida para uma brincadeira que testa a capacidade de dedução. 
-Aprendendo e desenvolvendo técnicas de origami, você irá produzir figuras de seres pré-históricos (surpresa!), enquanto conhece elementos de um passado geológico e aspectos importantes da relação dos seres vivos com seus habitats.
-
+|<img src="preh.png" width="70%" height="70%"> |
+|:-------------:|
+|Esta oficina mistura contação de história, trabalhos manuais e, ainda, convida para uma brincadeira que testa a capacidade de dedução. 
+Aprendendo e desenvolvendo técnicas de origami, você irá produzir figuras de seres pré-históricos (surpresa!), enquanto conhece elementos de um passado geológico e aspectos importantes da relação dos seres vivos com seus habitats.|
 Curiosidades científicas sobre a origem e a evolução de espécies, complementam a atividade prática que trabalha habilidades de observação, concentração e coordenação motora.
 
 ## Faixa Etária
