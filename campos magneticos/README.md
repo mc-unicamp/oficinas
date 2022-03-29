@@ -2,7 +2,9 @@
 
 ## Apresentação
 
-Nesta oficina os participantes serão desafiados a construir um modelo de bússola caseira, a navegar pela história das grandes expedições marítimas e desvendar os mistérios dos campos magnéticos. 
+|<img src="navega.png" width="70%" height="70%"> |
+|:-------------:|
+| Nesta oficina os participantes serão desafiados a construir um modelo de bússola caseira, a navegar pela história das grandes expedições marítimas e desvendar os mistérios dos campos magnéticos. |
 
 Você que conhece as histórias das grandes navegações e entende a importância das expedições marítimas, já parou para pensar em algumas questões técnicas?
 Como os barcos conseguem atravessar um oceano? Por que o Sol é importante na navegação? Por que é necessário saber para que lado fica o Norte?
