@@ -1,5 +1,7 @@
 # Praça Espaço Tempo
 
+## Disponível para agendamento de oficinas PRESENCIAIS
+
 |<img src="praca.png" width="70%" height="70%">|
 |-------|
 ||
@@ -13,4 +15,7 @@ Faixa etária indicada:
 |<img src="9db039e9-7fc1-47d7-bcdc-7c793627063a.jfif" width="70%" height="70%">|<img src="d272468c-bd03-4312-8c36-559411cbfa1f.jfif" width="70%" height="70%">|
 |<img src="d6c73f73-886e-4c3f-9eba-7dc7e5b5a5ee.jfif" width="70%" height="70%">|<img src="d9bea219-786d-4522-8124-a1f4b6bcdce9.jfif" width="70%" height="70%">|
 |<img src="40e2ce25-240b-4013-9c4c-1cd1e1217b22.jfif" width="70%" height="70%">|<img src="5a5acc45-275d-46ad-9fd8-61c5aab9ba75.jfif" width="70%" height="70%">|
-|<img src="f42e0b3c-c085-4ee2-a046-22a756ebac7e.jfif" width="70%" height="70%">| Playlist: |
+
+|Clique na imagem ao lado para ser redirecionado a playlist|[<img src="praca2.jpg" width="70%" height="70%">]( https://youtube.com/playlist?list=PL7FkgJrOVo2Y4Sl8bfdBIRBBsKjSRTtAJ) |
+|----|-----|
+|||
