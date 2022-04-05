@@ -39,7 +39,7 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |**Planet Hunters**| **Como os instrumentos funcionam? - A Ciência por trás da música**|
 |[<img src="planet1.png" width="50%" height="50%">](planet/)|[<img src="musica1.png" width="50%" height="50%">](musica/)|
 |**Lançamento de Foguetes**| |
-|[<img src="lancamento.png" width="50%" height="50%">](Lancafoguetepet/)||
+|[<img src="lancamento.png" width="50%" height="50%">](lançamento/)||
 
 Lancafoguetepet
 
@@ -58,7 +58,7 @@ Lancafoguetepet
 |**A descoberta de um Fóssil**|**Areias do mundo**|
 |[<img src="descof.png" width="50%" height="50%">]()|[<img src="areia.png" width="50%" height="50%">](areiasmundo/)|
 |**Navegação e Campos Magnéticos**|**Origamis Pré-Históricos e Suas Histórias**|
-|[<img src="nav.png" width="50%" height="50%">](camposmagneticos/)|[<img src="prehis.png" width="50%" height="50%">](pre-historia/)|
+|[<img src="nav.png" width="50%" height="50%">](camposmag/)|[<img src="prehis.png" width="50%" height="50%">](pre-historia/)|
 
 
 ### Matemática
