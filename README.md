@@ -8,6 +8,11 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 
 **OBS:** Clique na imagem para saber mais sobre a oficina.
 
+|Praça Espaço Tempo|
+|:------:|
+|[<img src="praça.png" width="25%" height="25%">](praca/)|
+
+
 ### Biologia
 
 |EcoEsfera|A Evolução de Avis papyrus|
@@ -46,6 +51,11 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |A História de um Fóssil|Explorando Mapas e Desenhando o Mundo|
 |:------:|:----:|
 |[<img src="fossil1.png" width="50%" height="50%">](fossil/)|[<img src="mundo1.png" width="50%" height="50%">](mapas/)|
+|**A descoberta de um Fóssil**|**Areias do mundo**|
+|[<img src="descof.png" width="50%" height="50%">]()|[<img src="areia.png" width="50%" height="50%">](areiasmundo/)|
+|**Navegação e Campos Magnéticos**|**Origamis Pré-Históricos e Suas Histórias**|
+|[<img src="nav.png" width="50%" height="50%">](camposmagneticos/)|[<img src="prehis.png" width="50%" height="50%">](pre-historia/)|
+
 
 ### Matemática
 
