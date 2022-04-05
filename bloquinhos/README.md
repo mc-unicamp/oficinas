@@ -2,7 +2,7 @@
 
 |<img src="bloquinho.png" width="70%" height="70%"> |
 |:------:
-|Nesta oficina, utilizamos um programa simulador de bloquinhos de montar para identificar problemas em um projeto inadequado e, na sequência, você irá criar, desenvolver e aperfeiçoar o seu próprio projeto. Mostre a sua habilidade criativa, explorando conceitos matemáticos, espaciais e aprofundando o conhecimento sobre frações.|
+|Nesta oficina, utilizamos um programa simulador de bloquinhos de montar para identificar problemas em um projeto inadequado e, na sequência, você irá criar, desenvolver e aperfeiçoar o seu próprio projeto. Mostre a sua habilidade criativa, explorando conceitos de raciocínio lógico, códigos e resolução de problemas|
 
 * Para ter acesso ao software usado na oficina é necessário apenas um computador, tablet ou smartphone com navegador atualizado. 
 * O simulador que utilizaremos é executado no próprio navegador, sem necessidade de instalação na máquina.
