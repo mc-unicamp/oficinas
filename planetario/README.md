@@ -1,5 +1,7 @@
 # Planetário Itinerante
 
+## Disponível para agendamento de oficinas PRESENCIAIS
+
 |<img src="planetariobanner.png" width="70%" height="70%"> |
 |:------:
 |A bordo do Planetário, conheça mais sobre  o universo e seus exploradores. Depois, ajuste o foco para a atividade de observação dos astros a olho nu, acompanhando uma carta celeste.|
