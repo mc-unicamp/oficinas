@@ -2,18 +2,20 @@
 
 ## Disponível para agendamento de oficinas PRESENCIAIS
 
-|<img src="planetariobanner.png" width="70%" height="70%"> |
+|<img src="biscoitobanner.png" width="70%" height="70%"> |
 |:------:|
 ||
 
 
-|<img src="planetariobanner.png" width="70%" height="70%"> |
-|:------:|
-||
 
 ## Faixa Etária
 
 Faixa etária indicada: a partir de 10 anos
+
+|<img src="IMG_6773.JPG" width="70%" height="70%"> |<img src="IMG_6729.JPG" width="70%" height="70%">|
+|:------:|:------:|
+|||
+
 
 ## Para mais informações entre em contato
 
