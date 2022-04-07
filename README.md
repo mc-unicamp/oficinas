@@ -13,6 +13,11 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |[<img src="praça.png" width="25%" height="25%">](praca/)|
 
 
+|Fabrica 3D e a ciência dos biscoitos|
+|:------:|
+|[<img src="biscoito.png" width="25%" height="25%">](fab3dbiscoito/)|
+
+
 ### Biologia
 
 |EcoEsfera|A Evolução de Avis papyrus|
