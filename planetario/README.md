@@ -9,7 +9,9 @@
 
 ## Faixa Etária
 
-Faixa etária indicada: a partir de 10 anos
+|||
+|:------:|:------:|
+|Faixa etária indicada: a partir de 10 anos|<img src="6eb0b6d2-1f35-4a7a-b890-00a81a6a3f0e.jfif" width="30%" height="30%">|
 
 ## Para mais informações entre em contato
 
