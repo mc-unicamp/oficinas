@@ -8,7 +8,7 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 
 **OBS:** Clique na imagem para saber mais sobre a oficina.
 
-|Praça Espaço Tempo|
+|Praça Tempo Espaço|
 |:------:|
 |[<img src="praça.png" width="25%" height="25%">](praca/)|
 
@@ -46,6 +46,9 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |**Lançamento de Foguetes**| **Planetário Itinerante**|
 |[<img src="lancamento.png" width="50%" height="50%">](lançamento/)|[<img src="planetario.png" width="50%" height="50%">](planetario/)|
 
+|Aterrissagem Interplanetária|
+|:------:|
+|[<img src="aterissagem.png" width="25%" height="25%">](aterrinter/)|
 
 
 ### Química
@@ -60,7 +63,7 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |:------:|:----:|
 |[<img src="fossil1.png" width="50%" height="50%">](fossil/)|[<img src="mundo1.png" width="50%" height="50%">](mapas/)|
 |**A descoberta de um Fóssil**|**Areias do mundo**|
-|[<img src="descof.png" width="50%" height="50%">]()|[<img src="areia.png" width="50%" height="50%">](areiasmundo/)|
+|[<img src="descof.png" width="50%" height="50%">](descobertafossil/)|[<img src="areia.png" width="50%" height="50%">](areiasmundo/)|
 |**Navegação e Campos Magnéticos**|**Origamis Pré-Históricos e Suas Histórias**|
 |[<img src="nav.png" width="50%" height="50%">](camposmag/)|[<img src="prehis.png" width="50%" height="50%">](pre-historia/)|
 
