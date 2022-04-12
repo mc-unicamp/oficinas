@@ -8,15 +8,12 @@
 
 ## Faixa Etária
 
-|Faixa Etária indicada : entre 7 e 13 anos.|<img src="IMG_20180112_092614635_BURST000_COVER_TOP.jpg" width="70%" height="70%">|
+Faixa Etária indicada: entre 7 e 13 anos.
+
+|<img src="IMG_20180112_092444309.jpg" width="50%" height="50%">|<img src="IMG_20180112_092614635_BURST000_COVER_TOP.jpg" width="80%" height="80%">|
 |-------|----|
 |||
-
-|<img src="IMG_20180112_092444309.jpg" width="70%" height="70%">|
-|---|
-||
-      
-Faixa Etária indicada : entre 7 e 13 anos.
+     
 
 ## Para mais informações entre em contato
 
