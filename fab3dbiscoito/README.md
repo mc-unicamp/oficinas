@@ -4,12 +4,13 @@
 
 |<img src="biscoitobanner.png" width="70%" height="70%">  |
 | :-----:|
-||
+|Essa oficina aborda a tecnologia de impressão 3d e os segredos da       ciência por trás da confecção de biscoitos, além de comer os            biscoitos, os participantes podem levar a forma impressa para casa.|
 
+**Conceitos abordados e Habilidades:** Átomos, Moléculas, Formação do glúten e impressão 3d
 
 ## Faixa Etária
 
-Faixa etária indicada: a partir de 10 anos
+Faixa etária indicada: de 8 à 15 anos
 
 |<img src="IMG_6773.JPG" width="70%" height="70%"> |<img src="IMG_6729.JPG" width="70%" height="70%">|
 |:------:|:------:|
