@@ -1,1 +1,13 @@
 Imagens da cidade
+![](1.svg)
+![](2.svg)
+![]asfalto cru.svg)
+![](calcada.svg)
+![](caminhonete.svg)
+![](carro.svg)
+![](loja.svg)
+![](onibus.svg)
+![](policia.svg)
+![](predio.svg)
+![](predios.svg)
+![](taxi.svg)
