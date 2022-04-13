@@ -1,7 +1,7 @@
 Imagens da cidade
-![](1.svg)
-![](2.svg)
-![]asfalto cru.svg)
+![](asfalto.svg)
+![](calcada1.svg)
+![]asfalto_cru.svg)
 ![](calcada.svg)
 ![](caminhonete.svg)
 ![](carro.svg)
