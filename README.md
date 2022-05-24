@@ -67,6 +67,9 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |**Navegação e Campos Magnéticos**|**Origamis Pré-Históricos e Suas Histórias**|
 |[<img src="nav.png" width="50%" height="50%">](camposmag/)|[<img src="prehis.png" width="50%" height="50%">](pre-historia/)|
 
+|Uma Viagem pelo Globo e suas Eras|
+|:------:|
+|[<img src="globo2.png" width="25%" height="25%">](globoemprapa/)|
 
 ### Matemática
 
