@@ -2,7 +2,7 @@
 
 ## Apresentação
 
-|<img src="preh.png" width="70%" height="70%">|
+|<img src="globoeras.png" width="70%" height="70%">|
 |:----:|
 |Globo com projeção interativa, mostra animações de fenômenos na atmosfera; movimentos das placas tectônicas e superfícies de planetas do sistema solar.|
 
@@ -11,6 +11,9 @@ Indicada para o público de 8 a 15 anos
 
 ## Conceitos abordados e Habilidades: 
 Planeta terra, Placas tectônicas e Superfície de planetas
+
+|<img src="globos.png" width="70%" height="70%">|
+|:----:|
 
 ## Para mais informações entre em contato
 
