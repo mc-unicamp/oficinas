@@ -16,8 +16,18 @@ Faixa etária indicada: 6 a 9 anos ou 10 a 12 anos
 
 ### Variedade dos Vírus
 
-[![Micromundos Script](images/ng-our-viral-world.png)](https://www.nationalgeographic.com/magazine/graphics/see-how-viruses-look-up-close-feature)
+[![Variedade dos Vírus](images/ng-our-viral-world.png)](https://www.nationalgeographic.com/magazine/graphics/see-how-viruses-look-up-close-feature)
 
 ### Como um Vírus entra na Célula
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D9OtJU3F6eQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Vírus entrando na célula](http://img.youtube.com/vi/D9OtJU3F6eQ/0.jpg)](https://youtu.be/D9OtJU3F6eQ)
+
+#### 3D
+
+[![Vírus entrando na célula 3D](http://img.youtube.com/vi/jkNxmTrrZSk/0.jpg)](https://youtu.be/jkNxmTrrZSk)
+
+## Vírus se Replicando
+
+[![Vírus se replicando A](http://img.youtube.com/vi/j4Xiow30bGo/0.jpg)](https://youtu.be/j4Xiow30bGo)
+
+[![Vírus se replicando B](http://img.youtube.com/vi/SBfv-0g3EvE/0.jpg)](https://youtu.be/SBfv-0g3EvE)
