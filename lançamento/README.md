@@ -16,6 +16,11 @@ Equilíbrio de forças, centro de massa, método científico, formulação de hi
 Faixa Etária indicada: 10 a 15 anos
 
 
+|<img src="IMG_6824.JPG" width="70%" height="70%"> | <img src="IMG_6305.JPG" width="70%" height="70%">|
+|:-----:|:-----:|
+| <img src="foguete em lançamento 1.png" width="70%" height="70%"> | <img src="IMG_6306.JPG" width="70%" height="70%">|
+
+
 ## Para mais informações entre em contato
 
 * Por email museu@unicamp.br

@@ -20,14 +20,20 @@
 * Molde impresso em folha A4
 
 ## Molde
+
 Imprima o molde abaixo em uma folha A4 na orientação retrato antes da oficina para construir as peças necessárias.         
-_(Clique com o botão direto do mouse em cima da imagem, depois "Salvar imagem como" para salvar o arquivo e conseguir imprimir a imagem sem distorção)_
-![Molde A4](molde-foguete-_1_.png)
+|_(Clique com o botão direto do mouse em cima da imagem, depois "Salvar imagem como" para salvar o arquivo e conseguir imprimir a imagem sem distorção)_|<img src="molde-foguete-_1_.png" width="50%" height="50%"> |
+|:-------------:|:-------------:|
+
 
 ## Instruções de montagem
 
 |(Clique na imagem para ser redirecionado ao vídeo)||
 |:-------------:|:-------------:|
 |[<img src="wwwWhatsApp_Image_2021-12-16_at_20.36.20-removebg-preview(2).png">](https://www.youtube.com/watch?v=Heh5Jwt3HI4)|![Foguete](WhatsApp_Image_2021-12-16_at_20.36.20-removebg-preview.png)|
+
+|<img src="FDS_19NOV _foguete crianca (1).JPG" width="100%" height="100%"> |<img src="FDS_19NOV (63).JPG" width="100%" height="100%">|
+|:-------------:|:-------------:|
+
 
 Continue ligado em nossas redes sociais para se inscrever na oficina onde aprederemos a construir esse foguete incrível! 

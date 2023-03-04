@@ -14,6 +14,9 @@ Faixa Etária indicada: Apartir de 7 anos.
 |:------:|:------:|
 |Equilíbrio de forças, centro de massa, método científico, formulação de hipóteses e trabalho em equipe|<img src="IMG_5608.JPG" width="80%" height="80%">|
 
+|<img src="IMG_20220909_182807473_HDR.jpg" width="80%" height="80%">|<img src="IMG_20220909_180729460_HDR.jpg" width="80%" height="80%">|
+|:------:|:------:|
+
 
 ## Para mais informações entre em contato
 
