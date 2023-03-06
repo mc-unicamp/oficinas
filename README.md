@@ -64,12 +64,8 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |[<img src="fossil1.png" width="50%" height="50%">](fossil/)|[<img src="mundo1.png" width="50%" height="50%">](mapas/)|
 |**A descoberta de um Fóssil**|**Areias do mundo**|
 |[<img src="descof.png" width="50%" height="50%">](descobertafossil/)|[<img src="areia.png" width="50%" height="50%">](areiasmundo/)|
-|**Navegação e Campos Magnéticos**|**Origamis Pré-Históricos e Suas Histórias**|
-|[<img src="nav.png" width="50%" height="50%">](camposmag/)|[<img src="prehis.png" width="50%" height="50%">](pre-historia/)|
-
-|Uma Viagem pelo Globo e suas Eras|
-|:------:|
-|[<img src="globo2.png" width="25%" height="25%">](globoemprapa/)|
+|**Navegação e Campos Magnéticos**|**Uma Viagem pelo Globo e suas Eras**|
+|[<img src="nav.png" width="50%" height="50%">](camposmag/)|[<img src="globo2.png" width="50%" height="50%">](globoemprapa/)|
 
 ### Matemática
 
