@@ -1,5 +1,8 @@
 # Equilíbro Ecológico
 
+:warning: Para essa oficina é necessário ter acesso a um computador e conexão à Internet para cada participante :warning:
+
+
 ## Simulando Dinossauros
 
 Este desafio é composto por três etapas:
