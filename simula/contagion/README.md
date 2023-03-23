@@ -3,6 +3,8 @@
 |<img src="virus.png" width="70%" height="70%"> |
 | :------: |
 |Trabalhe em um modelo de simulação e entenda como o recurso é importante para a Ciência, auxiliando na compreensão de fenômenos complexos, como a contaminação.  Vamos descobrir juntos como um vírus se espalha tão depressa, quais os efeitos do distanciamento social, do uso de máscaras e da vacina.|
+:warning: Para essa oficina é necessário ter acesso a um computador e conexão à Internet para cada participante :warning:|
+
 
 ## Faixa Etária
 
