@@ -43,12 +43,11 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |[<img src="foguete1.png" width="50%" height="50%">](foguetes/)|[<img src="luz1.png" width="50%" height="50%">](espectrometro/)|
 |**Planet Hunters**| **Como os instrumentos funcionam? - A Ciência por trás da música**|
 |[<img src="planet1.png" width="50%" height="50%">](planet/)|[<img src="musica1.png" width="50%" height="50%">](musica/)|
-|**Lançamento de Foguetes**| **Planetário Itinerante**|
-|[<img src="lancamento.png" width="50%" height="50%">](lançamento/)|[<img src="planetario.png" width="50%" height="50%">](planetario/)|
+|**Lançamento de Foguetes**|**Aterrissagem Interplanetária**|
+|[<img src="lancamento.png" width="50%" height="50%">](lançamento/)|[<img src="aterissagem.png" width="50%" height="50%">](aterrinter/)|
 
-|Aterrissagem Interplanetária|
-|:------:|
-|[<img src="aterissagem.png" width="25%" height="25%">](aterrinter/)|
+
+
 
 
 ### Química
