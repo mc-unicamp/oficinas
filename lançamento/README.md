@@ -20,6 +20,7 @@ Faixa Etária indicada: 10 a 15 anos
 |:-----:|:-----:|
 | <img src="foguete em lançamento 1.png" width="70%" height="70%"> | <img src="IMG_6306.JPG" width="70%" height="70%">|
 
+**Observação:** considere que a atividade é realizada ao ar livre, estando sujeita às condições do tempo tais como chuvas.
 
 ## Para mais informações entre em contato
 
