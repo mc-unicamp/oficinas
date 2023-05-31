@@ -16,7 +16,4 @@ Faixa etária indicada: 10 a 13 anos
 
 Aprendendo sobre simulação em espaço celular:
 
-[![imagem simulador](foguetesimula.png)](https://datasci4health-incubator.github.io/harena-cases/cellular/rocket/harena/scripts/playground/editor.html?source=cell/rockets)
-
-
-
+[![imagem simulador](foguetesimula.png)](https://harena-incubator.github.io/harena-cases/cellular/rocket/harena/scripts/playground/editor.html?source=cell/rockets)
