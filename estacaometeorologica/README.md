@@ -2,7 +2,7 @@
 
 |<img src="eco.png" width="70%" height="70%"> |
 |:-------------:|
-| Estação meteorológica do CEPAGRI contendo anemometro, biruta, barômetro, termômetro, higrômetro e pluviômetro.|
+| Você sabe o que é um barômetro? E uma biruta? Como será que é medida a quantidade de chuva? Na Estação Meteorológica você vai conhecer sobre vários instrumentos que são utilizados para fazer estudos meteorológicos, previsões do tempo e muito mais!|
  
 
 ## Faixa Etária
