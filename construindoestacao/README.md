@@ -1,1 +1,26 @@
-Esse documento é um preview do que será o site da oficina Construindo um Estação Meteorológica no catálogo de oficinas do Museu.
+# Construindo uma Estação Meteorológica
+
+|<img src="eco.png" width="70%" height="70%"> |
+|:-------------:|
+| A ideia inicial consiste em produzir componentes de medição meteorológicas de maneira simples, de forma a explorar o método científico por trás de uma estação meteorológica.|
+ 
+
+## Faixa Etária
+
+|Faixa etária indicada: ||
+|:-------------:|:-------------:|
+|*(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*|<img src="ecoesfera_b.jpeg" width="90%" height="90%"> |
+
+## Conceitos Abordados e Habilidades
+
+## Materiais
+
+## Autores
+
+## Referências
+
+## Para mais informações entre em contato
+
+* Por email: museu@unicamp.br
+* Ou acesse o [Site Oficial do Museu](https://www.mc.unicamp.br/visite)
+
