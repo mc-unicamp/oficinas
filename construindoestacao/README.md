@@ -2,7 +2,7 @@
 
 |<img src="eco.png" width="70%" height="70%"> |
 |:-------------:|
-| A ideia inicial consiste em produzir componentes de medição meteorológicas de maneira simples, de forma a explorar o método científico por trás de uma estação meteorológica.|
+| Já pensou em possuir uma estação meteorológica? Poder medir a velocidade do vento e variações de temperatura na sua própria casa? Nesta oficina você irá aprender a construir seus próprios equipamentos de medição meteorológica, conhecendo o funcionamento destes instrumentos e das condições do tempo.|
  
 
 ## Faixa Etária
