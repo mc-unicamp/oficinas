@@ -36,7 +36,7 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 
 ### Física
 
-|Aviões de Papel|Aviões de Material Reciclável|
+|Super Aviões de Papel|Maker de Aviões - Aviões de Material Reciclável|
 |:------:|:----:|
 |[<img src="avipapel1.png" width="50%" height="50%">](avioes/)|[<img src="aviao1.png" width="50%" height="50%">](aviaomaker/)|
 |**Foguetes de Cartolina**|**Mensagens na Luz - Espectrômetro Caseiro**|
@@ -75,7 +75,7 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 
 ### Programação
 
-|Oficina Maker de Aplicativos|Máquinas que Aprendem: Júnior e Avançado|
+|Maker de Aplicativos|Máquinas que Aprendem: Júnior e Avançado|
 |:------:|:----:|
 |[<img src="app.png" width="50%" height="50%">](appmaker/)|[<img src="maquina.png" width="50%" height="50%">](ml/)|
 
@@ -92,7 +92,7 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |[<img src="mo.png" width="25%" height="25%">](https://bit.ly/museu-micro)|
 
 
-|Aquario Virtual|Cerrado|
+|Aquario Virtual|Simulando o Equilíbrio da Vida - Cerrado|
 |:------:|:------:|
 |[<img src="aquario.png" width="50%" height="50%">](simula/aquarium-plus/)|[<img src="cerrado.png" width="50%" height="50%">](simula/cerrado/)|
 
