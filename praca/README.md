@@ -19,3 +19,8 @@ Faixa etária indicada: qualquer idade
 |Clique na imagem ao lado para ser redirecionado a playlist|[<img src="praca2.jpg" width="70%" height="70%">]( https://youtube.com/playlist?list=PL7FkgJrOVo2Y4Sl8bfdBIRBBsKjSRTtAJ) |
 |:----:|:-----:|
 |||
+
+## Para mais informações entre em contato
+
+* Por email: museu@unicamp.br
+* Ou acesse o [Site Oficial do Museu](https://www.mc.unicamp.br/visite)
