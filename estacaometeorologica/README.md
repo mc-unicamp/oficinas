@@ -6,14 +6,12 @@
  
 
 ## Faixa Etária
-
-|Faixa etária indicada: ||
-|:-------------:|:-------------:|
-|*(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*|<img src="ecoesfera_b.jpeg" width="90%" height="90%"> |
+Faixa etária indicada: qualquer idade
 
 ## Conceitos Abordados e Habilidades
 
 ## Autores
+CEPAGRI - Centro de Pesquisas Meteorológicas e Climáticas Aplicadas à Agricultura (Unicamp)
 
 ## Referências
 
