@@ -41,7 +41,7 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |[<img src="avipapel1.png" width="50%" height="50%">](avioes/)|[<img src="aviao1.png" width="50%" height="50%">](aviaomaker/)|
 |**Foguetes de Cartolina**|**Mensagens na Luz - Espectrômetro Caseiro**|
 |[<img src="foguete1.png" width="50%" height="50%">](foguetes/)|[<img src="luz1.png" width="50%" height="50%">](espectrometro/)|
-|**Planet Hunters**| **Como os instrumentos funcionam? - A Ciência por trás da música**|
+|**Planet Hunters**| **A Ciência por trás da música**|
 |[<img src="planet1.png" width="50%" height="50%">](planet/)|[<img src="musica1.png" width="50%" height="50%">](musica/)|
 |**Lançamento de Foguetes**|**Aterrissagem Interplanetária**|
 |[<img src="lancamento.png" width="50%" height="50%">](lançamento/)|[<img src="aterissagem.png" width="50%" height="50%">](aterrinter/)|
