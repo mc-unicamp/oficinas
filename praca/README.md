@@ -8,8 +8,7 @@
 ||
 
 ## Faixa etária
-
-Faixa etária indicada: 
+Faixa etária indicada: qualquer idade
 
 |||
 |:------:|:------:|
