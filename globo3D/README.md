@@ -1,6 +1,6 @@
 # Globo 3D
 
-|<img src="eco.png" width="70%" height="70%"> |
+|<img src="globo3D-banner.png" width="70%" height="70%"> |
 |:-------------:|
 | Não tenho ideia do que seja!|
  
@@ -9,7 +9,7 @@
 
 |Faixa etária indicada: ||
 |:-------------:|:-------------:|
-|*(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*|<img src="ecoesfera_b.jpeg" width="90%" height="90%"> |
+|*(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*|<img src="globo3D.png" width="90%" height="90%"> |
 
 ## Conceitos Abordados e Habilidades
 
