@@ -1,6 +1,6 @@
 # Estação Meteorológica
 
-|<img src="eco.png" width="70%" height="70%"> |
+|<img src="estacao-banner.png" width="70%" height="70%"> |
 |:-------------:|
 | Você sabe o que é um barômetro? E uma biruta? Como será que é medida a quantidade de chuva? Na Estação Meteorológica você vai conhecer sobre vários instrumentos que são utilizados para fazer estudos meteorológicos, previsões do tempo e muito mais!|
  
