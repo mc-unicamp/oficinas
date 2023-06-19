@@ -7,17 +7,21 @@
 
 ## Faixa Etária
 
-|Faixa etária indicada: ||
+|Faixa etária indicada: 10 a 12 anos||
 |:-------------:|:-------------:|
 |*(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*|<img src="construindo-estacao.png" width="90%" height="90%"> |
 
 ## Conceitos Abordados e Habilidades
 
+Método científico, conceitos de clima e tempo, grandezas meteorológicas, equipamentos de medição, habilidades motoras e trabalho em equipe.
+
 ## Materiais
 
-## Autores
-
 ## Referências
+
+## Créditos
+
+Esta oficina foi elaborada por [Natalia Diniz](http://lattes.cnpq.br/4378526938604586) em seu período como mediadora do Museu Exploratório de Ciências.
 
 ## Para mais informações entre em contato
 
