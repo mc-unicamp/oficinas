@@ -13,9 +13,9 @@
 
 ## Conceitos Abordados e Habilidades
 
-## Autores
-
 ## Referências
+
+## Créditos
 
 ## Para mais informações entre em contato
 
