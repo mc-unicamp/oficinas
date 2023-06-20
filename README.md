@@ -61,8 +61,8 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |A História de um Fóssil|Explorando Mapas e Desenhando o Mundo|
 |:------:|:----:|
 |[<img src="fossil1.png" width="50%" height="50%">](fossil/)|[<img src="mundo1.png" width="50%" height="50%">](mapas/)|
-|**A descoberta de um Fóssil**|**Areias do mundo**|
-|[<img src="descof.png" width="50%" height="50%">](descobertafossil/)|[<img src="areia.png" width="50%" height="50%">](areiasmundo/)|
+|**A descoberta de um Fóssil**|**Rolling Stone - O Mistério das Areias**|
+|[<img src="descof.png" width="50%" height="50%">](descobertafossil/)|[<img src="rollingstone.png" width="50%" height="50%">](areiasmundo/)|
 |**Navegação e Campos Magnéticos**|**Uma Viagem pelo Globo e suas Eras**|
 |[<img src="nav.png" width="50%" height="50%">](camposmag/)|[<img src="globo2.png" width="50%" height="50%">](globoemprapa/)|
 
