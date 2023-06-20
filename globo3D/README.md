@@ -1,5 +1,7 @@
 # Globo 3D
 
+## Disponível para agendamento de oficinas PRESENCIAIS
+
 |<img src="globo3D-banner.png" width="70%" height="70%"> |
 |:-------------:|
 | Não tenho ideia do que seja!|
