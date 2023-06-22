@@ -1,6 +1,6 @@
 # Estação Meteorológica
 
-## Oficina PRESENCIAL disponível para agendamento
+## Oficina PRESENCIAL disponível para agendamento.
 
 |<img src="estacao-banner.png" width="70%" height="70%"> |
 |:-------------:|
@@ -8,7 +8,7 @@
  
 
 ## Faixa Etária
-Faixa etária indicada: qualquer idade
+Faixa etária indicada: qualquer idade.
 
 ## Conceitos Abordados e Habilidades
 
