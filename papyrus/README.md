@@ -1,5 +1,7 @@
 # A Evolução de _Avis papyrus_
 
+## Oficina PRESENCIAL disponível para agendamento
+
 Se prepare para ver a evolução atuando na prática e descobrir um dos mais importantes mecanismos da vida!
 
 |<img src="ave.png" width="70%" height="70%"> |
@@ -10,6 +12,9 @@ Se prepare para ver a evolução atuando na prática e descobrir um dos mais imp
 * Faixa etária indicada: a partir de 11 anos
 
 (A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)
+
+## Conceitos abordados e Habilidades
+Evolução, mutações, seleção natural e diferenciação populacional.
 
 ## Materiais
 * Canudos de papel (ou de plástico, caso você ainda os tenha guardado)
@@ -30,9 +35,15 @@ Continue ligado em nossas redes sociais para se inscrever na oficina onde você 
 _Em breve disponibilizaremos o passo a passo aqui também_ ;)
 
 
-## Referência
+## Referências
 A oficina do Museu Exploratório de Ciências se baseou nos seguintes trabalhos:
 
 Roteiro original: Karin Westerling, Matthew Gage Middle School , Riverside, CA
 
 Adaptado por: Vera Nisaka Solferini; Sónia Cristina de Andrade
+
+## Para mais informações entre em contato
+
+* Por email: museu@unicamp.br
+* Ou acesse o [Site Oficial do Museu](https://www.mc.unicamp.br/visite)
+
