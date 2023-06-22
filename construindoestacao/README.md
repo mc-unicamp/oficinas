@@ -8,13 +8,13 @@
 
 **Observação:** esta oficina é dividida em etapas, que correspondem a um equipamento de medição meteorológica específico. O agendamento corresponde a uma etapa desta oficina.
 
-## Faixa Etária
+## Faixa etária
 
 |Faixa etária indicada: 10 a 12 anos||
 |:-------------:|:-------------:|
 |*(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*|<img src="construindo-estacao.png" width="90%" height="90%"> |
 
-## Conceitos Abordados e Habilidades
+## Conceitos abordados e Habilidades
 
 Método científico, conceitos de clima e tempo, grandezas meteorológicas, equipamentos de medição, habilidades motoras e trabalho em equipe.
 
