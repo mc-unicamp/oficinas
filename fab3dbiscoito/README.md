@@ -1,6 +1,6 @@
 # Fabrica 3D e a ciência dos biscoitos
 
-## Disponível para agendamento de oficinas PRESENCIAIS
+## Oficina PRESENCIAL disponível para agendamento
 
 |<img src="biscoitobanner.png" width="70%" height="70%">  |
 | :-----:|
