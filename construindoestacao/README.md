@@ -1,11 +1,12 @@
 # Construindo uma Estação Meteorológica
 
-## Disponível para agendamento de oficinas PRESENCIAIS
+## Oficina PRESENCIAL disponível para agendamento
 
 |<img src="construindo-estacao-banner.png" width="70%" height="70%"> |
 |:-------------:|
 | Já pensou em possuir uma estação meteorológica? Poder medir a velocidade do vento e variações de temperatura na sua casa? Nesta oficina você irá aprender a construir seus próprios equipamentos de medição meteorológica, conhecendo o funcionamento destes instrumentos e das condições do tempo.|
- 
+
+**Observação:** esta oficina é dividida em etapas, que correspondem a um equipamento de medição meteorológica específico. O agendamento corresponde a uma etapa desta oficina.
 
 ## Faixa Etária
 
@@ -19,7 +20,49 @@ Método científico, conceitos de clima e tempo, grandezas meteorológicas, equi
 
 ## Materiais
 
-## Referências
+### Anemômetro
+* Canudos
+* Tesoura
+* Papel sulfite
+* Canetinhas
+* Fita
+* Palito de churrasco
+* Bolinhas coloridas de plástico cortadas ao meio
+* Copos descartáveis
+
+### Barômetro
+* Água (quente e fria)
+* Garrafas térmicas
+* Canudos
+* Tesoura
+* Papel sulfite
+* Canetinhas
+* Fita
+* Bexiga 
+* Pote de vidro para conserva
+
+### Pluviômetro
+* Água
+* Garrafas PET
+* Régua
+* Funil
+* Fita
+* Tesoura
+* Algodão
+
+### Termômetro
+* Água (quente e fria)
+* Garrafa Térmica
+* Béqueres
+* Garrafa pet 200ml
+* Canudo
+* Corante
+* Ferro de solda
+* Cola quente
+* Fita adesiva
+* Folha sulfite
+* Canetinhas
+* Tesoura
 
 ## Créditos
 
