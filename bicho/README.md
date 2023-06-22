@@ -1,5 +1,7 @@
 # De onde esse Bicho vem?
 
+## Oficina PRESENCIAL disponível para agendamento
+
 ## Biomas do Brasil
 
 |<img src="bicho.png" width="70%" height="70%"> |
