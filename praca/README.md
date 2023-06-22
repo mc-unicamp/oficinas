@@ -1,6 +1,6 @@
 # Praça Espaço Tempo
 
-## Disponível para agendamento de oficinas PRESENCIAIS
+## Oficina PRESENCIAL disponível para agendamento
 
 
 |<img src="praca.png" width="70%" height="70%"> |
@@ -8,7 +8,7 @@
 ||
 
 ## Faixa etária
-Faixa etária indicada: qualquer idade
+Faixa etária indicada: qualquer idade.
 
 |||
 |:------:|:------:|
