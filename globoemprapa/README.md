@@ -15,6 +15,9 @@ Planeta terra, Placas tectônicas e Superfície de planetas
 |<img src="globos.png" width="70%" height="70%">|
 |:----:|
 
+## Créditos
+EMBRAPA - Empresa Brasileira de Pesquisa Agropecuária
+
 ## Para mais informações entre em contato
 
 * Por email museu@unicamp.br
