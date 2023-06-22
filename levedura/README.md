@@ -1,4 +1,7 @@
 #  Investigando os Limites da Vida 
+
+## Oficina PRESENCIAL disponível para agendamentos
+
 ## Como as Mudanças Climáticas afetam os seres vivos
 
 |Um dos astronautas da equipe do Museu Exploratório de Ciências da Unicamp precisa de ajuda! Durante uma missão em um planeta distante ele encontrou estranhos lagos borbulhantes. Participe dessa incrível oficina e ajude na missão!|
@@ -16,6 +19,9 @@
 Faixa etária indicada: 8 a 11 anos
 
 (A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)
+
+## Conceitos abordados e Habilidades
+Método científico, mudanças climáticas, fenômenos ambientais, condições necessárias para a vida.
 
 ## Materiais
 ### Ingredientes
@@ -57,3 +63,8 @@ Essa oficina foi idealizada e desenvolvida por alunas de graduação durante uma
 
 **[Paloma Messias](http://lattes.cnpq.br/0485200457965458)** 
 [✉️](mailto:p204297@dac.unicamp.br)
+
+## Para mais informações entre em contato
+
+* Por email: museu@unicamp.br
+* Ou acesse o [Site Oficial do Museu](https://www.mc.unicamp.br/visite)
