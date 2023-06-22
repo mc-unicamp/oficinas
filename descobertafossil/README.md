@@ -13,7 +13,12 @@ Faixa Etária indicada: entre 7 e 13 anos.
 |<img src="IMG_20180112_092444309.jpg" width="50%" height="50%">|<img src="IMG_20180112_092614635_BURST000_COVER_TOP.jpg" width="80%" height="80%">|
 |:-------:|:----:|
 |||
-     
+
+## Créditos
+
+Oficina desenvolvida em parceria com a equipe do [Programa Tempo Profundo](http://www.tempoprofundo.com/), composta por professores, pesquisadores e alunos do Instituto de Geociências da UNICAMP, e de outras instituições de Ensino Superior do Brasil, coordenada pela Professora Dra. Carolina Zabini (IG-Unicamp).
+
+Contato: expotempoprofundo@gmail.com
 
 ## Para mais informações entre em contato
 
