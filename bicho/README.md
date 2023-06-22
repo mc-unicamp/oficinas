@@ -24,7 +24,7 @@ Faixa etária indicada: acima de 10 anos.
 
 ## Conceitos abordados e Habilidades
 
-Biomas, cadeia e teia alimentar, 
+Biomas, cadeia e teia alimentar.
 
 ## Tutoriais de Origamis
 
