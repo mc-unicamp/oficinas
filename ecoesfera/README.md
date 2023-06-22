@@ -1,8 +1,10 @@
 # Construindo uma EcoEsfera
 
+## Oficina PRESENCIAL disponível para agendamento
+
 |<img src="eco.png" width="70%" height="70%"> |
 |:-------------:|
-| Já imaginou ter um pedacinho da natureza em um pote pertinho de você? Ver um ecossistema se desenvolvendo e crescendo? Construa o seu micromundo, conhecendo o funcionamento básico de um ecossistema, os caminhos do ciclo da água e o processo de equilíbrio entre os vários elementos. Aventure-se construindo uma EcoEsfera, um universo incrivelmente bonito, vivo e autossuficiente.!.|
+| Já imaginou ter um pedacinho da natureza em um pote pertinho de você? Ver um ecossistema se desenvolvendo e crescendo? Construa o seu micromundo, conhecendo o funcionamento básico de um ecossistema, os caminhos do ciclo da água e o processo de equilíbrio entre os vários elementos. Aventure-se construindo uma EcoEsfera, um universo incrivelmente bonito, vivo e autossuficiente!|
  
 
 ## Faixa Etária
@@ -10,6 +12,9 @@
 |Faixa etária indicada: à partir de 8 anos ||
 |:-------------:|:-------------:|
 |*(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*|<img src="ecoesfera_b.jpeg" width="90%" height="90%"> |
+
+## Conceitos abordados e Habilidades
+Ecossistemas, equilíbrio da vida, ciclo da água, ciclo do carbono, ciclos biogeoquímicos. 
 
 ## Material:
 * Terra
@@ -35,3 +40,9 @@
 |Para ter sua própria ecoesfera|| 
 |:-------------:|:-------------:|
 |Siga o passo a passo do vídeo. (_É só clicar na imagem ao lado que você será redirecionado_)|[<img src="1_ecoesfera.jpg" width="90%" height="90%">](https://youtu.be/p_QyTikuZa8)|
+
+## Para mais informações entre em contato
+
+* Por email: museu@unicamp.br
+* Ou acesse o [Site Oficial do Museu](https://www.mc.unicamp.br/visite)
+
