@@ -1,5 +1,7 @@
 # Uma viagem pelo Globo e suas eras
 
+## Oficina PRESENCIAL disponível para agendamento
+
 ## Apresentação
 
 |<img src="globoeras.png" width="70%" height="70%">|
