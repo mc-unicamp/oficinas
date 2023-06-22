@@ -22,6 +22,10 @@ Faixa etária indicada: acima de 10 anos.
 
 (A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)
 
+## Conceitos abordados e Habilidades
+
+Biomas, cadeia e teia alimentar, 
+
 ## Tutoriais de Origamis
 
 |_Para acessar a playlist basta clicar na imagem_||
@@ -33,5 +37,11 @@ Faixa etária indicada: acima de 10 anos.
 [Biomas IBGE](https://geoftp.ibge.gov.br/informacoes_ambientais/estudos_ambientais/biomas/documentos/Sintese_Descricao_Biomas.pdf)
 
 [Artigo científico sobre a definição de Bioma](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-33062006000100002)
+
+## Para mais informações entre em contato
+
+* Por email: museu@unicamp.br
+* Ou acesse o [Site Oficial do Museu](https://www.mc.unicamp.br/visite)
+
 
 
