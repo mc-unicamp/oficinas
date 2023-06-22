@@ -1,6 +1,6 @@
 # Estação Meteorológica
 
-## Disponível para agendamento de oficinas PRESENCIAIS
+## Oficina PRESENCIAL disponível para agendamento
 
 |<img src="estacao-banner.png" width="70%" height="70%"> |
 |:-------------:|
