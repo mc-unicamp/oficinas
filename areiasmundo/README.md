@@ -16,6 +16,12 @@
 
 Método científico, ciclo das rochas, composição das rochas, intemperismo e deposição de sedimentos, formação de hipóteses, análise e reflexão.
 
+## Créditos
+
+Oficina desenvolvida em parceria com a equipe do [Programa Tempo Profundo](http://www.tempoprofundo.com/), composta por professores, pesquisadores e alunos do Instituto de Geociências da UNICAMP, e de outras instituições de Ensino Superior do Brasil, coordenada pela Professora Dra. Carolina Zabini (IG-Unicamp).
+
+Contato: expotempoprofundo@gmail.com
+
 ## Para mais informações entre em contato
 
 * Por email museu@unicamp.br
