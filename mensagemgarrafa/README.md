@@ -13,6 +13,10 @@
 |:----:|:------:|
 |*(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*|<img src="garrafa.gif" width="50%" height="50%">|
 
+## Conceitos abordados e habilidades
+
+Método científico, distribuição da água no planeta, tratamento da água.
+
 ## Materiais
 
 - 2 Garrafas PET 2L com tampa
