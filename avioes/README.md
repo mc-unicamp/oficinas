@@ -1,4 +1,6 @@
-# Oficina de Aviões
+# Super Aviões de Papel
+
+## Oficina PRESENCIAL disponível para agendamentos
 
 |<img src= "aviao.png" width="70%" height="70%"> |
 |:----:|
@@ -8,6 +10,10 @@
 Faixa etária indicada: 7 a 13 anos
 
 *(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*
+
+## Conceitos abordados e habilidades
+
+Método científico, elaboração de hipóteses, experimentação, habilidades motoras.
 
 # Super Aviões de papel
 
@@ -28,3 +34,8 @@ Faixa etária indicada: 7 a 13 anos
 | Primeiro Modelo | Segundo Modelo |
 |:-------------:|:-------------:|
 |![Como montar](https://4.bp.blogspot.com/-gRw3RLP_pYI/VHoOpsCvmYI/AAAAAAAACQM/twIFLWHCIVw/s1600/plane9.gif)|![imagem6](https://i.pinimg.com/564x/27/fd/d9/27fdd909e81a2d4ba2081b3579875128.jpg)|
+
+## Para mais informações entre em contato
+
+* Por email: museu@unicamp.br
+* Ou acesse o [Site Oficial do Museu](https://www.mc.unicamp.br/visite)
