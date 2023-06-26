@@ -1,5 +1,7 @@
 # Foguetes de Cartolina
 
+## Oficina PRESENCIAL disponível para agendamentos
+
 |<img src="foguete.png" width="70%" height="70%">  |
 |:-------------:|
 |Nessa oficina o céu não é mais o limite! Venha construir um foguete que, embora seja simples, é muito poderoso e pode ir longe. Conheça conceitos básicos de Física usados na construção de foguetes, explore métodos de comparação de distâncias e técnicas de aperfeiçoamento de voo, aprimore o seu projeto com escolhas bem fundamentadas. Coloque a mão na massa para entender, na prática, como pensam e agem os cientistas, diante dos desafios.|
@@ -10,6 +12,10 @@
 |Faixa etária indicada: 10 a 15 anos ||
 |:-------------:|:-------------:|
 |*(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*|![foguete](Semtítulo.png)|
+
+## Conceitos abordados e habilidades
+
+Método científico, exploração espacial, funcionamento de um foguete, centro de massa, centro de pressão, resistência do ar, habilidades manuais e experimentação.
 
 ## Materiais
 * Tesoura
@@ -35,5 +41,8 @@ Imprima o molde abaixo em uma folha A4 na orientação retrato antes da oficina 
 |<img src="FDS_19NOV _foguete crianca (1).JPG" width="100%" height="100%"> |<img src="FDS_19NOV (63).JPG" width="100%" height="100%">|
 |:-------------:|:-------------:|
 
+## Para mais informações entre em contato
 
-Continue ligado em nossas redes sociais para se inscrever na oficina onde aprederemos a construir esse foguete incrível! 
+* Por email: museu@unicamp.br
+* Ou acesse o [Site Oficial do Museu](https://www.mc.unicamp.br/visite)
+
