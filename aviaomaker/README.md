@@ -1,4 +1,6 @@
-## Aviões de Material Reciclável
+# Maker de Aviões - Aviões de Material Reciclável
+
+## Oficina PRESENCIAL disponível para agendamentos
 
 |<img src="makeraviao.png" width="70%" height="70%"> |
 | :-----:|
@@ -10,6 +12,10 @@ Faixa etária indicada: 9 a 14 anos
 
 *(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*
 
+## Conceitos abordados e habilidades
+
+Método científico, natureza e aviação, resistência do ar, centro de massa, experimentação.
+
 ## Materiais
 
 * Lapís
@@ -18,3 +24,8 @@ Faixa etária indicada: 9 a 14 anos
 * Tesoura
 * Papelão
 * Bandeja de isopor
+
+## Para mais informações entre em contato
+
+* Por email: museu@unicamp.br
+* Ou acesse o [Site Oficial do Museu](https://www.mc.unicamp.br/visite)
