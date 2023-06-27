@@ -1,5 +1,4 @@
 # Explorando mapas e desenhando o mundo.
-### Construindo Mapas Topográficos
 
 |<img src="mapa2.png" width="70%" height="70%"> |
 |:-------------:|
@@ -10,6 +9,9 @@
 |Faixa etária: 9 a 12 anos||
 |:------:|:------:|
 |(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)|   <img src="Webp_net-gifmaker.gif" width="200%" height="200%">       |
+
+## Conceitos abordados e Habilidades
+Método científico, mapas, topografia, experimentação, habilidades manuais e abstração.
 
 ## Materiais 
 
@@ -22,3 +24,8 @@
 |||
 |:------:|:------:|
 |**OBS:** A massa de modelar não pode ser muito pegajosa. A quantidade deve ser igual ao tamanho de seu punho.   | ![Gif Montanha](Webp.net-gifmaker(5).gif)|
+
+## Para mais informações entre em contato
+
+* Por email: museu@unicamp.br
+* Ou acesse o [Site Oficial do Museu](https://www.mc.unicamp.br/visite)
