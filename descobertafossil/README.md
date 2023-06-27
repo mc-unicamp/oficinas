@@ -1,6 +1,6 @@
 # A Descoberta de um Fóssil
 
-## Disponível para agendamento de oficinas PRESENCIAIS
+## Oficina PRESENCIAL disponível para agendamento
 
 |<img src="descfossil.png" width="70%" height="70%">|
 |:--:|
@@ -8,11 +8,22 @@
 
 ## Faixa Etária
 
-Faixa Etária indicada: entre 7 e 13 anos.
+Faixa Etária indicada: 7 a 10 anos.
 
 |<img src="IMG_20180112_092444309.jpg" width="50%" height="50%">|<img src="IMG_20180112_092614635_BURST000_COVER_TOP.jpg" width="80%" height="80%">|
 |:-------:|:----:|
 |||
+
+## Conceitos abordados e Habilidades
+Método científico, fósseis e fossilização, paleontologia, mapeamento de fóssies, experimentação.
+
+## Materiais 
+* Caixas de areia
+* Barbante
+* Pincel, pá
+* Quebra cabeça de dinossauros
+* Papel Sulfite, lápis, borracha
+* Régua
 
 ## Créditos
 
