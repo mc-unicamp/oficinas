@@ -1,6 +1,6 @@
 # Lançamento de Foguetes
 
-## Disponível para agendamento de oficinas PRESENCIAIS
+## Oficina PRESENCIAL disponível para agendamento
 
 | <img src="lancabanner.png" width="70%" height="70%"> |
 |:-----:|
@@ -8,7 +8,7 @@
 
 ### Conceitos abordados e Habilidades
 
-Equilíbrio de forças, centro de massa, método científico, formulação de hipóteses e trabalho em equipe
+Método científico, exploração espacial, equilíbrio de forças, centro de massa, resistência do ar, formulação de hipóteses, experimentação e trabalho em equipe.
 
 
 ### Faixa Etária:
