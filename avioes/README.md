@@ -13,7 +13,7 @@ Faixa etária indicada: 7 a 13 anos
 
 ## Conceitos abordados e habilidades
 
-Método científico, equilíbrio de forças, centro de massa, elaboração de hipóteses, experimentação, habilidades motoras.
+Método científico, equilíbrio de forças, resistência do ar, centro de massa, elaboração de hipóteses, experimentação, habilidades motoras.
 
 # Super Aviões de papel
 
