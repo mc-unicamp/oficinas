@@ -14,6 +14,10 @@ Faixa etária indicada: qualquer idade.
 
 Clima, tempo, grandezas meteorológicas e aparelhos de medição.
 
+|<img src="IMG_6882.JPG" width="70%" height="70%">|<img src="IMG_6883.JPG" width="70%" height="70%">|
+|:-------------:|:-------------:|
+|<img src="IMG_4272.JPG" width="70%" height="70%">|<img src="IMG_4280.JPG" width="70%" height="70%">|
+
 ## Créditos
 CEPAGRI - Centro de Pesquisas Meteorológicas e Climáticas Aplicadas à Agricultura (Unicamp)
 
