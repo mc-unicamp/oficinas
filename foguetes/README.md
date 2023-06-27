@@ -15,7 +15,7 @@
 
 ## Conceitos abordados e habilidades
 
-Método científico, exploração espacial, funcionamento de um foguete, centro de massa, centro de pressão, resistência do ar, habilidades manuais e experimentação.
+Método científico, exploração espacial, funcionamento de um foguete, equilíbrio de forças, centro de massa, centro de pressão, resistência do ar, habilidades manuais e experimentação.
 
 ## Materiais
 * Tesoura
