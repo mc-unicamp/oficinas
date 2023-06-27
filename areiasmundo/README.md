@@ -1,6 +1,6 @@
-# Areias do Mundo
+# Rolling Stone - O Mistério das Areias
 
-## Disponível para agendamento de oficinas PRESENCIAIS
+## Oficina PRESENCIAL disponível para agendamento
 
 | <img src="rollingstone-banner.png" width="70%" height="70%"> |
 |:-----:|
