@@ -14,7 +14,7 @@ Faixa etária indicada: 9 a 14 anos
 
 ## Conceitos abordados e habilidades
 
-Método científico, natureza e aviação, resistência do ar, centro de massa, experimentação.
+Método científico, natureza e aviação, resistência do ar, equilíbrio de forças, centro de massa, experimentação.
 
 ## Materiais
 
