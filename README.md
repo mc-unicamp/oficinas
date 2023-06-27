@@ -12,6 +12,9 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |:------:|
 |[<img src="praça.png" width="25%" height="25%">](praca/)|
 
+|Estação Meteorológica|
+|:------:|
+|[<img src="estacao.png" width="25%" height="25%">](estacaometeorologica/)|
 
 |Fabrica 3D e a ciência dos biscoitos|
 |:------:|
