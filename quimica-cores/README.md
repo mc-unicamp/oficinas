@@ -4,6 +4,15 @@
 | :------:|
 |Nesta oficina você vai levar um laboratório de química para a sua casa. Aprenda a observar com outros olhos alimentos e substâncias do seu dia a dia, como descobrir detalhes sobre eles? Informações que vão além das apresentadas nas embalagens. |
 
+## Faixa Etária
+
+Faixa etária indicada: 10 a 15 anos.
+
+*(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*
+
+## Conceitos abordados e Habilidades
+Método científico, elementos químicos, acidez e basicidade, reações químicas e experimentação.
+
 ### Ingredientes 
 
 | ||
@@ -34,4 +43,9 @@ A falta de algum material (exceto o repolho roxo) não afeta o andamento da ofic
 * 6- Reservar na galedeira até a hora do laboratório :)
 
 ![passo a passo repolho](repolho.jpg)
+
+## Para mais informações entre em contato
+
+* Por email: museu@unicamp.br
+* Ou acesse o [Site Oficial do Museu](https://www.mc.unicamp.br/visite)
 
