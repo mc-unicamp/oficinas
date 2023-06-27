@@ -17,6 +17,9 @@ Indicada para o público de 9 a 12 anos
 
 *(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*
 
+## Conceitos abordados e Habilidades
+Pontos cardeais, colaterais e subcolaterais, polos geográficos, polos magnéticos, bússola, experimentação.
+
 ## Materiais
 
 * Recipiente pequeno para água 
