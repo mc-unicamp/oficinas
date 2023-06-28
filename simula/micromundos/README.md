@@ -3,7 +3,7 @@
 |<img src="MO.png" width="70%" height="70%">  |
 |:-----:|
 |A Biologia continua ampliando nossa compressão sobre as impressionantes relações entre os mais diversos seres vivos e o ambiente. Nessa oficina utilizaremos um ambiente simulado para estudar e compreender uma dessas relações. Como a Terra é um sistema extremamente complexo, discutiremos a necessidade de simplificar nossa simulação e nos atentarmos para um local de estudo dentro das nossas capacidades de compreensão e processamento. |
-:warning: Para essa oficina é necessário ter acesso a um computador e conexão à Internet para cada participante :warning:|
+**Atenção:** para essa oficina é necessário ter acesso a um computador e conexão à Internet para cada participante. |
 
 
 No nosso caso, uma parte dentro de uma EcoEsfera repleta de seres microscópicos maravilhosos. Os participantes são desafiados a colocar um micro-ecossistema em equilíbrio, podendo compreender e admirar a delicada relação entre os seres vivos, como esse equilíbrio nos afeta e como podemos ajudar a mantê-lo ou destruí-lo.
@@ -13,6 +13,9 @@ No nosso caso, uma parte dentro de uma EcoEsfera repleta de seres microscópicos
 Faixa etária indicada: 8 a 12 anos
 
 (A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)
+
+## Conteúdos abordados e Habilidades
+Biosfera, ecosfera, energia, cadeia alimentar, equilíbrio ecológico, formulação de hipóteses e raciocínio lógico.
 
 ## Simulando Micromundos
 
@@ -42,3 +45,7 @@ Faixa etária indicada: 8 a 12 anos
 
 * [Proibido](https://pixabay.com/vectors/no-symbol-prohibition-sign-39767/)
 * [Flechas](https://pixabay.com/vectors/arrow-direction-turn-set-left-36877/)
+
+##  Para mais informações entre em contato
+* Por email museu@unicamp.br
+* Ou acesse o [Site oficial do Museu](https://www.mc.unicamp.br/visite)
