@@ -14,14 +14,13 @@ Nessa oficina você vai explorar o fascinante mundo da programação e controlar
 
 Torne-se você também um inventor de aplicativos!
 
-# Faixa Etária
+## Faixa Etária
 
 |Faixa etária indicada: à partir de 11 anos||
 | :----: | :-------: |
 |(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)|![Oficina Maker de Aplicativos](https://raw.githubusercontent.com/mc-unicamp/oficinas/master/appmaker/images/smartphone-1184883_640.png)|
 
-
-# Preparando-se para a Oficina
+## Preparando-se para a Oficina
 
 Para ter acesso à plataforma de programação, será necessária uma conta (login e senha) do Google Gmail.
 
@@ -44,10 +43,12 @@ Recomendamos que o aplicativo seja instalado **antes da oficina!**
 
 ![ai2.appinventor.mit.edu/](https://producaodejogos.com/wp-content/uploads/2018/07/MIT_AI2.jpg)
 
-# Vídeo da oficina
+## Vídeo da oficina
 
 |_clicar na imagem para ser redirecionado ao vídeo_|[<img src="live.png" width="60%" height="60%">](https://www.youtube.com/watch?v=aWxIs1wratM)|
 |:-------------:|:-------------:|
 |||
 
-
+## Para mais informações entre em contato
+* Por email museu@unicamp.br
+* Ou acesse o [Site oficial do Museu](https://www.mc.unicamp.br/visite)
