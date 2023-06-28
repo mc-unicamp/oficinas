@@ -13,6 +13,14 @@
 
 Este simulador é bem bonito e prático, porém tem uma limitação de 20 peças por vez.
 
+## Faixa etária
+Faixa etária indicada: a partir de 9 anos.
+
+*(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*
+
+## Conceitos abordados e Habilidades
+Operações matemáticas, frações, códigos e raciocínio lógico.
+
 ## Como usar o simulador:
 
 
@@ -54,3 +62,10 @@ Por fim, se precisar excluir uma peça basta deixá-la fora da mesa. Porém, por
 ![ExcluirPeças](Excluir_peças.png)
 
 Essas são as instruções básicas do simulador, divirta-se usando ele, principalmente com os desafios da oficina Mundo dos Bloquinhos!
+
+## Para mais informações entre em contato
+
+* Por email museu@unicamp.br
+
+* Ou acesse o [Site oficial do Museu](https://www.mc.unicamp.br/visite)
+
