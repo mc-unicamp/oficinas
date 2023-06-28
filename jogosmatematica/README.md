@@ -12,7 +12,7 @@ Faixa etária indicada: 12 a 15 anos
 *(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*
 
 ## Conteúdos abordados e Habilidades
-Vértices, arestas, formulação de estratégias, raciocínio lógico.
+Matemática básica, formulação de estratégias, raciocínio lógico.
 
 ## Créditos
 [Julia Robinson Mathematics Festival](https://jrmf.org/)
