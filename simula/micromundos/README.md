@@ -15,7 +15,7 @@ Faixa etária indicada: 8 a 12 anos
 (A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)
 
 ## Conteúdos abordados e Habilidades
-Biosfera, ecosfera, energia, cadeia alimentar, equilíbrio ecológico, formulação de hipóteses e raciocínio lógico.
+Biosfera, ecosfera, energia, cadeia alimentar, equilíbrio ecológico, simulações, formulação de hipóteses e raciocínio lógico.
 
 ## Simulando Micromundos
 
