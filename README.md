@@ -82,9 +82,6 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |:------:|:----:|
 |[<img src="app.png" width="50%" height="50%">](appmaker/)|[<img src="maquina.png" width="50%" height="50%">](ml/)|
 
-### História
-* [Restaurando a Arte e Desvendando a História Antiga (Temporada Encerrada - Indisponível)](anfora/)
-
 
 ## Oficinas de Simulação
 
