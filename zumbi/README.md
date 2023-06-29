@@ -1,44 +1,53 @@
-# Zumbi Venom
+# Zombie Venom
 
 |<img src="zombie.png" width="70%" height="70%"> |
 | :--------:|
 |Mostre o seu talento interpretando o papel de um médico Girafa que deve diagnosticar zumbis intoxicados, analisando sintomas e sinais característicos. Conheça as formas como médicos e cientistas estudam, utilizam ferramentas e métodos específicos para explorar o mundo.|
 
-# Treino
+## Faixa etária
+* básico: 7 a 9 anos
+* avançado: 10 a 12 anos
+
+*(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*
+
+## Conceitos abordados e habilidades
+Doenças e sintomas, animais venenosos e peçonhentos, formulação de hipóteses, relações de causa e efeito, simulação.
+
+### Treino
 
 [![Zumbi Treino](images/zombie-wall.png)](harena/scripts/playground/editor.html?source=cell/zombie-wall-train1&mode=no-script)
 
-# Uma Parede (Desafio)
+### Uma Parede (Desafio)
 
 [![Zumbi Desafio 1](images/zombie-wall-challenge1.png)](harena/scripts/playground/editor.html?source=cell/zombie-wall-challenge1&mode=no-script)
 
-# Duas Paredes (Desafio)
+### Duas Paredes (Desafio)
 
 [![Zumbi Desafio 2](images/zombie-wall-challenge2.png)](harena/scripts/playground/editor.html?source=cell/zombie-wall-challenge2&mode=no-script)
 
-# Duas Paredes mais Difícil (Desafio)
+### Duas Paredes mais Difícil (Desafio)
 
 [![Zumbi Desafio 3](images/zombie-wall-challenge3.png)](harena/scripts/playground/editor.html?source=cell/zombie-wall-challenge3&mode=no-script)
 
-# Quantas Paredes? (Desafio)
+### Quantas Paredes? (Desafio)
 
 [![Zumbi Desafio 4](images/zombie-wall-challenge4.png)](harena/scripts/playground/editor.html?source=cell/zombie-wall-challenge4&mode=no-script)
 
-# Quantas Paredes? Mais Difícil (Desafio)
+### Quantas Paredes? Mais Difícil (Desafio)
 
 [![Zumbi Desafio 5](images/zombie-wall-challenge5.png)](harena/scripts/playground/editor.html?source=cell/zombie-wall-challenge5&mode=no-script)
 
-# Quantas Paredes? Há Solução? (Desafio)
+### Quantas Paredes? Há Solução? (Desafio)
 
 [![Zumbi Desafio 6](images/zombie-wall-challenge6.png)](harena/scripts/playground/editor.html?source=cell/zombie-wall-challenge6&mode=no-script)
 
-# Jogo do Zumbi Venom
+## Jogo do Zumbi Venom
 
 Pronto! Você está pronto para jogar o <a href="caseset05/player">Zumbi Venom</a>.
 
 [![Zumbi Venom](images/zumbi-venom.png)](caseset05/player)
 
-## Imagens importadas e usadas no ambiente
+### Imagens importadas e usadas no ambiente
 
 * [Rocha](https://pixabay.com/vectors/rocks-stones-mining-soil-pebbles-155635/)
 * [Areia](https://pixabay.com/vectors/template-pattern-seamless-blue-1099298/)
@@ -58,3 +67,8 @@ Pronto! Você está pronto para jogar o <a href="caseset05/player">Zumbi Venom</
 
 * [Proibido](https://pixabay.com/vectors/no-symbol-prohibition-sign-39767/)
 * [Flechas](https://pixabay.com/vectors/arrow-direction-turn-set-left-36877/)
+
+##  Para mais informações entre em contato
+* Por email museu@unicamp.br
+* Ou acesse o [Site oficial do Museu](https://www.mc.unicamp.br/visite)
+
