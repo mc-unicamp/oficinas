@@ -118,9 +118,6 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |:------:|
 |[<img src="zombie.png" width="25%" height="25%">](https://bit.ly/museu-zumbi)|
 
-### Autômatos Celulares
-* [Básico](simula/automatos/)
-* [Máquinas Voadoras](https://harena-incubator.github.io/harena-cases/cellular/fly/)
 
 ## Este site foi escrito em Markdown
 
