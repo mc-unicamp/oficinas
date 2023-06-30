@@ -120,7 +120,7 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 
 ### Autômatos Celulares
 * [Básico](simula/automatos/)
-* [Máquinas Voadoras](https://bit.ly/museu-fly2)
+* [Máquinas Voadoras](https://harena-incubator.github.io/harena-cases/cellular/fly/)
 
 ## Este site foi escrito em Markdown
 
