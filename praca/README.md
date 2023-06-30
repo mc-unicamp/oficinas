@@ -10,6 +10,9 @@
 ## Faixa etária
 Faixa etária indicada: qualquer idade.
 
+## Conceitos abordados e habilidades
+Sistema Terra, medições de tempo e espaço, energia, ondulatória, magnetismo, experimentação.
+
 |||
 |:------:|:------:|
 |<img src="9db039e9-7fc1-47d7-bcdc-7c793627063a.jfif" width="70%" height="70%">|<img src="d272468c-bd03-4312-8c36-559411cbfa1f.jfif" width="70%" height="70%">|
