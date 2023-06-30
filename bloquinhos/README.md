@@ -19,7 +19,7 @@ Faixa etária indicada: a partir de 9 anos.
 *(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*
 
 ## Conceitos abordados e Habilidades
-Operações matemáticas, frações, códigos e raciocínio lógico.
+Operações matemáticas básicas, frações, códigos e raciocínio lógico.
 
 ## Como usar o simulador:
 
