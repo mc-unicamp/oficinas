@@ -22,6 +22,12 @@ Aprendendo sobre simulação em espaço celular:
 [![Aquário Movimento](images/aquarium-scripts.png)](harena/scripts/playground/editor.html?source=cell/aquarium-scripts)
 [![Aquário Cadeia Alimentar](images/aquarium-cycle-scripts.png)](harena/scripts/playground/editor.html?source=cell/aquarium-sliders&mode=no-script-no-hide)
 
+## Oficinas relacionadas
+### Autômatos Celulares
+* [Básico](simula/automatos/)
+* [Máquinas Voadoras](https://harena-incubator.github.io/harena-cases/cellular/fly/)
+
+
 ## Para mais informações entre em contato
 * Por email museu@unicamp.br
 * Ou acesse o [Site oficial do Museu](https://www.mc.unicamp.br/visite)
