@@ -1,4 +1,4 @@
-# Como os Instrumentos Funcionam - A Ciência por Trás da Música
+# Como os Instrumentos Funcionam? - A Ciência por Trás da Música
 
 
 |Apresentação|
