@@ -1,4 +1,4 @@
-# Praça Espaço Tempo
+# Praça Tempo Espaço
 
 ## Oficina PRESENCIAL disponível para agendamento
 
