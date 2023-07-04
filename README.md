@@ -23,7 +23,7 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 
 ### Biologia
 
-|Construindo uma EcoEsfera|A Evolução de Avis papyrus|
+|Construindo uma EcoEsfera|A Evolução de _Avis papyrus_|
 |:------:|:----:|
 |[<img src="eco1.png" width="50%" height="50%">](ecoesfera/)|[<img src="papiru1.png" width="50%" height="50%">](papyrus/)|
 |**De Onde Esse Bicho Vem?**|**Investigando os Limites da Vida**|
@@ -92,7 +92,7 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |[<img src="mo.png" width="25%" height="25%">](https://bit.ly/museu-micro)|
 
 
-|Aquario Virtual|Simulando o Equilíbrio da Vida - Cerrado|
+|Construindo seu Aquário Virtual|Simulando o Equilíbrio da Vida - Cerrado|
 |:------:|:------:|
 |[<img src="aquario.png" width="50%" height="50%">](simula/aquarium-plus/)|[<img src="cerrado.png" width="50%" height="50%">](simula/cerrado/)|
 
