@@ -23,7 +23,7 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 
 ### Biologia
 
-|EcoEsfera|A Evolução de Avis papyrus|
+|Construindo uma EcoEsfera|A Evolução de Avis papyrus|
 |:------:|:----:|
 |[<img src="eco1.png" width="50%" height="50%">](ecoesfera/)|[<img src="papiru1.png" width="50%" height="50%">](papyrus/)|
 |**De Onde Esse Bicho Vem?**|**Investigando os Limites da Vida**|
