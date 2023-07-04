@@ -1,6 +1,6 @@
 
 
-# Oficina Maker de Aplicativos
+# Maker de Aplicativos
 
 |<img src="maker.png" width="70%" height="70%"> |
 | :---:|
