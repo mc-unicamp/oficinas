@@ -1,6 +1,4 @@
-# Simulando o Equilíbrio da Vida no Cerrado
-
-## Simulando o Equilíbrio da Vida no Cerrado
+# Simulando o Equilíbrio da Vida - Cerrado
 
 |<img src="cerrado.png" width="70%" height="70%">  |
 | :-----:|
