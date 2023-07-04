@@ -1,4 +1,4 @@
-# De onde esse Bicho vem?
+# De onde esse bicho vem?
 
 ## Oficina PRESENCIAL disponível para agendamento
 
