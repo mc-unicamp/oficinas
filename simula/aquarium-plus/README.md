@@ -1,4 +1,4 @@
-# Aquário Virtual
+# Construindo seu Aquário Virtual
 
 |Construa um aquário virtual usando um programa de simulação e explore conceitos de cadeia alimentar, ecossistema e equilíbrio da vida.|
 | :-----: |
