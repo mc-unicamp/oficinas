@@ -8,11 +8,11 @@
  
 
 ## Faixa Etária
-Faixa etária indicada: qualquer idade.
+Faixa etária indicada: a partir de 8 anos.
 
 ## Conceitos Abordados e Habilidades
 
-Clima, tempo, grandezas meteorológicas e aparelhos de medição.
+Clima, tempo, grandezas meteorológicas e aparelhos de medição, impactos das variáveis atmosféricas na segurança e bem-estar humanos, e uso dos dados meteorológicos na previsão do tempo.
 
 |<img src="IMG_6882.JPG" width="65%" height="65%">|<img src="IMG_5607.JPG" width="110%" height="110%">|
 |:-------------:|:-------------:|
