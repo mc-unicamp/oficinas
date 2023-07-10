@@ -2,23 +2,21 @@
 
 ## Oficina PRESENCIAL disponível para agendamento
 
-## Apresentação
-
 |<img src="globoeras.png" width="70%" height="70%">|
 |:----:|
 |Globo com projeção interativa, mostra animações de fenômenos na atmosfera; movimentos das placas tectônicas e superfícies de planetas do sistema solar.|
 
 ## Faixa Etária
-Indicada para o público de 8 a 15 anos
+Indicada para o público de 8 a 15 anos.
 
 ## Conceitos abordados e Habilidades: 
-Planeta terra, Placas tectônicas e Superfície de planetas
+Planeta terra, Placas tectônicas e Superfície de planetas.
 
 |<img src="globos.png" width="70%" height="70%">|
 |:----:|
 
 ## Créditos
-EMBRAPA - Empresa Brasileira de Pesquisa Agropecuária
+CEPAGRI - Centro de Pesquisas Meteorológicas e Climáticas Aplicadas à Agricultura (Unicamp)
 
 ## Para mais informações entre em contato
 
