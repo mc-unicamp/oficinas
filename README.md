@@ -67,7 +67,7 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |**A descoberta de um Fóssil**|**Rolling Stone - O Mistério das Areias**|
 |[<img src="descof.png" width="50%" height="50%">](descobertafossil/)|[<img src="rollingstone.png" width="50%" height="50%">](areiasmundo/)|
 |**Navegação e Campos Magnéticos**|**Uma Viagem pelo Globo e suas Eras**|
-|[<img src="nav.png" width="50%" height="50%">](camposmag/)|[<img src="globo2.png" width="50%" height="50%">](globoemprapa/)|
+|[<img src="nav.png" width="50%" height="50%">](camposmag/)|[<img src="globo2.png" width="50%" height="50%">](globo3d/)|
 
 ### Matemática
 
