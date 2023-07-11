@@ -13,8 +13,9 @@ Método científico, exploração espacial, equilíbrio de forças, centro de ma
 
 ### Faixa Etária:
 
-Faixa Etária indicada: 10 a 15 anos
+* Faixa Etária indicada: 10 a 15 anos
 
+*(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*
 
 |<img src="IMG_6824.JPG" width="70%" height="70%"> | <img src="IMG_6305.JPG" width="70%" height="70%">|
 |:-----:|:-----:|
