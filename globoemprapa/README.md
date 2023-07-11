@@ -4,13 +4,13 @@
 
 |<img src="globoeras.png" width="70%" height="70%">|
 |:----:|
-|Globo com projeção interativa, mostra animações de fenômenos na atmosfera; movimentos das placas tectônicas e superfícies de planetas do sistema solar.|
+|O Globo 3D é uma importante ferramenta educacional, que traz uma maneira nova de criar experiência pública compartilhada para conteúdo 360º. É um globo com projeções interativas, em que seu software é dividido em três grandes áreas: sistema solar, as esferas da Terra e astrofísica.|
 
 ## Faixa Etária
 Indicada para o público de 8 a 15 anos.
 
 ## Conceitos abordados e Habilidades: 
-Planeta terra, Placas tectônicas e Superfície de planetas.
+Planeta terra, clima e mudanças climáticas.
 
 |<img src="globos.png" width="70%" height="70%">|
 |:----:|
