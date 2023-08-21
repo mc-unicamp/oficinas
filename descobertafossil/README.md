@@ -31,6 +31,10 @@ Oficina desenvolvida em parceria com a equipe do [Programa Tempo Profundo](http:
 
 Contato: expotempoprofundo@gmail.com
 
+<div align="center">
+  <img src="logo_tempo profundo.png" width="20%" height="20%"> <img src="logo_ig.png" width="20%" height="20%">
+</div>
+
 ## Para mais informações entre em contato
 
 * Por email museu@unicamp.br
