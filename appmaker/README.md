@@ -6,6 +6,8 @@
 | :---:|
 ||
 
+## [Mídia para a Ofina](bola-de-cristal-media/)
+
 Você vira seu celular e a fotografia gira. Seu dedo toca na tela e seu jogo emite um som de explosão.
 
 Você já se perguntou como tudo isso é possível?
