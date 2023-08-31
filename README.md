@@ -59,7 +59,7 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |:------:|
 |[<img src="cor1.png" width="25%" height="25%">](quimica-cores/)|
 
-### Geografia
+### Geociências
 
 |A História de um Fóssil|Explorando Mapas e Desenhando o Mundo|
 |:------:|:----:|
