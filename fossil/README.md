@@ -40,16 +40,6 @@ Método científico, paleontologia, fósseis, fossilização, experimentação.
 |:-----------:|:-------------:|
 |Depois de seco, é interessante impermeabilizar seu fóssil. Você pode fazer isso passando uma camada de cola branca ou verniz sobre o fóssil. Ou então pintar com tinta guache, deixando ele com cara de rocha!| ![Fóssil Pintado](osso.jpeg)|
 
-## Créditos
-
-Oficina desenvolvida em parceria com a equipe do [Programa Tempo Profundo](http://www.tempoprofundo.com/), composta por professores, pesquisadores e alunos do Instituto de Geociências da UNICAMP, e de outras instituições de Ensino Superior do Brasil, coordenada pela Professora Dra. Carolina Zabini (IG-Unicamp).
-
-Contato: expotempoprofundo@gmail.com
-
-<div align="center">
-  <img src="logo_tempo profundo.png" width="20%" height="20%"> <img src="logo_ig.png" width="20%" height="20%">
-</div>
-
 ## Para mais informações entre em contato
 
 * Por email museu@unicamp.br
