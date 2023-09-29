@@ -18,13 +18,7 @@ Método científico, ciclo das rochas, composição das rochas, intemperismo e d
 
 ## Créditos
 
-Oficina desenvolvida em parceria com a equipe do [Programa Tempo Profundo](http://www.tempoprofundo.com/), composta por professores, pesquisadores e alunos do Instituto de Geociências da UNICAMP, e de outras instituições de Ensino Superior do Brasil, coordenada pela Professora Dra. Carolina Zabini (IG-Unicamp).
-
-Contato: expotempoprofundo@gmail.com
-
-<div align="center">
-  <img src="logo_tempo profundo.png" width="20%" height="20%"> <img src="logo_ig.png" width="20%" height="20%">
-</div>
+Oficina desenvolvida em colaboração com a Profª. Drª. Christine Laure Marie Bourotte (Instituto de Geociências - Universidade de São Paulo) e com a Profª. Drª. Ana Elisa Silva de Abreu (Instituto de Geociências - Unicamp).
 
 ## Para mais informações entre em contato
 
