@@ -12,7 +12,7 @@
 
 |Faixa etária indicada: 10 a 12 anos||
 |:-------------:|:-------------:|
-|*(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*|<img src="construindo-estacao.png" width="90%" height="90%"> |
+|*(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*|<img src="IMG_const_estacao.JPG" width="50%" height="50%"> |
 
 ## Conceitos abordados e Habilidades
 
