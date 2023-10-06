@@ -4,9 +4,9 @@
 
 |<img src="construindo-estacao-banner.png" width="70%" height="70%"> |
 |:-------------:|
-| Já pensou em possuir uma estação meteorológica? Poder mensurar a velocidade do vento, variações de temperatura, pressão atmosférica e quantidade de chuva da sua casa? Nesta oficina você irá aprender a construir seus próprios equipamentos de medição meteorológica, conhecendo o funcionamento destes instrumentos e das condições do tempo.|
+|Você sabe o que é uma Estação Meteorológica? E a diferença entre Clima e Tempo? As condições climáticas possuem diversas variáveis como: pressão atmosférica, temperatura, precipitação, vento, etc. Nesta oficina você irá aprender a construir seus próprios equipamentos de medição meteorológica, além de conhecer o funcionamento e os fenômenos físicos por trás deles.|
 
-**Observação:** esta oficina é dividida em etapas, que correspondem a um equipamento de medição meteorológica específico. O agendamento corresponde a uma etapa desta oficina.
+**Observação:** esta oficina é dividida em etapas, que correspondem a um equipamento de medição meteorológica específico. O agendamento corresponde a uma etapa desta oficina. *Porém, cada etapa é independente uma da outra*.
 
 ## Faixa etária
 
