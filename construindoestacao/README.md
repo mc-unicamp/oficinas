@@ -27,37 +27,35 @@ Método científico, conceitos de clima e tempo, grandezas meteorológicas, equi
 * Canetinhas
 * Fita
 * Palito de churrasco
-* Bolinhas coloridas de plástico cortadas ao meio
-* Copos descartáveis
+* Bolinhas coloridas de plástico cortadas ao meio ou Copos descartáveis
 
 ### Barômetro
-* Água (quente e fria)
-* Garrafas térmicas
 * Canudos
 * Tesoura
 * Papel sulfite
 * Canetinhas
 * Fita
-* Bexiga 
+* Bexiga
 * Pote de vidro para conserva
 
 ### Pluviômetro
 * Água
 * Garrafas PET
 * Régua
-* Funil
+* Papel sulfite
+* Canetinhas
 * Fita
 * Tesoura
-* Algodão
+* Corante
+* Papel Milimetrado
 
-### Termômetro
+### Termômetro (termoscópio)
 * Água (quente e fria)
 * Garrafa Térmica
 * Béqueres
 * Garrafa pet 200ml
 * Canudo
 * Corante
-* Ferro de solda
 * Cola quente
 * Fita adesiva
 * Folha sulfite
