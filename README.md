@@ -33,9 +33,9 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 
 ### Ciências Ambientais
 
-|Mensagens na Garrafa|
-|:------:|
-|[<img src="garrafa1.png" width="25%" height="25%">](mensagemgarrafa/)|
+|Mensagens na garrafa|Construindo uma Estação Meteorológica|
+|:-----:|:-----:|
+|[<img src="garrafa1.png">](mensagemgarrafa/)|[<img src="construindo-estacao.png">](construindoestacao/)|
 
 ### Física
 
