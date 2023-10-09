@@ -21,7 +21,7 @@
 
 ## Conceitos abordados e Habilidades
 
-Método científico, conceitos de clima e tempo, grandezas meteorológicas, equipamentos de medição, habilidades motoras e trabalho em equipe.
+Método científico, conceitos de clima e tempo, ciências meteorológicas, coleta de dados, equipamentos de medição, habilidades motoras e trabalho em equipe.
 
 ## Materiais
 
