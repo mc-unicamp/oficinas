@@ -35,7 +35,7 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 
 |Mensagens na garrafa|Construindo uma Estação Meteorológica|
 |:-----:|:-----:|
-|[<img src="garrafa1.png">](mensagemgarrafa/)|[<img src="construindo-estacao.png">](construindoestacao/)|
+|[<img src="garrafa1.png" width="50%" height="50%">](mensagemgarrafa/)|[<img src="construindo-estacao.png" width="50%" height="50%">](construindoestacao/)|
 
 ### Física
 
