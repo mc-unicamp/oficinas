@@ -12,12 +12,12 @@
 
 |Faixa etária indicada: 10 a 12 anos||
 |:-------------:|:-------------:|
-|*(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*|<img src="IMG_const_estacao.JPG" width="70%" height="70%"> |
+|*(A equipe do Museu adora um desafio! Caso deseje agendar essa oficina para outra faixa etária, entre em contato que podemos trabalhar juntos em uma adequação de conteúdo.)*|<img src="IMG_const_estacao.JPG" width="60%" height="60%">|
 
-|<img src="IMG_3636.JPG"> |<img src="20230304_162927 (1).jpg" width="67%" height="67%">|
-|:------:|:------:|
-|<img src="20230615_152404 (1).jpg">|<img src="20230915_161651.jpg" width="67%" height="67%">|
-|<img src="20230929_170256.jpg">|<img src="IMG-20230929-WA0067.jpg" width="67%" height="67%">|
+|<img src="IMG_3636.JPG" width="70%" height="70%">|<img src="20230304_162927 (1).jpg" width="70%" height="70%">|
+|:-------------:|:-------------:|
+|<img src="20230615_152404 (1).jpg" width="70%" height="70%">|<img src="20230915_161651.jpg" width="70%" height="70%">|
+|<img src="20230929_170256.jpg" width="70%" height="70%">|<img src="IMG-20230929-WA0067.jpg" width="70%" height="70%">|
 
 ## Conceitos abordados e Habilidades
 
