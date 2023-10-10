@@ -33,9 +33,9 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 
 ### Ciências Ambientais
 
-|Mensagens na garrafa|Construindo uma Estação Meteorológica|
-|:-----:|:-----:|
-|[<img src="garrafa1.png" width="50%" height="50%">](mensagemgarrafa/)|[<img src="construindo-estacao.png" width="50%" height="50%">](construindoestacao/)|
+|Mensagens na garrafa|
+|:-----:|
+|[<img src="garrafa1.png" width="25%" height="25%">](mensagemgarrafa/)|
 
 ### Física
 
@@ -68,6 +68,10 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |[<img src="descof.png" width="50%" height="50%">](descobertafossil/)|[<img src="rollingstone.png" width="50%" height="50%">](areiasmundo/)|
 |**Navegação e Campos Magnéticos**|**Uma Viagem pelo Globo e suas Eras**|
 |[<img src="nav.png" width="50%" height="50%">](camposmag/)|[<img src="globo2.png" width="50%" height="50%">](globo3d/)|
+
+|Construindo uma Estação Meteorológica|
+|:-----:|
+|[<img src="construindo-estacao.png" width="25%" height="25%">](construindoestacao/)|
 
 ### Matemática
 
