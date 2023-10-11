@@ -31,4 +31,3 @@ CEPAGRI - Centro de Pesquisas Meteorológicas e Climáticas Aplicadas à Agricul
     <img src="instagram-ícone.png" alt="https://www.instagram.com/mcunicamp/" width="3%" height="3%"> 
   <a href="https://www.tiktok.com/@mcunicamp">
     <img src="tiktok-ícone.png" alt="https://www.tiktok.com/@mcunicamp" width="3%" height="3%">
-</div>
