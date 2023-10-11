@@ -23,3 +23,7 @@ CEPAGRI - Centro de Pesquisas Meteorológicas e Climáticas Aplicadas à Agricul
 * Por email museu@unicamp.br
 
 * Ou acesse o [Site oficial do Museu](https://www.mc.unicamp.br/visite)
+
+<div align="center">
+  <img src="facebook-ícone.png" width="3%" height="3%"> <img src="instagram-ícone.png" width="4%" height="4%"> <img src="tiktok-ícone.png" width="3%" height="3%">
+</div>
