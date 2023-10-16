@@ -50,7 +50,7 @@ Método científico, mudanças climáticas, fenômenos ambientais, condições n
 ## Autoras
 Essa oficina foi idealizada e desenvolvida por alunas de graduação durante uma disciplina de estágio de licenciatura no Museu.
 
-<img src="levs.jpeg" width="20%" height="20%">
+  <img src="levs.jpeg" width="20%" height="20%">
 
 **[Cecília Damiano](http://lattes.cnpq.br/5058348826136179)** 
 [✉️](mailto:c195629@dac.unicamp.br)
@@ -64,7 +64,17 @@ Essa oficina foi idealizada e desenvolvida por alunas de graduação durante uma
 **[Paloma Messias](http://lattes.cnpq.br/0485200457965458)** 
 [✉️](mailto:p204297@dac.unicamp.br)
 
+
 ## Para mais informações entre em contato
 
 * Por email: museu@unicamp.br
 * Ou acesse o [Site Oficial do Museu](https://www.mc.unicamp.br/visite)
+
+<div align="center">
+  <a href="https://www.facebook.com/mcunicamp/">
+    <img src="../facebook-ícone.png" alt="https://www.facebook.com/mcunicamp/" width="5%" height="5%"> 
+  <a href="https://www.instagram.com/mcunicamp/">
+    <img src="../instagram-ícone.png" alt="https://www.instagram.com/mcunicamp/" width="5%" height="5%"> 
+  <a href="https://www.tiktok.com/@mcunicamp">
+    <img src="../tiktok-ícone.png" alt="https://www.tiktok.com/@mcunicamp" width="5%" height="5%">
+  </div>
