@@ -76,3 +76,10 @@ Esta oficina foi elaborada por [Natalia Diniz](http://lattes.cnpq.br/43785269386
 * Por email: museu@unicamp.br
 * Ou acesse o [Site Oficial do Museu](https://www.mc.unicamp.br/visite)
 
+<div align="center">
+  <a href="https://www.facebook.com/mcunicamp/">
+    <img src="../facebook-ícone.png" alt="https://www.facebook.com/mcunicamp/" width="5%" height="5%"> 
+  <a href="https://www.instagram.com/mcunicamp/">
+    <img src="../instagram-ícone.png" alt="https://www.instagram.com/mcunicamp/" width="5%" height="5%"> 
+  <a href="https://www.tiktok.com/@mcunicamp">
+    <img src="../tiktok-ícone.png" alt="https://www.tiktok.com/@mcunicamp" width="5%" height="5%">
