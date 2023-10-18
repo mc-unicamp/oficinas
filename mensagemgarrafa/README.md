@@ -45,4 +45,3 @@ Método científico, distribuição da água no planeta, tratamento da água.
     <img src="../instagram-ícone.png" alt="https://www.instagram.com/mcunicamp/" width="5%" height="5%"> 
   <a href="https://www.tiktok.com/@mcunicamp">
     <img src="../tiktok-ícone.png" alt="https://www.tiktok.com/@mcunicamp" width="5%" height="5%">
-</div>
