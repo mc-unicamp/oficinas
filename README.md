@@ -2,7 +2,7 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 
 ## Oficinas Práticas
 
-|<img src="museub.png" width="50%" height="50%">|
+|![Banner do Museu](museub-small.png)|
 |:-----:|
 |Através de diferentes disciplinas e tecnologias, o método e a construção do conhecimento científico são trabalhados em nossas oficinas.|
 
