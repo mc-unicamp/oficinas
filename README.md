@@ -46,8 +46,8 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |[<img src="avipapel1.png" width="50%" height="50%">](avioes/)|[<img src="aviao1.png" width="50%" height="50%">](aviaomaker/)|
 |**Foguetes de Cartolina**|**Mensagens na Luz - Espectrômetro Caseiro**|
 |[<img src="foguete1.png" width="50%" height="50%">](foguetes/)|[<img src="luz1.png" width="50%" height="50%">](espectrometro/)|
-|**Planet Hunters**| **A Ciência por trás da música**|
-|[<img src="planet1.png" width="50%" height="50%">](planet/)|[<img src="musica1.png" width="50%" height="50%">](musica/)|
+| **A Ciência por trás da música**|
+|[<img src="musica1.png" width="50%" height="50%">](musica/)|
 |**Lançamento de Foguetes**|**Aterrissagem Interplanetária**|
 |[<img src="lancamento.png" width="50%" height="50%">](lançamento/)|[<img src="aterissagem.png" width="50%" height="50%">](aterrinter/)|
 
@@ -128,8 +128,10 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 
 |De Onde Esse Bicho Vem?|
 |:------:|
-|[<img src="deonde1.png" width="25" height="25%">](bicho/)|
-
+|[<img src="deonde1.png" width="25%" height="25%">](bicho/)|
+|**Planet Hunters**|
+|:------:|
+|[<img src="planet1.png" width="50%" height="50%">](planet/)|
 ## Este site foi escrito em Markdown
 
 Veja como usá-lo neste link: [Markdown](docs/).
