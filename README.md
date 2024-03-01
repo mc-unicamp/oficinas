@@ -8,6 +8,9 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 
 **OBS:** Clique na imagem para saber mais sobre a oficina.
 
+|Oficinas Oferecidas Atualmente|
+|:------:|
+
 |Praça Tempo Espaço|
 |:------:|
 |[<img src="praça.png" width="25%" height="25%">](praca/)|
