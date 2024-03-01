@@ -8,7 +8,7 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 
 **OBS:** Clique na imagem para saber mais sobre a oficina.
 
-Oficinas que estão sendo oferecidas nesta temporada
+**Oficinas que estão sendo oferecidas nesta temporada**
 
 |Praça Tempo Espaço|
 |:------:|
@@ -30,7 +30,7 @@ Oficinas que estão sendo oferecidas nesta temporada
 |[<img src="eco1.png" width="50%" height="50%">](ecoesfera/)|[<img src="papiru1.png" width="50%" height="50%">](papyrus/)|
 |**Investigando os Limites da Vida**|
 |[<img src="vida1.png" width="50%" height="50%">](levedura/)|
-||  [Material para Educadores - Investigando os Limites da Vida](treinamento-levedura/) |
+|[Material para Educadores - Investigando os Limites da Vida](treinamento-levedura/) |
 
 
 ### Ciências Ambientais
@@ -124,7 +124,7 @@ Oficinas que estão sendo oferecidas nesta temporada
 |:------:|
 |[<img src="zombie.png" width="25%" height="25%">](https://bit.ly/museu-zumbi)|
 
-Oficinas que não estão sendo oferecidas nesta temporada
+**Oficinas que não estão sendo oferecidas nesta temporada**
 
 |**De Onde Esse Bicho Vem?**|
 |:------:|
