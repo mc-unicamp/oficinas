@@ -8,7 +8,7 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 
 **OBS:** Clique na imagem para saber mais sobre a oficina.
 
-|Oficinas Oferecidas Atualmente|
+|Oficinas que estão sendo oferecidas nesta temporada|
 |:------:|
 
 |Praça Tempo Espaço|
@@ -29,8 +29,8 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |Construindo uma EcoEsfera|A Evolução de _Avis papyrus_|
 |:------:|:----:|
 |[<img src="eco1.png" width="50%" height="50%">](ecoesfera/)|[<img src="papiru1.png" width="50%" height="50%">](papyrus/)|
-|**De Onde Esse Bicho Vem?**|**Investigando os Limites da Vida**|
-|[<img src="deonde1.png" width="50%" height="50%">](bicho/)|[<img src="vida1.png" width="50%" height="50%">](levedura/)|
+|**Investigando os Limites da Vida**|
+|[<img src="vida1.png" width="50%" height="50%">](levedura/)|
 ||  [Material para Educadores - Investigando os Limites da Vida](treinamento-levedura/) |
 
 
@@ -125,7 +125,10 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |:------:|
 |[<img src="zombie.png" width="25%" height="25%">](https://bit.ly/museu-zumbi)|
 
-
+|Oficinas que não estão sendo oferecidas nesta temporada|
+|:------:|
+|**De Onde Esse Bicho Vem?**|
+|[<img src="deonde1.png" width="50%" height="50%">](bicho/)|
 ## Este site foi escrito em Markdown
 
 Veja como usá-lo neste link: [Markdown](docs/).
