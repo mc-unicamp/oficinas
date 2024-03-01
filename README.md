@@ -8,7 +8,7 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 
 **OBS:** Clique na imagem para saber mais sobre a oficina.
 
-**Oficinas que estão sendo oferecidas nesta temporada**
+##**Oficinas que estão sendo oferecidas nesta temporada**
 
 |Praça Tempo Espaço|
 |:------:|
@@ -124,7 +124,7 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |:------:|
 |[<img src="zombie.png" width="25%" height="25%">](https://bit.ly/museu-zumbi)|
 
-**Oficinas que não estão sendo oferecidas nesta temporada**
+##**Oficinas que não estão sendo oferecidas nesta temporada**
 
 |**De Onde Esse Bicho Vem?**|
 |:------:|
