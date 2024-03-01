@@ -22,7 +22,6 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |:------:|
 |[<img src="biscoito.png" width="25%" height="25%">](fab3dbiscoito/)|
 
-
 ### Biologia
 
 |**Construindo uma EcoEsfera**|
@@ -33,7 +32,6 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |**Investigando os Limites da Vida**|
 |[<img src="vida1.png" width="25%" height="25%">](levedura/)|
 |[Material para Educadores - Investigando os Limites da Vida](treinamento-levedura/) |
-
 
 ### Ciências Ambientais
 
@@ -48,11 +46,12 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |[<img src="avipapel1.png" width="50%" height="50%">](avioes/)|[<img src="aviao1.png" width="50%" height="50%">](aviaomaker/)|
 |**Foguetes de Cartolina**|**Mensagens na Luz - Espectrômetro Caseiro**|
 |[<img src="foguete1.png" width="50%" height="50%">](foguetes/)|[<img src="luz1.png" width="50%" height="50%">](espectrometro/)|
-| **A Ciência por trás da música**|**Lançamento de Foguetes**|**Aterrissagem Interplanetária**|
-|[<img src="musica1.png" width="50%" height="50%">](musica/)|[<img src="lancamento.png" width="50%" height="50%">](lançamento/)|[<img src="aterissagem.png" width="50%" height="50%">](aterrinter/)|
+|**A Ciência por trás da música**|**Lançamento de Foguetes**|
+|[<img src="musica1.png" width="50%" height="50%">](musica/)|[<img src="lancamento.png" width="50%" height="50%">](lançamento/)|
 
-
-
+|**Aterrissagem Interplanetária**|
+|:------:|
+[<img src="aterissagem.png" width="25%" height="25%">](aterrinter/)|
 
 ### Química
 
@@ -74,8 +73,6 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |:-----:|
 |[<img src="construindo-estacao.png" width="25%" height="25%">](construindoestacao/)|
 
-
-
 ## Oficinas de Simulação
 
 ### Equilíbrio Ecológico
@@ -84,12 +81,9 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |:------:|
 |[<img src="mo.png" width="25%" height="25%">](https://bit.ly/museu-micro)|
 
-
 |Construindo seu Aquário Virtual|Simulando o Equilíbrio da Vida - Cerrado|
 |:------:|:------:|
 |[<img src="aquario.png" width="50%" height="50%">](simula/aquarium-plus/)|[<img src="cerrado.png" width="50%" height="50%">](simula/cerrado/)|
-
-
 
 ### Simulação Física
 
@@ -117,23 +111,19 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |[<img src="nav.png" width="25%" height="25%">](camposmag/)|
 |**Uma Viagem pelo Globo e suas Eras**|
 [<img src="globo2.png" width="25%" height="25%">](globo3d/)|
-### Matemática
 
 |Mundo dos Bloquinhos|Explorando a Matemática dos Jogos|
 |:------:|:----:|
 |[<img src="bloquinho1.png" width="50%" height="50%">](bloquinhos/)|[<img src="jogos1.png" width="50%" height="50%">](jogosmatematica/)|
 
-
-### Programação
-
 |Maker de Aplicativos|Máquinas que Aprendem: Júnior e Avançado|
 |:------:|:----:|
 |[<img src="app.png" width="50%" height="50%">](appmaker/)|[<img src="maquina.png" width="50%" height="50%">](ml/)|
-### Vírus e Contaminação
 
 |Simulando um Vírus para entender Doenças|
 |:------:|
 |[<img src="virus.png" width="25%" height="25%">](simula/contagion/)|
+
 ## Este site foi escrito em Markdown
 
 Veja como usá-lo neste link: [Markdown](docs/).
