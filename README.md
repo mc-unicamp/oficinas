@@ -127,6 +127,7 @@ Oficinas que estão sendo oferecidas nesta temporada
 Oficinas que não estão sendo oferecidas nesta temporada
 
 |**De Onde Esse Bicho Vem?**|
+|:------:|
 |[<img src="deonde1.png" width="50%" height="50%">](bicho/)|
 ## Este site foi escrito em Markdown
 
