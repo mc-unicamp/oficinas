@@ -25,11 +25,13 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 
 ### Biologia
 
-|Construindo uma EcoEsfera|A Evolução de _Avis papyrus_|
-|:------:|:----:|
-|[<img src="eco1.png" width="50%" height="50%">](ecoesfera/)|[<img src="papiru1.png" width="50%" height="50%">](papyrus/)|
+|**Construindo uma EcoEsfera**|
+|:------:|
+|[<img src="eco1.png" width="25%" height="25%">](ecoesfera/)|
+|**A Evolução de _Avis papyrus_**|
+[<img src="papiru1.png" width="25%" height="25%">](papyrus/)|
 |**Investigando os Limites da Vida**|
-|[<img src="vida1.png" width="50%" height="50%">](levedura/)|
+|[<img src="vida1.png" width="25%" height="25%">](levedura/)|
 |[Material para Educadores - Investigando os Limites da Vida](treinamento-levedura/) |
 
 
@@ -130,9 +132,11 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |**Planet Hunters**|
 |[<img src="planet1.png" width="25%" height="25%">](planet/)|
 |**Explorando Mapas e Desenhando o Mundo**|
-[<img src="mundo1.png" width="50%" height="50%">](mapas/)|
-|**Navegação e Campos Magnéticos**|**Uma Viagem pelo Globo e suas Eras**|
-|[<img src="nav.png" width="50%" height="50%">](camposmag/)|[<img src="globo2.png" width="50%" height="50%">](globo3d/)|
+[<img src="mundo1.png" width="25%" height="25%">](mapas/)|
+|**Navegação e Campos Magnéticos**|
+|[<img src="nav.png" width="25%" height="25%">](camposmag/)|
+|**Uma Viagem pelo Globo e suas Eras**|
+[<img src="globo2.png" width="25%" height="25%">](globo3d/)|
 
 ## Este site foi escrito em Markdown
 
