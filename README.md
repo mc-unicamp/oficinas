@@ -63,13 +63,11 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 
 ### Geociências
 
-|A História de um Fóssil|Explorando Mapas e Desenhando o Mundo|
+|**A História de um Fóssil**|
 |:------:|:----:|
-|[<img src="fossil1.png" width="50%" height="50%">](fossil/)|[<img src="mundo1.png" width="50%" height="50%">](mapas/)|
+|[<img src="fossil1.png" width="50%" height="50%">](fossil/)|
 |**A descoberta de um Fóssil**|**Rolling Stone - O Mistério das Areias**|
 |[<img src="descof.png" width="50%" height="50%">](descobertafossil/)|[<img src="rollingstone.png" width="50%" height="50%">](areiasmundo/)|
-|**Navegação e Campos Magnéticos**|**Uma Viagem pelo Globo e suas Eras**|
-|[<img src="nav.png" width="50%" height="50%">](camposmag/)|[<img src="globo2.png" width="50%" height="50%">](globo3d/)|
 
 |Construindo uma Estação Meteorológica|
 |:-----:|
@@ -126,12 +124,16 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 
 ## Oficinas que não estão sendo oferecidas nesta temporada
 
-|De Onde Esse Bicho Vem?|
+|**De Onde Esse Bicho Vem?**|
 |:------:|
 |[<img src="deonde1.png" width="25%" height="25%">](bicho/)|
 |**Planet Hunters**|
-|:------:|
-|[<img src="planet1.png" width="50%" height="50%">](planet/)|
+|[<img src="planet1.png" width="25%" height="25%">](planet/)|
+|**Explorando Mapas e Desenhando o Mundo**|
+[<img src="mundo1.png" width="50%" height="50%">](mapas/)|
+|**Navegação e Campos Magnéticos**|**Uma Viagem pelo Globo e suas Eras**|
+|[<img src="nav.png" width="50%" height="50%">](camposmag/)|[<img src="globo2.png" width="50%" height="50%">](globo3d/)|
+
 ## Este site foi escrito em Markdown
 
 Veja como usá-lo neste link: [Markdown](docs/).
