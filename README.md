@@ -126,9 +126,10 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 
 ## Oficinas que não estão sendo oferecidas nesta temporada
 
-|**De Onde Esse Bicho Vem?**|
+|De Onde Esse Bicho Vem?|
 |:------:|
-|[<img src="deonde1.png" width="50%" height="50%">](bicho/)|
+|[<img src="deonde1.png" width="25" height="25%">](bicho/)|
+
 ## Este site foi escrito em Markdown
 
 Veja como usá-lo neste link: [Markdown](docs/).
