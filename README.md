@@ -54,9 +54,6 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |[<img src="lancamento.png" width="50%" height="50%">](lançamento/)|[<img src="aterissagem.png" width="50%" height="50%">](aterrinter/)|
 
 
-
-
-
 ### Química
 
 |Laboratório de Cores|
@@ -66,27 +63,17 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 ### Geociências
 
 |**A História de um Fóssil**|
-|:------:|:----:|
-|[<img src="fossil1.png" width="50%" height="50%">](fossil/)|
-|**A descoberta de um Fóssil**|**Rolling Stone - O Mistério das Areias**|
-|[<img src="descof.png" width="50%" height="50%">](descobertafossil/)|[<img src="rollingstone.png" width="50%" height="50%">](areiasmundo/)|
+|:------:|
+|[<img src="fossil1.png" width="25%" height="25%">](fossil/)|
+|**A descoberta de um Fóssil**|
+|[<img src="descof.png" width="25%" height="25%">](descobertafossil/)|
+|**Rolling Stone - O Mistério das Areias**|
+[<img src="rollingstone.png" width="25%" height="25%">](areiasmundo/)|
 
 |Construindo uma Estação Meteorológica|
 |:-----:|
 |[<img src="construindo-estacao.png" width="25%" height="25%">](construindoestacao/)|
 
-### Matemática
-
-|Mundo dos Bloquinhos|Explorando a Matemática dos Jogos|
-|:------:|:----:|
-|[<img src="bloquinho1.png" width="50%" height="50%">](bloquinhos/)|[<img src="jogos1.png" width="50%" height="50%">](jogosmatematica/)|
-
-
-### Programação
-
-|Maker de Aplicativos|Máquinas que Aprendem: Júnior e Avançado|
-|:------:|:----:|
-|[<img src="app.png" width="50%" height="50%">](appmaker/)|[<img src="maquina.png" width="50%" height="50%">](ml/)|
 
 
 ## Oficinas de Simulação
@@ -102,13 +89,6 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |:------:|:------:|
 |[<img src="aquario.png" width="50%" height="50%">](simula/aquarium-plus/)|[<img src="cerrado.png" width="50%" height="50%">](simula/cerrado/)|
 
-
-
-### Vírus e Contaminação
-
-|Simulando um Vírus para entender Doenças|
-|:------:|
-|[<img src="virus.png" width="25%" height="25%">](simula/contagion/)|
 
 
 ### Simulação Física
@@ -137,7 +117,23 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |[<img src="nav.png" width="25%" height="25%">](camposmag/)|
 |**Uma Viagem pelo Globo e suas Eras**|
 [<img src="globo2.png" width="25%" height="25%">](globo3d/)|
+### Matemática
 
+|Mundo dos Bloquinhos|Explorando a Matemática dos Jogos|
+|:------:|:----:|
+|[<img src="bloquinho1.png" width="50%" height="50%">](bloquinhos/)|[<img src="jogos1.png" width="50%" height="50%">](jogosmatematica/)|
+
+
+### Programação
+
+|Maker de Aplicativos|Máquinas que Aprendem: Júnior e Avançado|
+|:------:|:----:|
+|[<img src="app.png" width="50%" height="50%">](appmaker/)|[<img src="maquina.png" width="50%" height="50%">](ml/)|
+### Vírus e Contaminação
+
+|Simulando um Vírus para entender Doenças|
+|:------:|
+|[<img src="virus.png" width="25%" height="25%">](simula/contagion/)|
 ## Este site foi escrito em Markdown
 
 Veja como usá-lo neste link: [Markdown](docs/).
