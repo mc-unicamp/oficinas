@@ -4,40 +4,27 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 
 |![Banner do Museu](museub-small.png)|
 |:-----:|
-|Através de diferentes disciplinas e tecnologias, o método e a construção do conhecimento científico são trabalhados em nossas oficinas.|
+|Explore o  mundo da ciência através das nossas oficinas com abordagem prática e interativa! 
+Nosso catálogos oferece uma variedade de experiências educacionais que vão desde experimentos práticos até a exploração de novas tecnologias. Ao participar das nossas oficinas, as crianças terão a oportunidade de desenvolver habilidades de pensamento crítico, colaboração e resolução de problemas utilizando o metodo cientifico de forma divertida. |
 
 **OBS:** Clique na imagem para saber mais sobre a oficina.
 
-## Oficinas que estão sendo oferecidas nesta temporada
+## Oficinas oferecidas nesta temporada
 
-|Praça Tempo Espaço|
-|:------:|
-|[<img src="praça.png" width="25%" height="25%">](praca/)|
+|Praça Tempo Espaço|Estação Meteorológica|
+|:------:|:----:|
+|[<img src="praça.png" width="50%" height="50%">](praca/)|[<img src="estacao.png" width="70%" height="70%">](estacaometeorologica/)|
 
-|Estação Meteorológica|
-|:------:|
-|[<img src="estacao.png" width="25%" height="25%">](estacaometeorologica/)|
-
-|Fabrica 3D e a ciência dos biscoitos|
-|:------:|
-|[<img src="biscoito.png" width="25%" height="25%">](fab3dbiscoito/)|
 
 ### Biologia
 
-|**Construindo uma EcoEsfera**|
-|:------:|
-|[<img src="eco1.png" width="25%" height="25%">](ecoesfera/)|
-|**A Evolução de _Avis papyrus_**|
-[<img src="papiru1.png" width="25%" height="25%">](papyrus/)|
-|**Investigando os Limites da Vida**|
-|[<img src="vida1.png" width="25%" height="25%">](levedura/)|
-|[Material para Educadores - Investigando os Limites da Vida](treinamento-levedura/) |
+|**Construindo uma EcoEsfera**|**A Evolução de _Avis papyrus_**|
+|:------:|:----:|
+|[<img src="eco1.png" width="50%" height="50%">](ecoesfera/)|[<img src="papiru1.png" width="50%" height="50%">](papyrus/)|
+|**Investigando os Limites da Vida**|**Mensagens na garrafa**|
+|[<img src="vida1.png" width="50%" height="50%">](levedura/)|[<img src="garrafa1.png" width="50%" height="50%">](mensagemgarrafa/)|
+|[Material para Educadores - Investigando os Limites da Vida](treinamento-levedura/) |Ciências Ambientais|
 
-### Ciências Ambientais
-
-|Mensagens na garrafa|
-|:-----:|
-|[<img src="garrafa1.png" width="25%" height="25%">](mensagemgarrafa/)|
 
 ### Física
 
@@ -55,23 +42,19 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 
 ### Química
 
-|Laboratório de Cores|
-|:------:|
-|[<img src="cor1.png" width="25%" height="25%">](quimica-cores/)|
+|**Laboratório de Cores**|**Fabrica 3D e a ciência dos biscoitos**|
+|:------:|:------:|
+|[<img src="cor1.png" width="50%" height="50%">](quimica-cores/)|[<img src="biscoito.png" width="50%" height="50%">](fab3dbiscoito/)|
+|  |Engenharia de Alimentos|
 
 ### Geociências
 
-|**A História de um Fóssil**|
-|:------:|
-|[<img src="fossil1.png" width="25%" height="25%">](fossil/)|
-|**A descoberta de um Fóssil**|
-|[<img src="descof.png" width="25%" height="25%">](descobertafossil/)|
-|**Rolling Stone - O Mistério das Areias**|
-[<img src="rollingstone.png" width="25%" height="25%">](areiasmundo/)|
+|**A História de um Fóssil**|**A descoberta de um Fóssil**|
+|:------:|:----:|
+|[<img src="fossil1.png" width="50%" height="50%">](fossil/)|[<img src="descof.png" width="50%" height="50%">](descobertafossil/)|
+|**Rolling Stone - O Mistério das Areias**|**Construindo uma Estação Meteorológica**|
+[<img src="rollingstone.png" width="50%" height="50%">](areiasmundo/)|[<img src="construindo-estacao.png" width="50%" height="50%">](construindoestacao/)|
 
-|Construindo uma Estação Meteorológica|
-|:-----:|
-|[<img src="construindo-estacao.png" width="25%" height="25%">](construindoestacao/)|
 
 ## Oficinas de Simulação
 
@@ -100,17 +83,13 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 
 ## Oficinas que não estão sendo oferecidas nesta temporada
 
-|**De Onde Esse Bicho Vem?**|
-|:------:|
-|[<img src="deonde1.png" width="25%" height="25%">](bicho/)|
-|**Planet Hunters**|
-|[<img src="planet1.png" width="25%" height="25%">](planet/)|
-|**Explorando Mapas e Desenhando o Mundo**|
-[<img src="mundo1.png" width="25%" height="25%">](mapas/)|
-|**Navegação e Campos Magnéticos**|
-|[<img src="nav.png" width="25%" height="25%">](camposmag/)|
-|**Uma Viagem pelo Globo e suas Eras**|
-[<img src="globo2.png" width="25%" height="25%">](globo3d/)|
+|**De Onde Esse Bicho Vem?**|**Planet Hunters**|
+|:------:|:------:|
+|[<img src="deonde1.png" width="50%" height="50%">](bicho/)|[<img src="planet1.png" width="50%" height="50%">](planet/)|
+|**Explorando Mapas e Desenhando o Mundo**|**Navegação e Campos Magnéticos**|
+[<img src="mundo1.png" width="50%" height="50%">](mapas/)|[<img src="nav.png" width="50%" height="50%">](camposmag/)|
+|**Uma Viagem pelo Globo e suas Eras**|**Simulando um Vírus para entender Doenças**|
+[<img src="globo2.png" width="50%" height="50%">](globo3d/)|[<img src="virus.png" width="50%" height="50%">](simula/contagion/)|
 
 |Mundo dos Bloquinhos|Explorando a Matemática dos Jogos|
 |:------:|:----:|
@@ -120,9 +99,6 @@ Oficinas desenvolvidas ou aplicadas no Museu Exploratório de Ciências da Unica
 |:------:|:----:|
 |[<img src="app.png" width="50%" height="50%">](appmaker/)|[<img src="maquina.png" width="50%" height="50%">](ml/)|
 
-|Simulando um Vírus para entender Doenças|
-|:------:|
-|[<img src="virus.png" width="25%" height="25%">](simula/contagion/)|
 
 ## Este site foi escrito em Markdown
 
