@@ -11,9 +11,9 @@ Nosso catálogo oferece uma variedade de experiências educacionais que vão des
 
 ## Oficinas oferecidas nesta temporada
 
-|Praça Tempo Espaço|Estação Meteorológica|
-|:------:|:----:|
-|[<img src="praça.png" width="50%" height="50%">](praca/)|[<img src="estacao.png" width="70%" height="70%">](estacaometeorologica/)|
+|Praça Tempo Espaço|
+|:------:|
+|[<img src="praça.png" width="50%" height="50%">](praca/)|
 
 ### Biologia
 
