@@ -13,7 +13,7 @@ Nosso catálogo oferece uma variedade de experiências educacionais que vão des
 
 |Praça Tempo Espaço|
 |:------:|
-|[<img src="praça.png" width="50%" height="50%">](praca/)|
+|[<img src="praça.png" width="25%" height="25%">](praca/)|
 
 ### Biologia
 
@@ -23,25 +23,25 @@ Nosso catálogo oferece uma variedade de experiências educacionais que vão des
 
 |**Investigando os Limites da Vida**|
 |:------:|
-|[<img src="vida1.png" width="50%" height="50%">](levedura/)|
+|[<img src="vida1.png" width="25%" height="25%">](levedura/)|
 
 ### Física
 
 |**Lançamento de Foguetes**|**Aterrissagem Interplanetária**|
 |:------:|:------:|
-|[<img src="lancamento.png" width="50%" height="50%">](lançamento/)|[<img src="aterissagem.png" width="25%" height="25%">](aterrinter/)|
+|[<img src="lancamento.png" width="50%" height="50%">](lançamento/)|[<img src="aterissagem.png" width="50%" height="50%">](aterrinter/)|
 
 ### Química
 
 |**Fabrica 3D e a ciência dos biscoitos**|
 |:------:|
-|[<img src="biscoito.png" width="50%" height="50%">](fab3dbiscoito/)|
+|[<img src="biscoito.png" width="25%" height="25%">](fab3dbiscoito/)|
 
 ### Geociências
 
 |**Construindo uma Estação Meteorológica**|
 |:------:|
-|[<img src="construindo-estacao.png" width="50%" height="50%">](construindoestacao/)|
+|[<img src="construindo-estacao.png" width="25%" height="25%">](construindoestacao/)|
 
 ---
 
