@@ -30,7 +30,7 @@ Nosso catálogo oferece uma variedade de experiências educacionais que vão des
 ### Geociências
 
 |**Construindo uma Estação Meteorológica**|**Estação Meteorológica e Educação Climática**|
-|:---:|:------:|
+|:-:|:----------:|
 |[<img src="construindo-estacao.png" width="25%" height="25%">](construindoestacao/)|[<img src="labeduc.png" width="75%">](labeduc/)|
 
 ---
