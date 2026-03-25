@@ -28,11 +28,13 @@ Nosso catálogo oferece uma variedade de experiências educacionais que vão des
 |[<img src="lancamento.png" width="50%" height="50%">](lançamento/)|[<img src="aterissagem.png" width="50%" height="50%">](aterrinter/)|
 
 ### Geociências
+
 |**Construindo uma Estação Meteorológica**|**Estação Meteorológica e Educação Climática**|
 |:------:|:------:|
-|[<img src="construindo-estacao.png" width="50%" height="50%">](construindoestacao/)|[<img src="labeduc.png" width="50%" height="50%">](CEPAGRI.png)|
+|[<img src="construindo-estacao.png" width="50%">](construindoestacao/)|[<img src="labeduc.png" width="50%">](CEPAGRI.png)|
 
 ---
+
 
 ## Este site foi escrito em Markdown
 
