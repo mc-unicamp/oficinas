@@ -35,7 +35,7 @@ Nosso catálogo oferece uma variedade de experiências educacionais que vão des
 
 |**Estação Meteorológica e Educação Climática**|
 |:------:|
-|[<img src="labeduc.png" width="25%" height="25%">](labeduc/)|
+|[<img src="labeduc.png" width="75%" height="75%">](labeduc/)|
 ---
 
 ## Este site foi escrito em Markdown
