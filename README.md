@@ -33,6 +33,9 @@ Nosso catálogo oferece uma variedade de experiências educacionais que vão des
 |:------:|
 |[<img src="construindo-estacao.png" width="25%" height="25%">](construindoestacao/)|
 
+|**Estação Meteorológica e Educação Climática**|
+|:------:|
+|[<img src="labeduc.png" width="25%" height="25%">](construindoestacao/)|
 ---
 
 ## Este site foi escrito em Markdown
