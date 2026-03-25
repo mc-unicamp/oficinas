@@ -31,19 +31,33 @@ Nosso catálogo oferece uma variedade de experiências educacionais que vão des
 
 <div align="center">
 
-| Construindo uma Estação Meteorológica |
-|:------------------------------------:|
-| [<img src="construindo-estacao.png" width="250">](construindoestacao/) |
+<table width="100%">
+<tr>
+<td align="center">
 
-</div>
+<strong>Construindo uma Estação Meteorológica</strong><br>
+<a href="construindoestacao/">
+  <img src="construindo-estacao.png" width="250">
+</a>
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td align="center">
 
-| Estação Meteorológica e Educação Climática |
-|:-----------------------------------------:|
-| [<img src="labeduc.png" width="250">](labeduc/) |
+<strong>Estação Meteorológica e Educação Climática</strong><br>
+<a href="labeduc/">
+  <img src="labeduc.png" width="250">
+</a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
