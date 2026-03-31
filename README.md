@@ -31,7 +31,7 @@ Nosso catálogo oferece uma variedade de experiências educacionais que vão des
 
 | **Lançamento de Foguetes** | **Aterrissagem Interplanetária** |
 |:------:|:------:|
-| [<img src="lancamento.png" width="50%">](lancamento/) | [<img src="aterissagem.png" width="50%">](aterrinter/) |
+| [<img src="lancamento.png" width="50%">](lançamento/) | [<img src="aterissagem.png" width="50%">](aterrinter/) |
 
 ---
 
